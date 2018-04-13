@@ -18,7 +18,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 <br>
 <br>
 
-## 9/5 (Mon) - when replaying see if you can reduce pointless area sections and put into another
+## 9/5 (Mon)
 
 ### My room:
 - Right click to use your phone -> Check your messages -> Right click to put it away
@@ -137,7 +137,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 - Sofia -> Talk -> Ask the three questions -> That's all.
 - *New sidequest: Sofia's unusual request*
 - Go back to the entrance hall and save your game
-- Read my tips for the basketball minigame linkkkkkk hereeeeeeeeeeeeeeeeeeeee
+- [Read my tips for the basketball minigame](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#basketball-with-sofia)
 - You should always get 3/3 baskets so savewhore if you need to, it's not hard to get all 3
 - Play ball (+3 Effort) (+1 Romance)
 
@@ -373,7 +373,7 @@ No one | +1 Zoe
 
 ### Job agency:
 - when does quest complete??????????
-- Read my mingame notes here..s..sdfs
+- [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)
 - You should sell all 12 items, but as long as you sell at least 9 then I guess you're fine
 - Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
 
