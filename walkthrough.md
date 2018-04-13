@@ -326,11 +326,28 @@ No one | +1 Zoe
 ### My room:
 - Bed -> Sleep
 - Bed -> Save game
-- this night you can open garage...do i wait? ...... also if hypno can go to sis room?
+- hypno can go to sis room
 
 ---
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Everything below here I'm still working on
+
 
 ## 9/10 (Sat)
 
@@ -346,9 +363,8 @@ No one | +1 Zoe
 ---
 
 ### Town:
-- violet quest really buggy..- violet quest really buggy..- violet quest really buggy..
-- violet quest really buggy..
-- BUY DRILL FOR EVENT TONGIHT
+- violet quest really buggy..........................................
+- buy drill for event tonight
 - Search the dumpster to your left (Received BDSM blindfold)
 - Search both dumpsters in the park at the center of town (2x Received BDSM tape)
 - Search the dumpster right of the park (Received BDSM gag)
@@ -364,15 +380,13 @@ No one | +1 Zoe
 <br>
 <br>
 <br>
-<br>
-<br>
 
 - Go to the job agency left of the cafe
 
 ---
 
 ### Job agency:
-- when does quest complete??????????
+- when does quest complete?
 - [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
 - You should sell all 12 items, but as long as you sell at least 9 then I guess you're fine
 - Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
@@ -383,23 +397,21 @@ No one | +1 Zoe
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 ### Town:
 - Go south and talk to Zoe
 - Talk -> Optional: Ask the four questions -> That's all.
-- ALWAYS MAKES THE GAME NIGHT. wait till evening to do this!!!!
+-  This always makes the game night!. wait till evening to do this!
 
 ### cafe quest
-- legit just walk inside, no choices, it tele u outside
+- just walk inside, no choices, teleports outside after
 
 ### sunday
 - peepin gtom, choices when talking to him dont matter, no variable checks
-- talk to basketball -> give dildo (+5 romance. -> complete quest ..... nothing else happens. maybe wait, cuz looks dumb and not cute liek with loli pop.
+- talk to basketball -> give dildo (+5 romance. -> complete quest ..... nothing else happens. maybe wait, cuz removes lollipop so looks a bit dumb.
 
-### SPY ON sister
+### spy on sister
 - sunday night need drill
 
 ### Week 1 Progress Report:
@@ -422,4 +434,3 @@ Zoe | Lvl 0 | (?/5)
 - classroom 10 , win game = +3 knowledge
 - answers for all math day stuff are on teacher event
 - doesnt look like anything special afterwards just normal day
-
