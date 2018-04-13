@@ -12,8 +12,7 @@
 <br>
 <br>
 
-# Sidequests:
-Sorted by order of appearance:
+### Sorted by order of appearance:
 
 Sofia's Unusual Request  
 Flora the Bum  
