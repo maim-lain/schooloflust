@@ -373,7 +373,7 @@ No one | +1 Zoe
 
 ### Job agency:
 - when does quest complete??????????
-- [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)
+- [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
 - You should sell all 12 items, but as long as you sell at least 9 then I guess you're fine
 - Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
 
