@@ -97,8 +97,7 @@ Violet asked you to harass her in the cafe in town in front of her father, while
 
 **Walkthrough:**  
 - Complete the sidequest: Job Agency
-- This quest is buggy as fuck idk
-- https://f95zone.com/threads/school-of-lust-v0-20c-boner-games.6555/page-8#post-319375
+- most bugs have been fixed but i still need to test it a bit
 
 <br>
 <br>
