@@ -188,8 +188,6 @@ There's been two updates since I started this so I have to look through those an
 ---
 
 ### Swimming pool:
-- I don't *think* that we need romance for anyone specific yet, so you could choose who you want
-
 Choice | + Romance
 --- | ---
 You | +1 Violet
@@ -197,9 +195,8 @@ Sofia | +1 Sofia
 Claire | +1 Claire
 Zoe | Nothing
 No one | +1 Zoe
-<details><summary>I chose best girl</summary>
-:purple_heart: Violet :purple_heart:</details>
-
+- I don't *think* that we need romance for anyone specific yet, so you could choose who you want
+- I chose [best girl](https://i.imgur.com/0O30vGg.png)
 - Phone -> Messages
 
 ---
