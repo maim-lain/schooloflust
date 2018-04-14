@@ -196,7 +196,7 @@ Claire | +1 Claire
 Zoe | Nothing
 No one | +1 Zoe
 - I don't *think* that we need romance for anyone specific yet, so you could choose who you want
-- I chose [best girl](https://i.imgur.com/0O30vGg.png)
+- (I chose [best girl](https://i.imgur.com/0O30vGg.png))
 - Phone -> Messages
 
 ---
