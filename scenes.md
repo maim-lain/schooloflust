@@ -1,5 +1,5 @@
 # School of Lust - Scene Guide
-*\~ written by Maim Lain \~*
+[*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
 
