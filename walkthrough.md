@@ -200,6 +200,7 @@ No one | +1 Zoe
  <summary>I chose best girl</summary>
   :purple_heart: Violet :purple_heart:
 </details>
+
 - Phone -> Messages
 
 ---
