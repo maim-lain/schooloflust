@@ -69,7 +69,7 @@ There's been two updates since I started this so I have to look through those an
 ---
 
 ### Natalie's room:
-- Optional: Talk to Natalie
+- Talk to Natalie
 
 ---
 
@@ -99,13 +99,12 @@ There's been two updates since I started this so I have to look through those an
 
 ### Harfort:
 - Hi, I'm new. (+1 Charm)
-- Optional: Repeatedly talk to the guard
 - Search the trash can left of the main doors (Received BDSM tape)
 
 ---
 
 ### Entrance hall:
-- Optional: Talk to the student
+- Talk to the student
 - Search locker #9 (Received $25)
 - Go upstairs
 
@@ -113,7 +112,7 @@ There's been two updates since I started this so I have to look through those an
 
 ### Floor 2:
 - Pilfer the teddy bear (Received teddy bear)
-- Optional: Inspect the blood (Inspecting the blood will always cause the game to autosave)
+- Inspect the blood (Inspecting the blood will always cause the game to autosave)
 - Enter the principal's office
 - Y-yes, my Queen! (+1 Romance)
 - Go fuck yourself. (+1 Romance)
@@ -127,7 +126,7 @@ There's been two updates since I started this so I have to look through those an
 ---
 
 ### Classroom #4:
-- Other students? -> Other staff members? -> That's all.
+- Ask both questions -> That's all.
 
 ---
 
@@ -143,7 +142,7 @@ There's been two updates since I started this so I have to look through those an
 - *New sidequest: Sofia's unusual request*
 - Go back to the entrance hall and save your game
 - [Read my tips for the basketball minigame](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#basketball-with-sofia)
-- You should always get 3/3 baskets so savewhore if you need to, it's not hard to get all 3
+- You should always get 3/3 baskets so reload your last save if you need to
 - Play ball (+3 Effort) (+1 Romance)
 
 ---
@@ -196,6 +195,11 @@ Sofia | +1 Sofia
 Claire | +1 Claire
 Zoe | Nothing
 No one | +1 Zoe
+- I don't *think* that we need romance for anyone specific yet, so you could choose who you want
+<details>
+ <summary>I chose best girl</summary>
+  :purple_heart: Violet :purple_heart:
+</details>
 - Phone -> Messages
 
 ---
