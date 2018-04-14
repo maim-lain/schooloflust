@@ -143,7 +143,7 @@ There's been two updates since I started this so I have to look through those an
 - Go back to the entrance hall and save your game
 - [Read my tips for the basketball minigame](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#basketball-with-sofia)
 - You should always get 3/3 baskets so reload your last save if you need to
-- Play ball (+3 Effort) (+1 Romance)
+- Sofia -> Play ball (+3 Effort) (+1 Romance)
 
 ---
 
@@ -203,12 +203,17 @@ No one | +1 Zoe
 
 ### Library:
 - Inspect wet spot
-- Go to locker #13 -> Save game
 
 ---
 
-### Basketball court:
-- Sofia -> Play ball -> 3/3 baskets (+3 Effort) (+1 Romance)
+### My room:
+- Bed -> Save game
+
+---
+
+### Natalie's room:
+- f, You found some enlightening stuff on the internet
+- Natalie -> Play on the computer (+2 Knowledge) (+1 Romance)
 
 ---
 
@@ -240,7 +245,7 @@ No one | +1 Zoe
 ---
 
 ### Library:
-- Claire -> Talk -> Optional: Ask the three questions -> That's all.
+- Claire -> Talk -> Ask the three questions -> That's all.
 - Search the dumpster behind the school
 - Return Claire's novel (+5 Romance)
 - *Completed sidequest: Claire's novel*
@@ -440,3 +445,8 @@ Zoe | Lvl 0 | (?/5)
 - classroom 10 , win game = +3 knowledge
 - answers for all math day stuff are on teacher event
 - doesnt look like anything special afterwards just normal day
+
+<br>
+
+### Basketball court:
+- Sofia -> Play ball -> 3/3 baskets (+3 Effort) (+1 Romance)
