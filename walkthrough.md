@@ -18,7 +18,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 --->
 
 **A quick note about the walkthrough:**  
-There's been two updates since I started this so I have to look through those and change some things for the full walkthrough on this page. I wouldn't follow this page exactly because I'm going to change things this weekend so it's best to wait till then if you want to start a new game and follow this guide exactly. I'll remove this note when I've updated it. You can still use this page as a reference though and the other pages in this walkthrough are accurate, just not fully complete since I've only written up to the first week of the game.
+There's been two updates since I started this so I have to look through those and change some things for the full walkthrough on this page. I'm going to change things this weekend so it's best to wait till then if you want to start a new game and follow this guide exactly. I'll remove this note when I've updated it. You can still use this page as a reference though and the other pages in this walkthrough are accurate, just not fully complete since I've only written up to the first week of the game.
 
 <br>
 <br>
