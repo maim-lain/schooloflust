@@ -76,9 +76,9 @@ You're in dire need of money, so you decided to look for a job by going to the j
 Claire has lost the novel she wrote. She last saw it in her dormitory room.
 
 **Objectives:**  
-#1 - Search around the dormitory for Claire's novel.
-#2 - Catch the cat that has Claire's novel stuck on its head!
-#3 - Give the novel back to Claire.
+#1 - Search around the dormitory for Claire's novel.  
+#2 - Catch the cat that has Claire's novel stuck on its head!  
+#3 - Give the novel back to Claire.  
 
 **Walkthrough:**  
 - Library -> Claire -> Talk -> Optional: Ask the three questions -> That's all.
