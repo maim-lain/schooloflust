@@ -203,18 +203,12 @@ No one | +1 Zoe
 
 ### Library:
 - Inspect wet spot
-- Leave the school and go home
+- Go to locker #13 -> Save game
 
 ---
 
-### My room:
-- Bed -> Save game
-
----
-
-### Natalie's room:
-- f, You found some enlightening stuff on the internet
-- Natalie -> Play on the computer (+2 Knowledge) (+1 Romance)
+### Basketball court:
+- Sofia -> Play ball -> 3/3 baskets (+3 Effort) (+1 Romance) 
 
 ---
 
@@ -449,5 +443,3 @@ Zoe | Lvl 0 | (?/5)
 
 <br>
 
-### Basketball court:
-- Sofia -> Play ball -> 3/3 baskets (+3 Effort) (+1 Romance)
