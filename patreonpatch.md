@@ -22,7 +22,7 @@
 
 **Requirements:**  
 - Windows PC
-- v0.20e ONLY
+- v0.20e **only**
 - Game MUST be enigma unpacked (decrypted). Using it on v0.20e when it's still encrypted won't work.
 
 <br>
