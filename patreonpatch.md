@@ -17,7 +17,7 @@
 - Saves created with the unpatched version won't work with the incest patch
 - Saves created with the incest patch won't work on versions without the incest patch
 - You **need** to back up your game folder because the patch overwrites files
-- There *shouldn't* be any bugs, but I haven't done a full playthrough with the patch yet
+- There shouldn't be any bugs, but I haven't done a full playthrough with the patch yet
 
 <br>
 
