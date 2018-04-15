@@ -12,7 +12,7 @@
 <br>
 <br>
 
-### Sorted by dated received:
+### Sorted by date received:
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)  
 [Flora the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)  
 [Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)  
