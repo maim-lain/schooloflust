@@ -31,5 +31,5 @@
 **Installation:**  
 - **Back up your original game folder**
 - Put the folder inside the .zip file into your game folder
-- Run Incest_Patch.bat
+- Run Incest_Patch.bat from the www folder that's in your game directory
 - Enjoy!
