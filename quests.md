@@ -12,14 +12,14 @@
 <br>
 <br>
 
-### Sorted by order of appearance:
+### Sorted by dated received:
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)  
 [Flora the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)  
 [Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)  
 [Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)  
 [Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
-[Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
+[Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
 
 <br>
 <br>
