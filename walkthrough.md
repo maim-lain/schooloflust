@@ -32,7 +32,7 @@ There's been two updates since I started this so I have to look through those an
 ---
 
 ### Natalie's room:
-- Do not use her bed, it gives +2 Arousal but we might need it for later
+- Don't use her bed, you can't use the bonus it gives during the 1st week
 - Mirror -> Motivate yourself (+1 Effort)
 - Closet -> Take dirty panty (Received dirty panty)
 - Phone -> Inventory -> Smell Natalie's dirty panty
@@ -253,8 +253,10 @@ No one | +1 Zoe
 
 ---
 
-### My room: home? house?
-- Use the fridge (Received soda drink) -i dont need to get drink here if i change guide to go home next day.
+### My room:
+- Use the fridge (Received soda drink)
+- If you are using a keyboard I recommend changing the controls to add WASD for movement
+- (This is to make an upcoming event easier, I still prefer the mouse to move around)
 - Bed -> Save game
 - Bed -> Sleep
 
@@ -265,8 +267,8 @@ No one | +1 Zoe
 ## 9/9 (Fri)
 
 ### Entrance:
-- (Received utility room key, teddy bear, and 2x drinks)
-- Pretend to drink it -> Optional: Ask the two questions -> I'm not going down there!
+- (Received utility room key, teddy bear+, and 2x drinks)
+- Pretend to drink it -> Ask the two questions -> I'm not going down there!
 
 ---
 
@@ -289,9 +291,9 @@ No one | +1 Zoe
 ---
 
 ### Room 4:
-- Go down to go back to room 2
+- Go down to return to room 2
 - Break the four vases then go back up to room 4
-- If you are using a keyboard I recommend changing the controls so WASD are used for movement.
+- The reason I changed the WASD keys to move is for the event in the next room; I prefer it over using the arrow keys
 - Go left
 
 ---
@@ -320,7 +322,7 @@ No one | +1 Zoe
 ---
 
 ### Library:
-- Search bookshelf (Received magic book volume 1)
+- Search bookcase (Received magic book volume 1)
 - Go to locker #13 -> Save game -> Go back to the library
 - When studying with Claire you have a 50% chance of getting an extra point of knowledge
   - The game will say "You were very into the books you read" when it happens
@@ -332,11 +334,25 @@ No one | +1 Zoe
 ### My room:
 - Bed -> Sleep
 - Bed -> Save game
-- hypno can go to sis room
 
 ---
 
 <br>
+
+## 9/10 (Sat)
+
+### Living room:
+- Phone -> Messages
+- Use the fridge (Received soda drink)
+
+---
+
+### Neighborhood:
+- Garage door -> Insert penis -> Read notes
+
+---
+
+
 <br>
 <br>
 <br>
@@ -355,18 +371,6 @@ No one | +1 Zoe
 # Everything below here I'm still working on
 
 
-## 9/10 (Sat)
-
-### Living room:
-- Phone -> Messages
-- Use the fridge (Received soda drink)
-
----
-
-### Neighborhood:
-- Garage door -> Insert penis -> Read notes
-
----
 
 ### Town:
 - violet quest really buggy..........................................
@@ -408,14 +412,19 @@ No one | +1 Zoe
 ### Town:
 - Go south and talk to Zoe
 - Talk -> Optional: Ask the four questions -> That's all.
--  This always makes the game night!. wait till evening to do this!
+-  This always makes the game night. wait till evening to do this,
 
 ### cafe quest
 - just walk inside, no choices, teleports outside after
 
+
+- Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
+- Natalie's room -> Natalie -> Hypnotise
+
 ### sunday
 - peepin gtom, choices when talking to him dont matter, no variable checks
-- talk to basketball -> give dildo (+5 romance. -> complete quest ..... nothing else happens. maybe wait, cuz removes lollipop so looks a bit dumb.
+- ,,Walk out the front door -> Talk to Neighbor,,
+- talk to basketball -> give dildo (+5 romance. -> complete quest. maybe wait cuz
 
 ### spy on sister
 - sunday night need drill
