@@ -367,13 +367,16 @@ No one | +1 Zoe
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 # Everything below here I'm still working on
 
 
 
 ### Town:
-- violet quest really buggy..........................................
 - buy drill for event tonight
 - Search the dumpster to your left (Received BDSM blindfold)
 - Search both dumpsters in the park at the center of town (2x Received BDSM tape)
