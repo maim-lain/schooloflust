@@ -25,7 +25,8 @@
 <br>
 <br>
 
-Let me know if you think all the quests should have the spoiler dropdown arrow or not pls.
+**Note:**  
+Let me know if you think I should use or not use the spoiler dropdown format for all the quests. This avoids spoilers but it might be annoying to have to keep clicking the arrows so idk.
 
 ## Sofia's Unusual Request:
 **Description:**  
@@ -50,7 +51,9 @@ Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 <br>
 
 ## Flora the Bum:
-**Description:**  
+<details> 
+  <summary>Description:</summary>
+
 You find Flora drunk on the couch. What's going on?
 
 **Objectives:**  
@@ -62,6 +65,7 @@ You find Flora drunk on the couch. What's going on?
 - At night go to the living room and talk to Flora
 - Once you get $100 talk to Flora in the kitchen and give her the money
 - incomplete
+</details>
 
 <br>
 <br>
