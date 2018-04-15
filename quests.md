@@ -29,13 +29,20 @@
 **Description:**  
 Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 
-**Objectives:**  
-#1 - Find Sofia something that has the shape of your penis.  
+<details> 
+  <summary>Objectives:</summary>
+#1 - Find Sofia something that has the shape of your penis.
+</details>
 
-**Walkthrough:**  
+<br>
+
+<details> 
+  <summary>Walkthrough::</summary>
+  
 - Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
 - Once you start exploring The Hole go to room 3 and open the chest (Received dildo)
 - Basketball court -> Sofia -> Talk -> Give dildo (+5 Romance)
+</details>
 
 <br>
 <br>
