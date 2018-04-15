@@ -129,7 +129,7 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 
 **Walkthrough:**  
 - Becomes available on 9/12 (check date again)
-- Library -> Search bookshelf (Received magic book volume 1)
+- Library -> Search bookcase (Received magic book volume 1)
 - Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
 - Natalie's room -> Natalie -> Hypnotise
 - need to start peeping tom quest or finish it?
