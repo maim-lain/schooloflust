@@ -12,6 +12,9 @@
 <br>
 <br>
 
+[**School of Lust - v0.20e Incest Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
+
+<br>
 
 **A quick note about the walkthrough:**  
 This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well. Skipping the intro will prevent you from getting the day 1 Flora romance point, so even if you are replaying the game you shouldn't skip the intro.
