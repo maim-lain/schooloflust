@@ -102,23 +102,6 @@ Violet asked you to harass her in the cafe in town in front of her father, while
 <br>
 <br>
 
-## Hypno Natalie #1:
-**Description:**  
-You are looking for someone to help you with your hypnosis training. Talk to Natalie and select hypnosis.
-  
-**Objectives:**  
-#1 - Hypnotise Natalie
-
-**Walkthrough:**  
-- Becomes available on 9/9
-- Library -> Search bookshelf (Received magic book volume 1)
-- Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
-- Natalie's room -> Natalie -> Hypnotise
-- incomplete, ^ only after certain date?
-
-<br>
-<br>
-
 ## Natalie's Peeping Tom:
 **Description:**  
 You find out that the neighbor, who is a cop, has been stalking Natalie. You need to find a way to stop him.
@@ -129,5 +112,22 @@ You find out that the neighbor, who is a cop, has been stalking Natalie. You nee
 
 **Walkthrough:**  
 - Becomes available on 9/11
-- Outside your house -> Talk to ?Peeping Tom?
+- Outside your house -> Talk to Neighbor
 - incomplete
+
+<br>
+<br>
+
+## Hypno Natalie #1:
+**Description:**  
+You are looking for someone to help you with your hypnosis training. Talk to Natalie and select hypnosis.
+  
+**Objectives:**  
+#1 - Hypnotise Natalie
+
+**Walkthrough:**  
+- Becomes available on 9/12 (check date again)
+- Library -> Search bookshelf (Received magic book volume 1)
+- Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
+- Natalie's room -> Natalie -> Hypnotise
+- need to start peeping tom quest or finish it?
