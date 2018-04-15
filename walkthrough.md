@@ -12,13 +12,9 @@
 <br>
 <br>
 
-<!---
-**A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well. Skipping the intro will prevent you from getting the day 1 Flora romance point, so even if you are replaying the game you shouldn't skip the intro.
---->
 
 **A quick note about the walkthrough:**  
-There's been two updates since I started this so I have to look through those and change some things for the full walkthrough on this page. I'm going to change things this weekend so it's best to wait till then if you want to start a new game and follow this guide exactly. I'll remove this note when I've updated it. You can still use this page as a reference though and the other pages in this walkthrough are accurate, just not fully complete since I've only written up to the first week of the game.
+This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well. Skipping the intro will prevent you from getting the day 1 Flora romance point, so even if you are replaying the game you shouldn't skip the intro.
 
 <br>
 <br>
