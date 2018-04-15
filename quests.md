@@ -37,7 +37,7 @@ Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 <br>
 
 <details> 
-  <summary>Walkthrough::</summary>
+  <summary>Walkthrough:</summary>
   
 - Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
 - Once you start exploring The Hole go to room 3 and open the chest (Received dildo)
