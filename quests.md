@@ -25,8 +25,9 @@
 <br>
 <br>
 
-**Note:**  
-Let me know if you think I should use or not use the spoiler dropdown format for all the quests. This avoids spoilers but it might be annoying to have to keep clicking the arrows so idk.
+**Note:** Let me know if you think I should use or not use the spoiler dropdown format for all the quests. This avoids spoilers but it might be annoying to have to keep clicking the arrows so idk.
+
+<br>
 
 ## Sofia's Unusual Request:
 **Description:**  
