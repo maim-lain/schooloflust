@@ -110,7 +110,16 @@ You find out that the neighbor, who is a cop, has been stalking Natalie. You nee
   
 **Objectives:**  
 #1 - Talk to the neighbor hiding under the tree.  
-#2 - Hold on to the neighbor's box.
+#2 - Hold on to the neighbor's box.  
+#3 - Find out if Natalie stole the box.  
+#4 - Buy a drill from the shopping mall in town.  
+#5 - Look inside the peephole in your bedroom.  
+#6 - Wait till Natalie comes out of her bedroom.  
+#7 - Buy Natalie a new cami top from the shopping mall.  
+#8 - Tell the neighbor that you lost his box.  
+#9 - Talk to Natalie, and ask her if you can take a picture of her boobs.  
+#10 - Go to the cafe, and find a way to take a picture of Violet's boobs.  
+#11 - Give the picture of her boobs to the neighbor.  
 
 **Walkthrough:**  
 - Becomes available on 9/11
