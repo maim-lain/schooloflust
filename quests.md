@@ -25,7 +25,7 @@
 <br>
 <br>
 
-Let me know if you think quests should have the spoiler dropdown arrow or not pls.
+Let me know if you think all the quests should have the spoiler dropdown arrow or not pls.
 
 ## Sofia's Unusual Request:
 **Description:**  
