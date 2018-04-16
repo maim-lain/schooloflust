@@ -33,7 +33,7 @@
 
 **Installation:**  
 - **Back up your original game folder**
-- Extract the folder in the .zip into your game folder
+- Extract the folder in the zip file to the game folder you wish to patch
 - Run Incest_Patch.bat from the www folder that's in your game directory
 
 <br>
@@ -42,11 +42,12 @@
 **Converting Saves**:  
 If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game. In the instructions below if I say 'game folder', that means your patched game folder.
 
-- In your game folder go to /www/saves
+- In your game folder go to ```/www/saves```
 - Click on the editor download link and download and extract the save editor
-- Open index.html inside the editor folder to bring up the tab and with it open your most recent save file
-- Select all the text and copy it into /www/saves/save.txt and save it
-- Open Save Converter and select an option
-- Open save.txt and select all the text and copy it
+- Open ```index.html``` inside the editor folder to bring up the tab and with it open your most recent save file
+- Select all the text and copy it into ```/www/saves/save.txt``` and save it
+- Open ```Save Converter``` and select an option
+- Open ```save.txt``` and select all the text and copy it
 - Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
 - Put the converted save in your save folder
+- If you converted back to a normal save, copy ```config.rpgsave``` and ```global.rpgsave``` from your patched save folder back to your unpatched folder as well (those two don't need to be converted)
