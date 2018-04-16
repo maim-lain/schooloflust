@@ -26,6 +26,9 @@
 - Game MUST be enigma unpacked (decrypted). Using it on v0.20e when it's still encrypted won't work.
 
 <br>
+<br>
+<br>
+<br>
 
 **Installation:**  
 - **Back up your original game folder**
