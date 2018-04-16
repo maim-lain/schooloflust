@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK**](http://www.mediafire.com/file/v8h84pfifp60g70/School+of+Lust+Incest+Patch.zip)  
+[**DOWNLOAD LINK**](http://www.mediafire.com/file/o3rek0emhdey5g7/School%20of%20Lust%20Incest%20Patch.zip)  
 [**IMAGES**](https://imgur.com/a/VO02I)
 
 <br>
