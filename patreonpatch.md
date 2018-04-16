@@ -50,4 +50,4 @@ If you want to use your old saves with the incest patch they need to be converte
 - Open ```save.txt``` and select all the text and copy it
 - Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
 - Put the converted save in your save folder
-- If you converted back to a normal save, copy ```config.rpgsave``` and ```global.rpgsave``` from your patched save folder back to your unpatched folder as well (those two don't need to be converted)
+- (For the previous step if you converted your save back to normal also copy (only copy, no need to convert) ```config.rpgsave``` and ```global.rpgsave``` from your patched game save folder back to your unpatched game save folder as well)
