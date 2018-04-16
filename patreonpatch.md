@@ -42,7 +42,7 @@
 **Converting Saves**:  
 If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game. In the instructions below if I say 'game folder', that means your patched game folder.
 
-- In your game folder go to ```/www/saves```
+- In your game folder go to ```/www/saves``` (preferably delete all file# saves except the one you wish to convert)
 - Click on the editor download link and download and extract the save editor
 - Open ```index.html``` inside the editor folder to bring up the tab and with it open your most recent save file
 - Select all the text and copy it into ```/www/saves/save.txt``` and save it
