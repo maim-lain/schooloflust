@@ -16,7 +16,7 @@
 
 **Notes:**  
 - You **need** to back up your game folder because the patch overwrites files
-- Your uncle may incorrectly call Flora 'Mom', idk I haven't tested that far, but there shouldn't be any other bugs
+- Your uncle might incorrectly call Flora 'Mom'
 
 **Requirements:**  
 - Windows PC
