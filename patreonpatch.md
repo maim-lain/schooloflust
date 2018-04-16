@@ -14,11 +14,9 @@
 
 <br>
 
-**Note:**  
+**Notes:**  
 - You **need** to back up your game folder because the patch overwrites files
 - Your uncle may incorrectly call Flora 'Mom', idk I haven't tested that far, but there shouldn't be any other bugs
-
-<br>
 
 **Requirements:**  
 - Windows PC
@@ -29,12 +27,14 @@
 <br>
 <br>
 <br>
+<br>
 
 **Installation:**  
 - **Back up your original game folder**
 - Extract the folder in the .zip into your game folder
 - Run Incest_Patch.bat from the www folder that's in your game directory
 
+<br>
 <br>
 
 **Converting Saves**:  
