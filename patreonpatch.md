@@ -18,7 +18,7 @@
 - Saves created with the unpatched version won't work with the incest patch
 - Saves created with the incest patch won't work on versions without the incest patch
 - You **need** to back up your game folder because the patch overwrites files
-- Your uncle may incorrectly call Flora 'Mom', but IDK I haven't tested that far. There shouldn't be any other bugs
+- Your uncle may incorrectly call Flora 'Mom', but idk I haven't tested that far. There shouldn't be any other bugs
 
 <br>
 
