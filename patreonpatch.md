@@ -9,16 +9,14 @@
 
 <br>
 
-[**DOWNLOAD LINK**](http://www.mediafire.com/file/q5g25k9bbjc9j02/School%20of%20Lust%20Incest%20Patch.zip)  
+[**DOWNLOAD LINK**](http://www.mediafire.com/file/v8h84pfifp60g70/School+of+Lust+Incest+Patch.zip)  
 [**IMAGES**](https://imgur.com/a/VO02I)
 
 <br>
 
 **Note:**  
-- Saves created with the unpatched version won't work with the incest patch
-- Saves created with the incest patch won't work on versions without the incest patch
 - You **need** to back up your game folder because the patch overwrites files
-- Your uncle may incorrectly call Flora 'Mom', but idk I haven't tested that far. There shouldn't be any other bugs
+- Your uncle may incorrectly call Flora 'Mom', idk I haven't tested that far, but there shouldn't be any other bugs
 
 <br>
 
@@ -33,4 +31,23 @@
 - **Back up your original game folder**
 - Extract the folder in the .zip into your game folder
 - Run Incest_Patch.bat from the www folder that's in your game directory
-- Enjoy!
+
+<br>
+
+**Converting Saves**:  
+If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game. In the instructions below if I say 'game folder', that means your patched game folder.
+
+<br>
+
+- In your game folder go to /www/saves
+- Click on the editor download link and download and extract the save editor
+- Open index.html inside the editor folder to bring up the tab and with it open your most recent save file
+- Select all the text and copy it into /www/saves/save.txt and save it
+- Open Save Converter and select an option
+- Open save.txt and select all the text and copy it
+- Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
+- Put the converted save in your save folder (if you converted your save back to normal then put in your original backed up game folder)
+
+<br>
+
+Enjoy!
