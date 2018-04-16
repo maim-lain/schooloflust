@@ -9,7 +9,8 @@
 
 <br>
 
-[**Incest patch download link**](http://www.mediafire.com/file/q5g25k9bbjc9j02/School%20of%20Lust%20Incest%20Patch.zip)
+[**DOWNLOAD LINK**](http://www.mediafire.com/file/q5g25k9bbjc9j02/School%20of%20Lust%20Incest%20Patch.zip)
+[**IMAGES**](https://imgur.com/a/VO02I)
 
 <br>
 
@@ -17,7 +18,7 @@
 - Saves created with the unpatched version won't work with the incest patch
 - Saves created with the incest patch won't work on versions without the incest patch
 - You **need** to back up your game folder because the patch overwrites files
-- There shouldn't be any bugs, but I haven't done a full playthrough with the patch yet
+- Your uncle may incorrectly call Flora 'Mom', but IDK I haven't tested that far. There shouldn't be any other bugs
 
 <br>
 
