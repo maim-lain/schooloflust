@@ -31,7 +31,7 @@
 <br>
 <br>
 
-**Installation:**  
+### **Installation:**  
 - **Back up your original game folder**
 - Extract the folder in the zip file to the game folder you wish to patch
 - Run Incest_Patch.bat from the www folder that's in your game directory
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-**Converting Saves**:  
+### **Converting Saves**:  
 If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game. In the instructions below if I say 'game folder', that means your patched game folder.
 
 - In your game folder go to ```/www/saves``` (preferably delete all file# saves except the one you wish to convert)
