@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK**](https://mega.nz/#!rXwjAJgQ!d7PZxS4RSYPiq0KixQwecSuBTS6WnizVGnES_9siIRc)  
+[**DOWNLOAD LINK (MEGA)** (link fixed sorry! :'D)](https://mega.nz/#!rXwjAJgQ!d7PZxS4RSYPiq0KixQwecSuBTS6WnizVGnES_9siIRc)  
 [**IMAGES**](https://imgur.com/a/VO02I)
 
 <br>
