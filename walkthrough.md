@@ -8,8 +8,8 @@
 - [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
 
-<br>
-<br>
+---
+
 <br>
 
 [**School of Lust - v0.20e Incest Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
