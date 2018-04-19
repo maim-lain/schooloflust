@@ -12,17 +12,17 @@
 <br>
 <br>
 
-#### Scene 1 - Flora (hug)
+#### Scene 1 - Mom (hug)
 - Occurs on 9/5 at the very start of the game
 - Natalie's room -> Closet -> Take dirty panty (Received dirty panty)
 - Inventory -> Smell Natalie's dirty panty
-- Living room -> Flora -> Touch her breasts (+1 Romance)
+- Living room -> Mom -> Touch her breasts (+1 Romance)
 
 ---
 
 #### Scene 2 - Flora (drunk asleep)
 - Occurs on 9/6 at night
-- Living room -> Flora -> Look under bra
+- Living room -> Mom -> Look under bra
 
 ---
 
