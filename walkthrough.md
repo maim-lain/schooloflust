@@ -44,14 +44,14 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 
 ---
 
-### Flora's room:
+### Mom's room:
 - Search her closet (Received rusty key)
 - Nightstand -> Read diary
 
 ---
 
 ### Living room:
-- Flora -> Don't tell her -> Touch her breasts (+1 Romance)
+- Mom -> Don't tell her -> Touch her breasts (+1 Romance)
 - Use the fridge (Received soda drink)
 - Exit the house and play until you reach the next day; the rest of today's choices don't change anything
 
@@ -72,7 +72,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 
 ---
 
-### Flora's room:
+### Mom's room:
 - Nightstand -> Read diary
 
 ---
@@ -147,13 +147,13 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 ---
 
 ### My room:
-- *New sidequest: Flora the bum*
+- *New sidequest: Mom the bum*
 - Bed -> Save game
 
 ---
 
 ### Living room:
-- Flora -> Look under bra
+- Mom -> Look under bra
 
 ---
 
@@ -167,13 +167,13 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 
 ## 9/7 (Wed)
 
-### Flora's room:
+### Mom's room:
 - Nightstand -> Read diary
 
 ---
 
 ### Living room:
-- Talk to Flora
+- Talk to Mom
 - *New sidequest: Job agency*
 - Use the fridge (Received soda drink)
 
@@ -438,7 +438,7 @@ Charm | ? | &nbsp;
 Effort | ? | &nbsp;
 Knowledge | ? | &nbsp;
 &nbsp; | &nbsp; | &nbsp;
-Flora | Lvl 1 | (?/10)
+Mom | Lvl 1 | (?/10)
 Natalie | Lvl 1 | (?/10)
 Violet | Lvl 0 | (?/5)
 Scarlett | Lvl 0 | (?/5)
