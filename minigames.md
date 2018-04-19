@@ -54,7 +54,7 @@ Tips and info:
 <br>
 
 ### Romance bonus from gifts:
-Item | Flora | Natalie | Violet | Scarlett | Sofia
+Item | Mom | Natalie | Violet | Scarlett | Sofia
 --- | :---: | :---: | :---: | :---: | :---:
 **$25** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 Ball of yarn | f | f | f | f | 0
