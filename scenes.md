@@ -20,7 +20,7 @@
 
 ---
 
-#### Scene 2 - Flora (drunk asleep)
+#### Scene 2 - Mom (drunk asleep)
 - Occurs on 9/6 at night
 - Living room -> Mom -> Look under bra
 
