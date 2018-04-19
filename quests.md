@@ -14,7 +14,7 @@
 
 ### Sorted by date received:
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)  
-[Flora the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)  
+[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)  
 [Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)  
 [Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)  
 [Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
@@ -51,20 +51,20 @@ Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 <br>
 <br>
 
-## Flora the Bum:
+## Mom the Bum:
 <details> 
   <summary>Description:</summary>
 
-You find Flora drunk on the couch. What's going on?
+You find Mom drunk on the couch. What's going on?
 
 **Objectives:**  
-#1 - Talk to Flora on the couch in the living room.  
-#2 - Talk to Flora when she's not asleep.  
-#3 - Give $100 to Flora.  
+#1 - Talk to Mom on the couch in the living room.  
+#2 - Talk to Mom when she's not asleep.  
+#3 - Give $100 to Mom.  
 
 **Walkthrough:**  
-- At night go to the living room and talk to Flora
-- Once you get $100 talk to Flora in the kitchen and give her the money
+- At night go to the living room and talk to Mom
+- Once you get $100 talk to Mom in the kitchen and give her the money
 - incomplete
 </details>
 
