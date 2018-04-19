@@ -11,6 +11,8 @@
 ---
 
 <br>
+<br>
+<br>
 
 ### Sorted by date received:
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)  
