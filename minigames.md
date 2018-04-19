@@ -8,7 +8,11 @@
 - [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
 
+<br>
+
 ---
+
+<br>
 
 ### Basketball with Sofia:
 Baskets | Reward
