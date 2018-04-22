@@ -31,7 +31,6 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 ---
 
 ### Natalie's room:
-- Don't use her bed, you can't use the bonus it gives during the 1st week
 - Mirror -> Motivate yourself (+1 Effort)
 - Closet -> Take dirty panty (Received dirty panty)
 - Phone -> Inventory -> Smell Natalie's dirty panty
@@ -404,17 +403,32 @@ No one | +1 Zoe
 # 9/11 (Sun)
 
 ### Home:
+- *New sidequest: Natalie's Peeping Tom*
 - Inventory -> Magic book volume 1
-- *New sidequest: Hypno --*
-- Bed -> Save game
+- *New sidequest: Hypno Natalie #1*
 - Use the fridge (Received soda drink)
-- ,,Walk out the front door -> Talk to Neighbor,,
-peepingtom - choices when talking to him dont matter, no variable checks
+- Walk out the front door -> Talk to Neighbor
+- Bed -> Save game
 
 ---
 
-### ?:
+### Harfort:
+- Change clothes
+- Locker #13 -> Save game
 
+---
+
+### Basketball court:
+- You can complete Sofia's sidequest whenever you want by doing: Sofia -> Talk -> Give dildo (+5 Romance)
+- However I think it makes her look dumb and prefer her holding the lollipop so I'm going to wait until later to complete it
+- *Completed sidequest: Sofia's unusual request*
+- Sofia -> Play ball -> 3/3 baskets (+3 Effort) (+1 Romance)
+
+---
+
+### Harfort:
+- Locker #13 -> Save game
+- room -> Elevator
 
 
 
@@ -422,9 +436,6 @@ peepingtom - choices when talking to him dont matter, no variable checks
 - Natalie's room -> Natalie -> Hypnotise
 - sunday night need drill
 - Enter the gift shop to the left -> drill or mall?
-
-
-- talk to basketball -> give dildo (+5 romance. -> complete quest. maybe wait cuz
 
 
 
