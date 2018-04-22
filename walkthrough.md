@@ -22,7 +22,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 <br>
 <br>
 
-## 9/5 (Mon)
+# 9/5 (Mon)
 
 ### My room:
 - Right click to use your phone -> Check your messages -> Right click to put it away
@@ -59,7 +59,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 
 <br>
 
-## 9/6 (Tue)
+# 9/6 (Tue)
 
 ### My room:
 - Open the package
@@ -165,7 +165,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 
 <br>
 
-## 9/7 (Wed)
+# 9/7 (Wed)
 
 ### Mom's room:
 - Nightstand -> Read diary
@@ -219,7 +219,7 @@ No one | +1 Zoe
 
 <br>
 
-## 9/8 (Thu)
+# 9/8 (Thu)
 
 ### Living room:
 - Use the fridge (Received soda drink)
@@ -263,7 +263,7 @@ No one | +1 Zoe
 
 <br>
 
-## 9/9 (Fri)
+# 9/9 (Fri)
 
 ### Entrance:
 - (Received utility room key, teddy bear+, and 2x drinks)
@@ -338,7 +338,7 @@ No one | +1 Zoe
 
 <br>
 
-## 9/10 (Sat)
+# 9/10 (Sat)
 
 ### Living room:
 - Phone -> Messages
@@ -376,9 +376,16 @@ No one | +1 Zoe
 
 ---
 
-### Har?:
-try now and see if dont need evening
-claire library
+### Harfort:
+- Change clothes
+- Locker #13 -> Save game
+- Library -> Claire -> Study together (+2 Knowledge) (+1 Romance)
+
+---
+
+### Town:
+- Enter the cafe
+- Go back inside -> Violet -> Talk
 
 ---
 
@@ -387,8 +394,6 @@ claire library
 - Talk -> Optional: Ask the four questions -> That's all.
 -  This always makes the game night. wait till evening to do this,
 
-### cafe quest
-- just walk inside, no choices, teleports outside after
 
 
 - Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
