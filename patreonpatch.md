@@ -33,7 +33,7 @@ Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/txaBcvH)
 ### **Installation:**  
 - **Back up your original game folder**
 - Extract the folder in the zip file to the game folder you wish to patch
-- Run Incest_Patch.bat from the www folder that's in your game directory
+- Run Incest_Patch.bat from the www folder in your game directory
 
 <br>
 <br>
