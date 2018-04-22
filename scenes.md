@@ -49,8 +49,8 @@
 
 ---
 
-#### Scene 7 - 
-- 
+#### Scene 7 - Violet (cafe pussy)
+- Complete the sidequest: Harassing the harasser
 
 ---
 
