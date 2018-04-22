@@ -113,7 +113,9 @@ Violet asked you to harass her in the cafe in town in front of her father, while
 
 **Walkthrough:**  
 - Complete the sidequest: Job Agency
-- most bugs have been fixed but i still need to test it a bit
+- Cafe -> Violet -> Talk -> Optional: Ask the three questions -> That's all.
+- Enter the cafe when it's evening
+- Go back inside -> Violet -> Talk
 
 <br>
 <br>
