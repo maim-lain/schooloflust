@@ -361,11 +361,10 @@ No one | +1 Zoe
 ---
 
 ### Job agency:
-- when does quest complete?
-
 - [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
-- You should sell all 12 items, but as long as you sell at least 9 then I guess you're fine
+- You should try to sell all 12 items, but as long as you sell at least 9 then it's fine
 - Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
+- *Completed sidequest: Job agency*
 - Enter the cafe to the right of the job agency
 
 ---
@@ -374,6 +373,12 @@ No one | +1 Zoe
 - Violet -> Nothing... (+1 Romance)
 - Talk -> Ask the three questions -> That's all.
 - *New sidequest: Harassing the harasser*
+
+---
+
+### Har?:
+try now and see if dont need evening
+claire library
 
 ---
 
