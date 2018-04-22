@@ -494,4 +494,15 @@ try open nat door in the morning.
 
 
 check more mornings for vio? there was counter.
+
+
+Nat hypno:
+available 9/12
+need peephole
+might need to finish peeping neighbor quest...
+nat only home during evening
+
+Violet:
+check on your phone messages occasionally and Violet will let you know she needs help again on the playground. Also buy some "Cooking Oil" to progress the second "Help" event.
+You can buy "cooking oil" from the food stall in Town. It's on the further right side next to the shopping mall.
 --->
