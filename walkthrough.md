@@ -193,7 +193,7 @@ Sofia | +1 Sofia
 Claire | +1 Claire
 Zoe | Nothing
 No one | +1 Zoe
-- I don't *think* that we need romance for anyone specific yet, so you could choose who you want
+- We don't need to choose anyone specific so pick who you like
 - (I chose [best girl](https://i.cubeupload.com/5v1yUH.png))
 - Phone -> Messages
 
@@ -445,6 +445,25 @@ No one | +1 Zoe
 
 ---
 
+### Week 1 Progress Report:
+Stat | &nbsp; | &nbsp;
+--- | :---: | :---:
+Charm | 1 | &nbsp;
+Effort | 13 | &nbsp;
+Knowledge | 4 | &nbsp;
+Floor # | 2 | &nbsp;
+&nbsp; | &nbsp; | &nbsp;
+Mom | Lvl 1 | (1/10)
+Natalie | Lvl 1 | (5/10)
+Scarlett | Lvl 1 | (0/10)
+Violet | Lvl 0 | (3/5)
+Sofia | Lvl 0 | (4/5)
+Claire | Lvl 1 | (2/10)
+Zoe | Lvl 0 | (0/5)
+
+<!---
+---
+
 <br>
 
 # 9/12 (Mon)
@@ -454,36 +473,25 @@ No one | +1 Zoe
 - Go to Natalie's room
 - Use the fridge (Received soda drink)
 - Front door -> Go outside
+vio -> tell its you (+romance)
+quest complete
+add quest and scene to other pages
+nat hypno does start on 12.
+sun -> talk to neighbor in the morning
+try open nat door in the morning.
 
----
+- squre in front of school has comment for what happens each day - no special checks for today
+- classroom 10 , win game = +3 knowledge
+- answers for all math day stuff are on teacher event
+- doesnt look like anything special afterwards just normal day
 
--principle coins\
+
+-principle coins
 
 
 -  -> drill  mall
 - Natalie's room -> Natalie -> Hypnotise
 
 
-
-
-### Week 1 Progress Report:
-Stat | &nbsp; | &nbsp;
---- | :---: | :---:
-Charm | ? | &nbsp;
-Effort | ? | &nbsp;
-Knowledge | ? | &nbsp;
-&nbsp; | &nbsp; | &nbsp;
-Mom | Lvl 1 | (?/10)
-Natalie | Lvl 1 | (?/10)
-Violet | Lvl 0 | (?/5)
-Scarlett | Lvl 0 | (?/5)
-Sofia | Lvl 0 | (?/5)
-Claire | Lvl 1 | (?/10)
-Zoe | Lvl 0 | (?/5)
-
-### monday
-
-- squre in front of school has comment for what happens each day - no special checks for today
-- classroom 10 , win game = +3 knowledge
-- answers for all math day stuff are on teacher event
-- doesnt look like anything special afterwards just normal day
+check more mornings for vio? there was counter.
+--->
