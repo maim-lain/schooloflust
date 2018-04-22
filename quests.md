@@ -25,48 +25,34 @@
 <br>
 <br>
 
-**Note:** Let me know if you think I should use or not use the spoiler dropdown format for all the quests. This avoids spoilers but it might be annoying to have to keep clicking the arrows so idk.
-
-<br>
-
 ## Sofia's Unusual Request:
 **Description:**  
 Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 
-<details> 
-  <summary>Objectives:</summary>
+**Objectives:**  
 #1 - Find Sofia something that has the shape of your penis.
-</details>
 
-<br>
-
-<details> 
-  <summary>Walkthrough:</summary>
-  
+**Walkthrough:**  
 - Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
 - Once you start exploring The Hole go to room 3 and open the chest (Received dildo)
 - Basketball court -> Sofia -> Talk -> Give dildo (+5 Romance)
-</details>
 
 <br>
 <br>
 
 ## Mom the Bum:
-<details> 
-  <summary>Description:</summary>
-
+**Description:**  
 You find Mom drunk on the couch. What's going on?
 
 **Objectives:**  
 #1 - Talk to Mom on the couch in the living room.  
 #2 - Talk to Mom when she's not asleep.  
-#3 - Give $100 to Mom.  
+#3 - Give $100 to Mom.
 
 **Walkthrough:**  
 - At night go to the living room and talk to Mom
 - Once you get $100 talk to Mom in the kitchen and give her the money
 - incomplete
-</details>
 
 <br>
 <br>
@@ -76,7 +62,7 @@ You find Mom drunk on the couch. What's going on?
 You're in dire need of money, so you decided to look for a job by going to the job agency in town.
 
 **Objectives:**  
-#1 - Go to the job agency in town, and find a job. 
+#1 - Go to the job agency in town, and find a job.
 
 **Walkthrough:**  
 - Becomes available on 9/10
