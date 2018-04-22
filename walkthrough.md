@@ -408,7 +408,6 @@ No one | +1 Zoe
 - *New sidequest: Hypno Natalie #1*
 - Use the fridge (Received soda drink)
 - Walk out the front door -> Talk to Neighbor
-- Bed -> Save game
 
 ---
 
@@ -428,14 +427,41 @@ No one | +1 Zoe
 
 ### Harfort:
 - Locker #13 -> Save game
-- room -> Elevator
+- Utility room -> Elevator
+
+---
+
+### The Hole:
+- Explore the rest of Floor 1 and make sure to break all of the vases and open the chest
+  - The new rooms are where all the gates from before were
+  - I'm not going to write a step-by-step for the The Hole since it's really simple
+  - The minimap in the top left shows the black rooms you haven't explored so you'll know where to go and if you've missed any rooms
+- Enter the elevator and leave The Hole
+
+---
+
+### My room:
+- Bed -> Sleep
+
+---
+
+<br>
+
+# 9/12 (Mon)
+
+### Home:
+- Bed -> Save game
+- Go to Natalie's room
+- Use the fridge (Received soda drink)
+- Front door -> Go outside
+
+---
+
+-principle coins\
 
 
-
-
+-  -> drill  mall
 - Natalie's room -> Natalie -> Hypnotise
-- sunday night need drill
-- Enter the gift shop to the left -> drill or mall?
 
 
 
@@ -456,7 +482,6 @@ Claire | Lvl 1 | (?/10)
 Zoe | Lvl 0 | (?/5)
 
 ### monday
-monday morning, tire swing dont go straight to shcool
 
 - squre in front of school has comment for what happens each day - no special checks for today
 - classroom 10 , win game = +3 knowledge
