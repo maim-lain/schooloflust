@@ -453,13 +453,13 @@ Effort | 13 | &nbsp;
 Knowledge | 4 | &nbsp;
 Floor # | 2 | &nbsp;
 &nbsp; | &nbsp; | &nbsp;
-Mom | Lvl 1 | (1/10)
-Natalie | Lvl 1 | (5/10)
-Scarlett | Lvl 1 | (0/10)
-Violet | Lvl 0 | (3/5)
-Sofia | Lvl 0 | (4/5)
-Claire | Lvl 1 | (2/10)
-Zoe | Lvl 0 | (0/5)
+Mom | Lvl 1 | 1/10
+Natalie | Lvl 1 | 5/10
+Scarlett | Lvl 1 | 0/10
+Violet | Lvl 0 | 3/5
+Sofia | Lvl 0 | 4/5
+Claire | Lvl 1 | 2/10
+Zoe | Lvl 0 | 0/5
 
 <!---
 ---
