@@ -496,6 +496,11 @@ try open nat door in the morning.
 check more mornings for vio? there was counter.
 
 
+
+then everything else effort so can dungeon shit.
+do dungeon stuff instead maybe since dont need any stats yet?
+
+
 Nat hypno:
 available 9/12
 need peephole
