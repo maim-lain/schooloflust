@@ -401,7 +401,7 @@ No one | +1 Zoe
 
 <br>
 
-# 9/11 (Sat)
+# 9/11 (Sun)
 
 ### Home:
 - Inventory -> Magic book volume 1
@@ -409,14 +409,13 @@ No one | +1 Zoe
 - Bed -> Save game
 - Use the fridge (Received soda drink)
 - ,,Walk out the front door -> Talk to Neighbor,,
+peepingtom - choices when talking to him dont matter, no variable checks
 
 ---
 
 ### ?:
 
 
-
-peepingtom - choices when talking to him dont matter, no variable checks
 
 
 
