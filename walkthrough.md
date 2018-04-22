@@ -317,12 +317,12 @@ No one | +1 Zoe
 ### Principal's office:
 - Trade coins for cash -> Trade 10 coins twice (+2 Romance) (Received $20)
 - Explain what's going on.
+- Go to locker #13 -> Save game
 
 ---
 
 ### Library:
 - Search bookcase (Received magic book volume 1)
-- Go to locker #13 -> Save game -> Go back to the library
 - When studying with Claire you have a 50% chance of getting an extra point of knowledge
   - The game will say "You were very into the books you read" when it happens
   - You should always save the game before studying, and if you don't get the extra point then reload your save and repeat until you get it
@@ -343,6 +343,7 @@ No one | +1 Zoe
 ### Living room:
 - Phone -> Messages
 - Use the fridge (Received soda drink)
+- Exit through the top door
 
 ---
 
@@ -351,36 +352,21 @@ No one | +1 Zoe
 
 ---
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-# Everything below here I'm still working on
-
-
-
 ### Town:
-- buy drill for event tonight
 - Search the dumpster to your left (Received BDSM blindfold)
 - Search both dumpsters in the park at the center of town (2x Received BDSM tape)
 - Search the dumpster right of the park (Received BDSM gag)
-- Go north to the cafe
+- Go north to the job agency
+
+---
+
+### Job agency:
+- when does quest complete?
+
+- [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
+- You should sell all 12 items, but as long as you sell at least 9 then I guess you're fine
+- Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
+- Enter the cafe to the right of the job agency
 
 ---
 
@@ -389,27 +375,7 @@ No one | +1 Zoe
 - Talk -> Ask the three questions -> That's all.
 - *New sidequest: Harassing the harasser*
 
-<br>
-<br>
-<br>
-
-- Go to the job agency left of the cafe
-
 ---
-
-### Job agency:
-- when does quest complete?
-- [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
-- You should sell all 12 items, but as long as you sell at least 9 then I guess you're fine
-- Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
-
-
----
-
-<br>
-<br>
-<br>
-
 
 ### Town:
 - Go south and talk to Zoe
@@ -454,3 +420,4 @@ Zoe | Lvl 0 | (?/5)
 
 <br>
 
+- Enter the gift shop to the left -> 
