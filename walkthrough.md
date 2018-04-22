@@ -386,13 +386,19 @@ No one | +1 Zoe
 ### Town:
 - Enter the cafe
 - Go back inside -> Violet -> Talk
+- *Completed sidequest: Harassing the harasser*
 
 ---
+
+
+dont get knowledge from zoe quest so school was fine. go to zoe next.
+
+- *New sidequest: Hypno --*
 
 ### Town:
 - Go south and talk to Zoe
 - Talk -> Optional: Ask the four questions -> That's all.
--  This always makes the game night. wait till evening to do this,
+-   This always makes the game night. wait till evening to do this,
 
 
 
@@ -423,6 +429,8 @@ Claire | Lvl 1 | (?/10)
 Zoe | Lvl 0 | (?/5)
 
 ### monday
+monday morning, tire swing dont go straight to shcool
+
 - squre in front of school has comment for what happens each day - no special checks for today
 - classroom 10 , win game = +3 knowledge
 - answers for all math day stuff are on teacher event
@@ -430,4 +438,4 @@ Zoe | Lvl 0 | (?/5)
 
 <br>
 
-- Enter the gift shop to the left -> 
+- Enter the gift shop to the left -> drill or mall?
