@@ -383,35 +383,52 @@ No one | +1 Zoe
 
 ---
 
-### Town:
+### Cafe:
 - Enter the cafe
 - Go back inside -> Violet -> Talk
 - *Completed sidequest: Harassing the harasser*
 
 ---
 
-
-dont get knowledge from zoe quest so school was fine. go to zoe next.
-
-- *New sidequest: Hypno --*
-
 ### Town:
 - Go south and talk to Zoe
-- Talk -> Optional: Ask the four questions -> That's all.
--   This always makes the game night. wait till evening to do this,
+- Talk -> Ask the four questions -> That's all.
 
+---
 
+### My room:
+- Bed -> Sleep
 
-- Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
-- Natalie's room -> Natalie -> Hypnotise
+<br>
 
-### sunday
-- peepin gtom, choices when talking to him dont matter, no variable checks
+# 9/11 (Sat)
+
+### Home:
+- Inventory -> Magic book volume 1
+- *New sidequest: Hypno --*
+- Bed -> Save game
+- Use the fridge (Received soda drink)
 - ,,Walk out the front door -> Talk to Neighbor,,
+
+---
+
+### ?:
+
+
+
+peepingtom - choices when talking to him dont matter, no variable checks
+
+
+
+- Natalie's room -> Natalie -> Hypnotise
+- sunday night need drill
+- Enter the gift shop to the left -> drill or mall?
+
+
 - talk to basketball -> give dildo (+5 romance. -> complete quest. maybe wait cuz
 
-### spy on sister
-- sunday night need drill
+
+
 
 ### Week 1 Progress Report:
 Stat | &nbsp; | &nbsp;
@@ -435,7 +452,3 @@ monday morning, tire swing dont go straight to shcool
 - classroom 10 , win game = +3 knowledge
 - answers for all math day stuff are on teacher event
 - doesnt look like anything special afterwards just normal day
-
-<br>
-
-- Enter the gift shop to the left -> drill or mall?
