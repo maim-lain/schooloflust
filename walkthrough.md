@@ -476,23 +476,41 @@ Zoe | Lvl 0 | 0/5
 - *Completed sidequest: Call the wambulance!*
 - *New sidequest: Rescue the wambulance!*
 
-<!---
 ---
 
-### asdf
-save
+### Harfort:
+- Add all the numbers (+3 Knowledge)
+- Principle's office -> Principle -> Trade coins
+- Trade 10 coins twice (+2 Romance) (Received $20)
+
+---
+
+### Entrance hall:
+- Optional: Talk to the students
+- Locker #13 -> Save game
+
+<!---
+
+---
+
+### Town:
+- Go northeast to the shopping mall
+- Buy drill (-$30) (Received drill)
+
+- Bed -> Peephole
+
+will it go forward to ngiht? if not...what i do? could dungeon...
+
+saving tests on file 5
+
+
 
 
 - squre in front of school has comment for what happens each day - no special checks for today
-- classroom 10 , win game = +3 knowledge
 - answers for all math day stuff are on teacher event
-- doesnt look like anything special afterwards just normal day
 
 
--principle coins
 
-
--  -> drill  mall
 - Natalie's room -> Natalie -> Hypnotise
 
 
@@ -500,8 +518,7 @@ check more mornings for vio? there was counter.
 - Violet -> Help Session #1
 
 
-then everything else effort so can dungeon shit.
-do dungeon stuff instead maybe since dont need any stats yet?
+then everything else effort so can dungeon shit. do dungeon stuff instead maybe since dont need any stats yet?
 
 
 Nat hypno:
@@ -510,6 +527,7 @@ need to start peeping tom quest or finish it?
 nat only home during evening
 
 Violet:
+Need cooking oil for first help event (technically 2nd) or 2nd (tech 3rd)?
 check on your phone messages occasionally and Violet will let you know she needs help again on the playground. Also buy some "Cooking Oil" to progress the second "Help" event.
 You can buy "cooking oil" from the food stall in Town. It's on the further right side next to the shopping mall.
 --->
