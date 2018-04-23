@@ -432,9 +432,9 @@ No one | +1 Zoe
 ---
 
 ### The Hole:
-- Explore the rest of Floor 1 and make sure to break all of the vases and open the chest
+- Explore all the rooms in Floor 1 and make sure to break all of the vases and open the chest
   - The new rooms are where all the gates from before were
-  - I'm not going to write a step-by-step for the The Hole since it's really simple
+  - I'm not going to write step-by-step for the The Hole since it's really simple
   - The minimap in the top left shows the black rooms you haven't explored so you'll know where to go and if you've missed any rooms
 - Enter the elevator and leave The Hole
 
@@ -461,8 +461,7 @@ Sofia | Lvl 0 | 4/5
 Claire | Lvl 1 | 2/10
 Zoe | Lvl 0 | 0/5
 
----
-
+<br>
 <br>
 
 # 9/12 (Mon)
