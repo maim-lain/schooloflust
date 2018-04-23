@@ -9,8 +9,8 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!nfRnDQCa!K7wIpcYqnGVdlL4RRR6Z0dr58qmz8ts-cZEox6uAhFQ)  
-Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/txaBcvH)
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!qf4UlQCD!IGgVSqdxvmW9H9VWvPYEdfnxFTQiJRpVgzOC-eImQq8)  
+Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/psLAT0f)
 
 <br>
 
