@@ -9,11 +9,11 @@
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
 
 <br>
-<br>
-<br>
 
 [**School of Lust - v0.20e Incest Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
 
+<br>
+<br>
 <br>
 
 **A quick note about the walkthrough:**  
