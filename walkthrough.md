@@ -461,7 +461,6 @@ Sofia | Lvl 0 | 4/5
 Claire | Lvl 1 | 2/10
 Zoe | Lvl 0 | 0/5
 
-<!---
 ---
 
 <br>
@@ -473,12 +472,16 @@ Zoe | Lvl 0 | 0/5
 - Go to Natalie's room
 - Use the fridge (Received soda drink)
 - Front door -> Go outside
-vio -> tell its you (+romance)
-quest complete
-add quest and scene to other pages
-nat hypno does start on 12.
-sun -> talk to neighbor in the morning
-try open nat door in the morning.
+- Playground -> Tell her it's you (+1 Romance)
+- *Completed sidequest: Call the wambulance!*
+- *New sidequest: Rescue the wambulance!*
+
+<!---
+---
+
+### asdf
+save
+
 
 - squre in front of school has comment for what happens each day - no special checks for today
 - classroom 10 , win game = +3 knowledge
@@ -494,7 +497,7 @@ try open nat door in the morning.
 
 
 check more mornings for vio? there was counter.
-
+- Violet -> Help Session #1
 
 
 then everything else effort so can dungeon shit.
@@ -502,9 +505,8 @@ do dungeon stuff instead maybe since dont need any stats yet?
 
 
 Nat hypno:
-available 9/12
 need peephole
-might need to finish peeping neighbor quest...
+need to start peeping tom quest or finish it?
 nat only home during evening
 
 Violet:
