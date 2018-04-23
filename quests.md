@@ -20,14 +20,14 @@
 [Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
 [Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
-Call the Wambulance!
-Rescue the Wambulance!
+[Call the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#call-the-wambulance)
+[Rescue the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#rescue-the-wambulance)
 
 <br>
 <br>
 <br>
 
-## Sofia's Unusual Request:
+## Sofia's Unusual Request
 **Description:**  
 Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 
@@ -42,7 +42,7 @@ Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 <br>
 <br>
 
-## Mom the Bum:
+## Mom the Bum
 **Description:**  
 You find Mom drunk on the couch. What's going on?
 
@@ -59,7 +59,7 @@ You find Mom drunk on the couch. What's going on?
 <br>
 <br>
 
-## Job Agency:
+## Job Agency
 **Description:**  
 You're in dire need of money, so you decided to look for a job by going to the job agency in town.
 
@@ -73,7 +73,7 @@ You're in dire need of money, so you decided to look for a job by going to the j
 <br>
 <br>
 
-## Claire's Novel:
+## Claire's Novel
 **Description:**  
 Claire has lost the novel she wrote. She last saw it in her dormitory room.
 
@@ -90,7 +90,7 @@ Claire has lost the novel she wrote. She last saw it in her dormitory room.
 <br>
 <br>
 
-## Harassing the Harasser:
+## Harassing the Harasser
 **Description:**  
 Violet asked you to harass her in the cafe in town in front of her father, while in a disguise. Violet told you to check out the job agency next door to the cafe to find a disguise.
   
@@ -108,7 +108,7 @@ Violet asked you to harass her in the cafe in town in front of her father, while
 <br>
 <br>
 
-## Natalie's Peeping Tom:
+## Natalie's Peeping Tom
 **Description:**  
 You find out that the neighbor, who is a cop, has been stalking Natalie. You need to find a way to stop him.
   
@@ -134,7 +134,7 @@ You find out that the neighbor, who is a cop, has been stalking Natalie. You nee
 <br>
 <br>
 
-## Hypno Natalie #1:
+## Hypno Natalie #1
 **Description:**  
 You are looking for someone to help you with your hypnosis training. Talk to Natalie and select hypnosis.
   
@@ -151,7 +151,7 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 <br>
 <br>
 
-## Call the Wambulance!:
+## Call the Wambulance!
 **Description:**  
 Someone is calling for help from the playground near your house.
   
@@ -167,7 +167,7 @@ Someone is calling for help from the playground near your house.
 <br>
 <br>
 
-## Rescue the Wambulance!:
+## Rescue the Wambulance!
 **Description:**  
 You found Violet stuck on the playground inside the tire swing. Try to help her again tomorrow morning.
 
