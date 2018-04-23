@@ -20,6 +20,8 @@
 [Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
 [Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
+Call the Wambulance!
+Rescue the Wambulance!
 
 <br>
 <br>
@@ -126,7 +128,8 @@ You find out that the neighbor, who is a cop, has been stalking Natalie. You nee
 **Walkthrough:**  
 - Becomes available on 9/11
 - Outside your house -> Talk to Neighbor
-- incomplete
+- In the morning go to Natalie's room
+- buy drill
 
 <br>
 <br>
@@ -139,8 +142,39 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 #1 - Hypnotise Natalie
 
 **Walkthrough:**  
-- Becomes available on 9/12 (check date again)
+- Becomes available on ??9/12??
 - Library -> Search bookcase (Received magic book volume 1)
 - Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
 - Natalie's room -> Natalie -> Hypnotise
 - need to start peeping tom quest or finish it?
+
+<br>
+<br>
+
+## Call the Wambulance!:
+**Description:**  
+Someone is calling for help from the playground near your house.
+  
+**Objectives:**  
+#1 - Find out who needs help in the morning.
+
+**Walkthrough:**  
+- Complete the sidequest: Harassing the Harasser
+- Becomes available on 9/12
+- In the morning go outside to the playground
+- Tell her it's you (+1 Romance)
+
+<br>
+<br>
+
+## Rescue the Wambulance!:
+**Description:**  
+You found Violet stuck on the playground inside the tire swing. Try to help her again tomorrow morning.
+
+**Objectives:**  
+#1 - Complete the first 3 tire swing help sessions.
+
+**Walkthrough:**  
+- Complete the sidequest: Call the Wambulance!
+- Becomes available on 9/12
+- incomplete
