@@ -526,7 +526,7 @@ no hole until stock up on potions.
 cooking oil - $5
 sis top - $50
 cafe - $5
-potion - $25
+potion - $25 - only can buy 1 a day
 
 
 - squre in front of school has comment for what happens each day
