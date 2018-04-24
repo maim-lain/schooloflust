@@ -46,7 +46,7 @@ This is a map that shows the number of people that spawn in each part of town. T
 <br>
 
 Tips and info:
-- The amount of money you get is the # of items you sold multiplied by 2. So if you sell 12 you get $24. If you sell 9-12 items then you get +1 Romance with Scarlett.
+- The amount of money you get is the # of items you sold multiplied by 2. So if you sell 12 you get $24. If you sell 9-12 items then you also get +1 Romance with Scarlett.
 - This minigame is easy albeit somewhat frustrating at the same time since your character's pathing can screw up and clicking on people isn't very responsive. But you'll usually be able to sell to all 12 people with 7-10 seconds to spare.
 - A good strategy is to start by going northwest first then make your way around town counterclockwise so you don't waste time walking somewhere you've already been.
 
