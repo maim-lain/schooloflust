@@ -500,7 +500,7 @@ Zoe | Lvl 0 | 0/5
 
 ---
 
-buy 3 potions or however many taking into account money rng.
+buy 3 potions or however many taking into account money rng. its 2
 do some event for evening, like dungeon?
 
 
@@ -526,6 +526,7 @@ no hole until stock up on potions.
 cooking oil - $5
 sis top - $50
 cafe - $5
+potion - $25
 
 
 - squre in front of school has comment for what happens each day
