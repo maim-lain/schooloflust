@@ -10,7 +10,8 @@
 
 <br>
 <br>
-<br>
+
+---
 
 #### Scene 1 - Mom (hug)
 - Occurs on 9/5 at the very start of the game
