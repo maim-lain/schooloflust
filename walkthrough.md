@@ -498,26 +498,49 @@ Zoe | Lvl 0 | 0/5
 
 - Bed -> Peephole
 
-will it go forward to ngiht? if not...what i do? could dungeon...
+---
 
-saving tests on file 5
+buy 3 potions or however many taking into account money rng.
+do some event for evening, like dungeon?
+
+
+<br>
+
+# 9/13 (Tue)
+
+### Home:
+- Phone -> Messages
+- Bed -> Save game
+- Use the fridge (Received soda drink)
+- Front door -> Go outside
+- Violet -> Help Session #1
+
+school
+- Think about all the fat you're burning! (+1 Effort)
+- Locker #13 -> Save game
 
 
 
+care about spending money
+no hole until stock up on potions.
+cooking oil - $5
+sis top - $50
+cafe - $5
 
-- squre in front of school has comment for what happens each day - no special checks for today
+
+- squre in front of school has comment for what happens each day
 - answers for all math day stuff are on teacher event
 
 
-
+hyno 1:
+becomes avail on 9/12
+need to have made peephole
 - Natalie's room -> Natalie -> Hypnotise
+complete q
+new q
 
 
-check more mornings for vio? there was counter.
-- Violet -> Help Session #1
 
-
-then everything else effort so can dungeon shit. do dungeon stuff instead maybe since dont need any stats yet?
 
 
 Nat hypno:
@@ -525,8 +548,9 @@ need peephole
 need to start peeping tom quest or finish it?
 nat only home during evening
 
+
+
+check more mornings for vio? there was counter.
 Violet:
-Need cooking oil for first help event (technically 2nd) or 2nd (tech 3rd)?
-check on your phone messages occasionally and Violet will let you know she needs help again on the playground. Also buy some "Cooking Oil" to progress the second "Help" event.
-You can buy "cooking oil" from the food stall in Town. It's on the further right side next to the shopping mall.
+help sessions 2 = charm = 3 and "cooking oil" from the food stall
 --->
