@@ -129,7 +129,9 @@ You find out that the neighbor, who is a cop, has been stalking Natalie. You nee
 - Becomes available on 9/11
 - Outside your house -> Talk to Neighbor
 - After a day passes go to Natalie's room in the morning
-- buy drill
+- Shopping mall -> Buy drill (-$30) (Received drill)
+- Bed -> Peephole
+- incomplete
 
 <br>
 <br>
@@ -142,9 +144,11 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 #1 - Hypnotise Natalie
 
 **Walkthrough:**  
-- Becomes available on ?9/12?
+- Becomes available on 9/9
 - Library -> Search bookcase (Received magic book volume 1)
 - Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
+- Quest becomes advanceable on 9/12
+- Complete objective #5 in the Natalie's Peeping Tom sidequest
 - Natalie's room -> Natalie -> Hypnotise
 
 <br>
@@ -178,3 +182,4 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 - Becomes available on 9/12
 - In the morning at the playground talk to Violet
 - Help Session #1
+- incomplete
