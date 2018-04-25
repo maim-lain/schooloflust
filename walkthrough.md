@@ -89,8 +89,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 - Optional: Walk around the neighborhood and see how much lag you are getting
   - You can press F2 to toggle the FPS and response time info
   - Try setting: "Phone -> Options -> Sync monitor" to off and see if you get less lag
-  - If you have a good PC, setting sync monitor to off usually results in less lag
-  - If your PC is old or has the computing power of a toaster, leaving it on usually results in less lag
+  - Set "Sync monitor" to whichever option gives you better performance
 - Exit and travel to Harfort
 
 ---
