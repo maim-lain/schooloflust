@@ -20,6 +20,7 @@
 [Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
 [Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
+[Hypno Natalie #2](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-2)  
 [Call the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#call-the-wambulance)  
 [Rescue the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#rescue-the-wambulance)  
 
@@ -148,8 +149,21 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 - Library -> Search bookcase (Received magic book volume 1)
 - Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
 - Quest becomes advanceable on 9/12
-- Complete objective #5 in the Natalie's Peeping Tom sidequest
+- Complete objective #5 in the sidequest: Natalie's Peeping Tom
 - Natalie's room -> Natalie -> Hypnotise
+
+<br>
+<br>
+
+## Hypno Natalie #2
+**Description:**  
+f
+
+**Objectives:**  
+#1 - f
+
+**Walkthrough:**  
+- f
 
 <br>
 <br>
