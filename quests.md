@@ -177,7 +177,6 @@ Someone is calling for help from the playground near your house.
 
 **Walkthrough:**  
 - Complete the sidequest: Harassing the Harasser
-- Becomes available on 9/12
 - In the morning go outside to the playground
 - Tell her it's you (+1 Romance)
 
@@ -193,7 +192,6 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 
 **Walkthrough:**  
 - Complete the sidequest: Call the Wambulance!
-- Becomes available on 9/12
 - In the morning at the playground talk to Violet
 - Help Session #1
 - incomplete
