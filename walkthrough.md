@@ -534,19 +534,9 @@ potion - $25 - only can buy 1 a day
 
 
 hyno 1:
-becomes avail on 9/12
-need to have made peephole
 - Natalie's room -> Natalie -> Hypnotise
 complete q
 new q
-
-
-
-
-
-Nat hypno:
-need peephole
-need to start peeping tom quest or finish it?
 nat only home during evening
 
 
