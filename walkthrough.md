@@ -495,15 +495,25 @@ Zoe | Lvl 0 | 0/5
 - Buy cooking oil (-$5) (Received cooking oil)
 - Go to the shopping mall right of the stall
 - Buy drill (-$30) (Received drill)
+
+---
+
+### My room:
 - Bed -> Peephole
 - Bed -> Save game
-- Go back to town
-- Cafe -> Violet -> Spend time in cafe (-$5) (+2 Charm) (+1 Romance)
 
+---
 
-buy potion
-dungeon
+### Cafe:
+- When spending time in the cafe you have a 50% chance of getting an extra point of charm
+  - The game will say "You received a compliment from Violet" when it happens
+  - You should always save the game before going to the cafe, and if you don't get the extra point then reload your save and repeat until you get it
+- Violet -> Spend time in cafe (-$5) (+2 Charm) (+1 Romance)
 
+---
+
+### My room:
+- Bed -> Sleep
 
 <br>
 
@@ -516,30 +526,13 @@ dungeon
 - Front door -> Go outside
 - Violet -> Help Session #1
 
-<!---
+---
 
-school
+### Harfort:
 - Think about all the fat you're burning! (+1 Effort)
 - Locker #13 -> Save game
 
-charm
-
-Wed:
-help sess 2
-wed - larger breasts - maybe check the variable again when new version comes out?
-
-
-care about spending money
-no hole until stock up on potions.
-cooking oil - $5
-sis top - $50
-cafe - $5
-potion - $25 - only can buy 1 a day
-
-
-- squre in front of school has comment for what happens each day
-- answers for all math day stuff are on teacher event
-
+<!---
 
 hyno 1:
 - Natalie's room -> Natalie -> Hypnotise
@@ -549,8 +542,35 @@ nat only home during evening
 
 
 
-check more mornings for vio? there was counter.
+dungeon
+
+Wed:
+help sess 2
+wed - larger breasts - maybe check the variable again when new version comes out?
+
+
+sis top - $50
+cafe - $5
+potion - $25 - only can buy 1 a day
+
+
+- squre in front of school has comment for what happens each day
+- answers for all math day stuff are on teacher event
+
+
+
 Violet:
 help sessions 2 = charm = 3 and "cooking oil" from the food stall
+
+
+
+
+come into room with cut top
+There *was* were some sick stuff in there Big Bro!
+
+make the girl
+made the girl
+
+before 1st violet help session she has face when smiling instead of the frowning one or the suprised one
 
 --->
