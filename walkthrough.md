@@ -530,19 +530,28 @@ Zoe | Lvl 0 | 0/5
 
 ### Harfort:
 - Think about all the fat you're burning! (+1 Effort)
-- Locker #13 -> Save game
+- Nurse -> Buy equipment -> Antiandrogen (-$25) (Received antiandrogen)
+
+---
+
+### Home:
+- Natalie -> Hypnotise
+- *Completed sidequest: Hypno Natalie #1*
+- *New sidequest: Hypno Natalie #2*
+- Bed -> Save game
+- Garage -> Elevator
+
+---
+
+### The Hole:
 
 <!---
 
-hyno 1:
-- Natalie's room -> Natalie -> Hypnotise
-complete q
-new q
-nat only home during evening
+- anti heals x amount, take 2
 
 
+take out all unessacary saves?
 
-dungeon
 
 Wed:
 help sess 2
@@ -573,4 +582,6 @@ made the girl
 
 before 1st violet help session she has face when smiling instead of the frowning one or the suprised one
 
+
+hypno 2 quest, need to peek in hole at night
 --->
