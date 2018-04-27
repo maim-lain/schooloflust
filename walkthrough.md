@@ -477,7 +477,7 @@ Zoe | Lvl 0 | 0/5
 ---
 
 ### Harfort:
-- Add all the numbers (+3 Knowledge)
+- Add all the numbers (+1 Knowledge)
 - Principle's office -> Principle -> Trade coins
 - Trade 10 coins twice (+2 Romance) (Received $20)
 
@@ -485,22 +485,24 @@ Zoe | Lvl 0 | 0/5
 
 ### Entrance hall:
 - Optional: Talk to the students
+- Medical room -> Nurse -> Buy equipment -> Antiandrogen (-$25) (Received antiandrogen)
 - Locker #13 -> Save game
-
-<!---
 
 ---
 
 ### Town:
-- Go northeast to the shopping mall
+- Go northeast to the food stall
+- Buy cooking oil (-$5) (Received cooking oil)
+- Go to the shopping mall right of the stall
 - Buy drill (-$30) (Received drill)
-
 - Bed -> Peephole
+- Bed -> Save game
+- Go back to town
+- Cafe -> Violet -> Spend time in cafe (-$5) (+2 Charm) (+1 Romance)
 
----
 
-buy 3 potions or however many taking into account money rng. its 2
-do some event for evening, like dungeon?
+buy potion
+dungeon
 
 
 <br>
@@ -514,10 +516,17 @@ do some event for evening, like dungeon?
 - Front door -> Go outside
 - Violet -> Help Session #1
 
+<!---
+
 school
 - Think about all the fat you're burning! (+1 Effort)
 - Locker #13 -> Save game
 
+charm
+
+Wed:
+help sess 2
+wed - larger breasts - maybe check the variable again when new version comes out?
 
 
 care about spending money
@@ -543,4 +552,5 @@ nat only home during evening
 check more mornings for vio? there was counter.
 Violet:
 help sessions 2 = charm = 3 and "cooking oil" from the food stall
+
 --->
