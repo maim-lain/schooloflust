@@ -10,7 +10,6 @@
 
 <br>
 <br>
-<br>
 
 **Mom:**  
 [Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-the-bum)
