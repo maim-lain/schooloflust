@@ -12,45 +12,29 @@
 <br>
 <br>
 
-### Sorted by date received:
-Mom:  
-[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)
+**Mom:**  
+[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-the-bum)
 
-Natalie:  
+**Natalie:**  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
 [Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
 [Hypno Natalie #2](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-2)
 
-Scarlett:  
+**Scarlett:**  
 [Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)
 
-Violet:  
+**Violet:**  
 [Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
 [Call the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#call-the-wambulance)  
 [Rescue the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#rescue-the-wambulance)
 
-Sofia:  
+**Sofia:**  
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)
 
-Claire:  
+**Claire:**  
 [Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)
 
 <br>
-<br>
-<br>
-
-## Sofia's Unusual Request
-**Description:**  
-Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
-
-**Objectives:**  
-#1 - Find Sofia something that has the shape of your penis.
-
-**Walkthrough:**  
-- Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
-- Once you start exploring The Hole go to room 3 and open the chest (Received dildo)
-- Basketball court -> Sofia -> Talk -> Give dildo (+5 Romance)
-
 <br>
 <br>
 
@@ -67,55 +51,6 @@ You find Mom drunk on the couch. What's going on?
 - At night go to the living room and talk to Mom
 - Once you get $100 talk to Mom in the kitchen and give her the money
 - incomplete
-
-<br>
-<br>
-
-## Job Agency
-**Description:**  
-You're in dire need of money, so you decided to look for a job by going to the job agency in town.
-
-**Objectives:**  
-#1 - Go to the job agency in town, and find a job.
-
-**Walkthrough:**  
-- Becomes available on 9/10
-- Talk to Scarlett at the job agency in town
-
-<br>
-<br>
-
-## Claire's Novel
-**Description:**  
-Claire has lost the novel she wrote. She last saw it in her dormitory room.
-
-**Objectives:**  
-#1 - Search around the dormitory for Claire's novel.  
-#2 - Catch the cat that has Claire's novel stuck on its head!  
-#3 - Give the novel back to Claire.  
-
-**Walkthrough:**  
-- Library -> Claire -> Talk -> Optional: Ask the three questions -> That's all.
-- Search the dumpster behind the school
-- Return Claire's novel (+5 Romance)
-
-<br>
-<br>
-
-## Harassing the Harasser
-**Description:**  
-Violet asked you to harass her in the cafe in town in front of her father, while in a disguise. Violet told you to check out the job agency next door to the cafe to find a disguise.
-  
-**Objectives:**  
-#1 - Find a disguise at the job agency.  
-#2 - Go to the cafe in the evening.  
-#3 - Go back to Violet while she's working in the cafe. 
-
-**Walkthrough:**  
-- Complete the sidequest: Job Agency
-- Cafe -> Violet -> Talk -> Optional: Ask the three questions -> That's all.
-- Enter the cafe when it's evening
-- Go back inside -> Violet -> Talk
 
 <br>
 <br>
@@ -181,6 +116,38 @@ Natalie agreed to help you with your hypnosis training.
 <br>
 <br>
 
+## Job Agency
+**Description:**  
+You're in dire need of money, so you decided to look for a job by going to the job agency in town.
+
+**Objectives:**  
+#1 - Go to the job agency in town, and find a job.
+
+**Walkthrough:**  
+- Becomes available on 9/10
+- Talk to Scarlett at the job agency in town
+
+<br>
+<br>
+
+## Harassing the Harasser
+**Description:**  
+Violet asked you to harass her in the cafe in town in front of her father, while in a disguise. Violet told you to check out the job agency next door to the cafe to find a disguise.
+  
+**Objectives:**  
+#1 - Find a disguise at the job agency.  
+#2 - Go to the cafe in the evening.  
+#3 - Go back to Violet while she's working in the cafe. 
+
+**Walkthrough:**  
+- Complete the sidequest: Job Agency
+- Cafe -> Violet -> Talk -> Optional: Ask the three questions -> That's all.
+- Enter the cafe when it's evening
+- Go back inside -> Violet -> Talk
+
+<br>
+<br>
+
 ## Call the Wambulance!
 **Description:**  
 Someone is calling for help from the playground near your house.
@@ -211,3 +178,35 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 - Charm = 3
 - Help Session #2
 - incomplete
+
+<br>
+<br>
+
+## Sofia's Unusual Request
+**Description:**  
+Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
+
+**Objectives:**  
+#1 - Find Sofia something that has the shape of your penis.
+
+**Walkthrough:**  
+- Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
+- Once you start exploring The Hole go to room 3 and open the chest (Received dildo)
+- Basketball court -> Sofia -> Talk -> Give dildo (+5 Romance)
+
+<br>
+<br>
+
+## Claire's Novel
+**Description:**  
+Claire has lost the novel she wrote. She last saw it in her dormitory room.
+
+**Objectives:**  
+#1 - Search around the dormitory for Claire's novel.  
+#2 - Catch the cat that has Claire's novel stuck on its head!  
+#3 - Give the novel back to Claire.  
+
+**Walkthrough:**  
+- Library -> Claire -> Talk -> Optional: Ask the three questions -> That's all.
+- Search the dumpster behind the school
+- Return Claire's novel (+5 Romance)
