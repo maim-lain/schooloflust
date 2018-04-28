@@ -547,6 +547,7 @@ Zoe | Lvl 0 | 0/5
 
 <!---
 
+say garagre part in plain english
 - anti heals x amount, take 2
 
 
@@ -571,16 +572,6 @@ potion - $25 - only can buy 1 a day
 Violet:
 help sessions 2 = charm = 3 and "cooking oil" from the food stall
 
-
-
-
-come into room with cut top
-There *was* were some sick stuff in there Big Bro!
-
-make the girl
-made the girl
-
-before 1st violet help session she has face when smiling instead of the frowning one or the suprised one
 
 
 hypno 2 quest, need to peek in hole at night
