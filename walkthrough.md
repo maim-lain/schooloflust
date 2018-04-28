@@ -551,6 +551,7 @@ say garagre part in plain english
 - anti heals x amount, take 2
 
 
+peephole at night
 take out all unessacary saves?
 
 
@@ -567,12 +568,4 @@ potion - $25 - only can buy 1 a day
 - squre in front of school has comment for what happens each day
 - answers for all math day stuff are on teacher event
 
-
-
-Violet:
-help sessions 2 = charm = 3 and "cooking oil" from the food stall
-
-
-
-hypno 2 quest, need to peek in hole at night
 --->
