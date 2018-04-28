@@ -4,9 +4,9 @@
 <br>
 
 - [100% Walkthrough](https://github.com/maim-lain/schooloflust/blob/master/walkthrough.md)  
-- [Sidequests](https://github.com/maim-lain/schooloflust/blob/master/quests.md)  
-- [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
+- [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)  
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
+- [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
 
 <br>
 <br>
