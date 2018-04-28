@@ -4,25 +4,36 @@
 <br>
 
 - [100% Walkthrough](https://github.com/maim-lain/schooloflust/blob/master/walkthrough.md)  
-- [Sidequests](https://github.com/maim-lain/schooloflust/blob/master/quests.md)  
-- [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
+- [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)  
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
+- [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
 
 <br>
 <br>
 <br>
 
 ### Sorted by date received:
-[Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)  
-[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)  
-[Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)  
-[Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)  
-[Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
+Mom:  
+[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#flora-the-bum)
+
+Natalie:  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
 [Hypno Natalie #1](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-1)  
-[Hypno Natalie #2](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-2)  
+[Hypno Natalie #2](https://github.com/maim-lain/schooloflust/blob/master/quests.md#hypno-natalie-2)
+
+Scarlett:  
+[Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)
+
+Violet:  
+[Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
 [Call the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#call-the-wambulance)  
-[Rescue the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#rescue-the-wambulance)  
+[Rescue the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#rescue-the-wambulance)
+
+Sofia:  
+[Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)
+
+Claire:  
+[Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)
 
 <br>
 <br>
@@ -164,7 +175,7 @@ Natalie agreed to help you with your hypnosis training.
 
 **Walkthrough:**  
 - Complete the sidequest: Hypno Natalie #1
-- Night -> My bed -> Peephole
+- Night -> Bed -> Peephole
 - incomplete
 
 <br>
