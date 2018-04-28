@@ -8,6 +8,8 @@
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
 - [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
 
+<br>
+
 [**School of Lust - v0.20e Incest Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
 
 <br>
@@ -15,7 +17,7 @@
 <br>
 
 **A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well. Skipping the intro will prevent you from getting the day 1 romance point with your mom, so even if you are replaying the game you shouldn't skip the intro. Also if there is a choice or event that isn't mentioned in the walkthrough that means you can choose any option.
+This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well. Skipping the intro will prevent you from getting the day 1 romance point with the mother, so even if you are replaying the game you shouldn't skip the intro. Also if there is a choice or event that isn't mentioned in the walkthrough that means you can choose any option.
 
 <br>
 <br>
