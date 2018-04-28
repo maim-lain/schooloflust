@@ -149,7 +149,7 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 - Library -> Search bookcase (Received magic book volume 1)
 - Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
 - Quest becomes advanceable on 9/12
-- Complete objective #5 in the sidequest: Natalie's Peeping Tom
+- Complete objective #6 in the sidequest: Natalie's Peeping Tom
 - Natalie's room -> Natalie -> Hypnotise
 
 <br>
@@ -157,13 +157,15 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 
 ## Hypno Natalie #2
 **Description:**  
-f
+Natalie agreed to help you with your hypnosis training.
 
 **Objectives:**  
-#1 - f
+#1 - Look through the peephole tonight to see if hypnotizing Natalie worked.
 
 **Walkthrough:**  
-- f
+- Complete the sidequest: Hypno Natalie #1
+- Night -> My bed -> Peephole
+- incomplete
 
 <br>
 <br>
@@ -194,4 +196,7 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 - Complete the sidequest: Call the Wambulance!
 - In the morning at the playground talk to Violet
 - Help Session #1
+- Town -> Food stall -> Buy cooking oil (-$5) (Received cooking oil)
+- Charm = 3
+- Help Session #2
 - incomplete
