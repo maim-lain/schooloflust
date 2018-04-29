@@ -16,8 +16,11 @@
 <br>
 <br>
 
-**A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well. Skipping the intro will prevent you from getting the day 1 romance point with the mother, so even if you are replaying the game you shouldn't skip the intro. Also if there is a choice or event that isn't mentioned in the walkthrough that means you can choose any option.
+**Some notes about the walkthrough:**  
+- This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well.
+- Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
+- Once you've played past the first week, if you reach 100 arousal the game will penalize you and you will deviate a bit from the walkthrough. If this happens then you should reload your your last save and use an antiandrogen to lower your arousal and make sure it doesn't reach 100.
+- If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
 
 <br>
 <br>
@@ -543,21 +546,17 @@ Zoe | Lvl 0 | 0/5
 ---
 
 ### The Hole:
-- Using an antiandrogen will remove 30 arousal so use two once you get off the elevator
-- The combat is fun but not too difficult and it's possible to beat the floor without taking any damage and without having to use any more antiandrogens
-  - However I will be assuming you will have needed to use one antiandrogen to heal while fighting and that you only have one left after clearing the floor
-  - If you're looking for a challenge though you can play **School of Lust: Dark Souls Edition** by trying to beat the floor using only the melee weapon (good luck surviving the room with the three girls in it lol)
+- Explore all the rooms on Floor 2, break all the vases, and open all the chests
+  - Using an antiandrogen will remove 30 arousal so use two once you get off the elevator
+  - It's possible to clear the floor without taking any damage but I'll assume you took 30 damage while fighting and needed to use another antiandrogen to heal
   - A good strategy for exploring the floor is to go counterclockwise around the map
-  - I'd recommend starting by going: Left -> Down -> Left
-    - The reason for this
-- Explore all the rooms in Floor 1 and make sure to break all of the vases and open the chest
+  - I'd recommend starting by going: Left -> Down -> Left, because in the third room a girl will charge at you as soon as you enter the room so it's best to go there when you start so you aren't caught off guard later
 
 <!---
 
 peephole at night
 take out all unessacary saves?
 
-' '  = around dark soul mayube
 
 
 Wed:
