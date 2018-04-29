@@ -400,6 +400,8 @@ No one | +1 Zoe
 ### My room:
 - Bed -> Sleep
 
+---
+
 <br>
 
 # 9/11 (Sun)
@@ -517,6 +519,8 @@ Zoe | Lvl 0 | 0/5
 ### My room:
 - Bed -> Sleep
 
+---
+
 <br>
 
 # 9/13 (Tue)
@@ -551,6 +555,7 @@ Zoe | Lvl 0 | 0/5
   - It's possible to clear the floor without taking any damage but I'll assume you took 30 damage while fighting and needed to use another antiandrogen to heal
   - A good strategy for exploring the floor is to go counterclockwise around the map
   - I'd recommend starting by going: Left -> Down -> Left, because in the third room a girl will charge at you as soon as you enter the room so it's best to go there when you start so you aren't caught off guard later
+- When you're finished leave Floor 2 by using the elevator
 
 <!---
 
