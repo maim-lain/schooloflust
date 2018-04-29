@@ -555,23 +555,27 @@ Zoe | Lvl 0 | 0/5
   - It's possible to clear the floor without taking any damage but I'll assume you took 30 damage while fighting and needed to use another antiandrogen to heal
   - A good strategy for exploring the floor is to go counterclockwise around the map
   - I'd recommend starting by going: Left -> Down -> Left, because in the third room a girl will charge at you as soon as you enter the room so it's best to go there when you start so you aren't caught off guard later
-- When you're finished leave Floor 2 by using the elevator
+- When you've explored everywhere leave Floor 2 by using the elevator (Received magic book volume 2)
 
 <!---
 
 peephole at night
 take out all unessacary saves?
 
+probably do knowledge with claire so can magic
 
 
 Wed:
 help sess 2
-wed - larger breasts - maybe check the variable again when new version comes out?
+larger breasts - maybe check the variable again when new version comes out?
+
+thur:
+give flora money
 
 
 sis top - $50
-cafe - $5
-potion - $25 - only can buy 1 a day
+
+
 
 
 - squre in front of school has comment for what happens each day
