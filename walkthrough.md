@@ -485,7 +485,6 @@ Zoe | Lvl 0 | 0/5
 
 ### Entrance hall:
 - Optional: Talk to the students
-- Medical room -> Nurse -> Buy equipment -> Antiandrogen (-$25) (Received antiandrogen)
 - Locker #13 -> Save game
 
 ---
@@ -539,20 +538,26 @@ Zoe | Lvl 0 | 0/5
 - *Completed sidequest: Hypno Natalie #1*
 - *New sidequest: Hypno Natalie #2*
 - Bed -> Save game
-- Garage -> Elevator
+- Go out the back door then go inside the garage and use the elevator
 
 ---
 
 ### The Hole:
+- Using an antiandrogen will remove 30 arousal so use two once you get off the elevator
+- The combat is fun but not too difficult and it's possible to beat the floor without taking any damage and without having to use any more antiandrogens
+  - However I will be assuming you will have needed to use one antiandrogen to heal while fighting and that you only have one left after clearing the floor
+  - If you're looking for a challenge though you can play **School of Lust: Dark Souls Edition** by trying to beat the floor using only the melee weapon (good luck surviving the room with the three girls in it lol)
+  - A good strategy for exploring the floor is to go counterclockwise around the map
+  - I'd recommend starting by going: Left -> Down -> Left
+    - The reason for this
+- Explore all the rooms in Floor 1 and make sure to break all of the vases and open the chest
 
 <!---
 
-say garagre part in plain english
-- anti heals x amount, take 2
-
-
 peephole at night
 take out all unessacary saves?
+
+' '  = around dark soul mayube
 
 
 Wed:
