@@ -583,20 +583,50 @@ Zoe | Lvl 0 | 0/5
 - Larger breasts (+5 Romance)
 - Principal's office -> Principal -> Trade coins
 - Trade 100 coins for $100 (+10 Romance)
+- Locker #13 -> Save game
+- Library -> Claire -> Study together (+2 Knowledge) (+1 Romance)
+
+### My room:
+- Bed -> Sleep
 
 ---
 
+<br>
+
+# Anything after here might change later
+
+---
+
+# 9/15 (Thu)
+
+### Home:
+- Phone -> Messages
+- Bed -> Save game
+- Use the fridge (Received soda drink)
+- Mom -> Give her $100 (+1 Romance)
+- *Completed sidequest: Mom the bum*
+- *New sidequest: A large debt*
+
+---
+
+### Harfort:
+- 6+7 -> 13-5 -> 8\*6 (+1 Knowledge)
 
 <!---
 
-gift bear and soda to violet...how to gift soda???
 
-book 2 = 6 knowledge - need 1 session to do it
+- room read book
 
-buy top or flora? FLORA!!!!!
+-hypno nat
 
-thur:
-give flora money?
+gift bear to violet + hangout - 3 left
+hang
+hang
+hang
+hang (one extra if didn't pick)
+help sidequest
+
+
 
 
 
@@ -606,7 +636,7 @@ larger breasts - maybe check the variable again when new version comes out?
 
 take out all unessacary saves?
 
-
+What's the planned purpose of the soda drinks? Right now the only thing they can be used for is giving one to Sofia for her request sidequest, besides that they can't be used for anything else. Are they going to be a gift or a consumable?
 
 - squre in front of school has comment for what happens each day
 - answers for all math day stuff are on teacher event
