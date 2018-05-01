@@ -14,9 +14,11 @@ Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/psLAT0f)
 
 <br>
 
-**Notes:**  
-- You **need** to back up your game folder because the patch overwrites files
+**Bugs:**  
+There's a few bugs I could fix but I won't have a chance to fix them unless I get time to update the patch for v0.21.
+- I forgot to enable the new 'Flora (mother)' image
 - Your uncle might incorrectly call Flora 'Mom'
+- This isn't my bug but one of the character's art needs to be fixed so if I update the patch I'll fix it then
 
 **Requirements:**  
 - v0.20e **only**
@@ -31,7 +33,7 @@ Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/psLAT0f)
 <br>
 
 ### **Installation:**  
-- **Back up your original game folder**
+- **You NEED to back up your original game folder because the patch overwrites files**
 - Extract the folder in the zip file to the game folder you wish to patch
 - Run Incest_Patch.bat from the www folder in your game directory
 
