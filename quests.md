@@ -105,7 +105,7 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 Natalie agreed to help you with your hypnosis training.
 
 **Objectives:**  
-#1 - Look through the peephole tonight to see if hypnotizing Natalie worked.
+#1 - Look through the peephole tonight to see if hypnotizing Natalie worked.  
 #2 - Go back and hypnotize Natalie again.
 
 **Walkthrough:**  
