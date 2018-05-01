@@ -14,15 +14,18 @@ Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/psLAT0f)
 
 <br>
 
+**Requirements:**  
+- v0.20e **only**
+- Game MUST be enigma unpacked (decrypted). Using it on v0.20e when it's still encrypted won't work.
+
+<br>
+
 **Bugs:**  
 There's a few bugs I could fix but I won't have a chance to fix them unless I get time to update the patch for v0.21.
 - I forgot to enable the new 'Flora (mother)' image
 - Your uncle might incorrectly call Flora 'Mom'
 - This isn't my bug but one of the character's art needs to be fixed so if I update the patch I'll fix it then
 
-**Requirements:**  
-- v0.20e **only**
-- Game MUST be enigma unpacked (decrypted). Using it on v0.20e when it's still encrypted won't work.
 
 <br>
 <br>
