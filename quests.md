@@ -92,7 +92,8 @@ You are looking for someone to help you with your hypnosis training. Talk to Nat
 **Walkthrough:**  
 - Becomes available on 9/9
 - Library -> Search bookcase (Received magic book volume 1)
-- Knowledge = 3 -> Your room -> Inventory -> Magic book volume 1
+- Knowledge = 3
+- Your room -> Inventory -> Magic book volume 1
 - Quest becomes advanceable on 9/12
 - Complete objective #6 in the sidequest: Natalie's Peeping Tom
 - Natalie's room -> Natalie -> Hypnotise
@@ -113,6 +114,7 @@ Natalie agreed to help you with your hypnosis training.
 - Night -> Bed -> Peephole
 - Complete the 2nd floor of The Hole (Received magic book volume 2)
 - Knowledge = 6
+- Your room -> Inventory -> Magic book volume 2
 - incomplete
 
 <br>
