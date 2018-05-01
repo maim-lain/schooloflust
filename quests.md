@@ -112,7 +112,7 @@ Natalie agreed to help you with your hypnosis training.
 **Walkthrough:**  
 - Complete the sidequest: Hypno Natalie #1
 - Night -> Bed -> Peephole
-- Complete the 2nd floor of The Hole (Received magic book volume 2)
+- Complete Floor 2 in The Hole (Received magic book volume 2)
 - Knowledge = 6
 - Your room -> Inventory -> Magic book volume 2
 - incomplete
