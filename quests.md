@@ -106,6 +106,7 @@ Natalie agreed to help you with your hypnosis training.
 
 **Objectives:**  
 #1 - Look through the peephole tonight to see if hypnotizing Natalie worked.
+#2 - Go back and hypnotize Natalie again.
 
 **Walkthrough:**  
 - Complete the sidequest: Hypno Natalie #1
@@ -175,7 +176,9 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 - Help Session #1
 - Town -> Food stall -> Buy cooking oil (-$5) (Received cooking oil)
 - Charm = 3
-- Help Session #2
+- Help Session #2 -> I'm admiring your butt. (+1 Romance)
+- Romance level = 2
+- Help Session #3 -> ?
 - incomplete
 
 <br>
