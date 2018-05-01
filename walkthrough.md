@@ -557,24 +557,52 @@ Zoe | Lvl 0 | 0/5
   - I'd recommend starting by going: Left -> Down -> Left, because in the third room a girl will charge at you as soon as you enter the room so it's best to go there when you start so you aren't caught off guard later
 - When you've explored everywhere leave Floor 2 by using the elevator (Received magic book volume 2)
 
+---
+
+### My room:
+- Bed -> Peephole
+- Bed -> Sleep
+
+---
+
+<br>
+
+# 9/14 (Wed)
+
+### Home:
+- Phone -> Messages
+- Bed -> Save game
+- Use the fridge (Received soda drink)
+- Front door -> Go outside
+- Violet -> Help Session #2
+- I'm admiring your butt. (+1 Romance)
+
+---
+
+### Harfort:
+- Larger breasts (+5 Romance)
+- Principal's office -> Principal -> Trade coins
+- Trade 100 coins for $100 (+10 Romance)
+
+---
+
+
 <!---
 
-peephole at night
-take out all unessacary saves?
+book 2 = 6 knowledge - need 1 session to do it
 
-probably do knowledge with claire so can magic
-
-
-Wed:
-help sess 2
-larger breasts - maybe check the variable again when new version comes out?
+buy top or flora? FLORA!!!!!
 
 thur:
-give flora money
+give flora money?
+
 
 
 sis top - $50
 
+larger breasts - maybe check the variable again when new version comes out?
+
+take out all unessacary saves?
 
 
 
