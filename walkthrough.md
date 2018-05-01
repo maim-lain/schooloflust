@@ -567,7 +567,7 @@ Zoe | Lvl 0 | 0/5
 
 <br>
 
-# 9/14 (Wed)
+# 9/14 (Wed) - Anything after here might change later
 
 ### Home:
 - Phone -> Messages
@@ -593,7 +593,7 @@ Zoe | Lvl 0 | 0/5
 
 <br>
 
-# 9/15 (Thu) - Anything after here might change later
+# 9/15 (Thu)
 
 ### Home:
 - Phone -> Messages
@@ -611,9 +611,20 @@ Zoe | Lvl 0 | 0/5
 <!---
 
 
+
 - room read book
 
--hypno nat
+- hypno nat
+
+- shop stuff
+(can save game in town!!)
+
+
+Friday:
+mom stuff
+new quest
+class - +1 charm (nothing else special)
+
 
 gift bear to violet + hangout - 3 left
 hang
@@ -629,8 +640,6 @@ sis top - $50
 larger breasts - maybe check the variable again when new version comes out?
 
 take out all unessacary saves?
-
-What's the planned purpose of the soda drinks? Right now the only thing they can be used for is giving one to Sofia for her request sidequest, besides that they can't be used for anything else. Are they going to be a gift or a consumable?
 
 - squre in front of school has comment for what happens each day
 - answers for all math day stuff are on teacher event
