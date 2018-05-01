@@ -593,11 +593,7 @@ Zoe | Lvl 0 | 0/5
 
 <br>
 
-# Anything after here might change later
-
----
-
-# 9/15 (Thu)
+# 9/15 (Thu) - Anything after here might change later
 
 ### Home:
 - Phone -> Messages
@@ -625,8 +621,6 @@ hang
 hang
 hang (one extra if didn't pick)
 help sidequest
-
-
 
 
 
