@@ -13,6 +13,7 @@
 
 **Mom:**  
 [Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-the-bum)
+[Mom No Longer a Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-no-longer-a-bum)
 
 **Natalie:**  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
@@ -48,7 +49,19 @@ You find Mom drunk on the couch. What's going on?
 
 **Walkthrough:**  
 - At night go to the living room and talk to Mom
-- Once you get $100 talk to Mom in the kitchen and give her the money
+- In the morning on a weekday talk to Mom and give her $100 (+1 Romance)
+
+<br>
+<br>
+
+## Mom No Longer a Bum
+**Description:**  
+Mom was offered a new job by Uncle Gip at his place in town, however she seems rather secretive about it.
+
+**Objectives:**  
+#1 - Figure out where Mom works.  
+
+**Walkthrough:**  
 - incomplete
 
 <br>
