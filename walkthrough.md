@@ -589,6 +589,8 @@ Zoe | Lvl 0 | 0/5
 
 <!---
 
+gift bear and soda to violet...how to gift soda???
+
 book 2 = 6 knowledge - need 1 session to do it
 
 buy top or flora? FLORA!!!!!
