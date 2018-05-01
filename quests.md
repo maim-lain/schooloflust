@@ -178,10 +178,10 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 - Complete the sidequest: Call the Wambulance!
 - In the morning at the playground talk to Violet
 - Help Session #1
-- Town -> Food stall -> Buy cooking oil (-$5) (Received cooking oil)
+- In the northeast part of town go to the food stall and buy cooking oil (-$5)
 - Charm = 3
 - Help Session #2 -> I'm admiring your butt. (+1 Romance)
-- Romance level = 2
+- Violet romance level = 2
 - Help Session #3 -> ?
 - incomplete
 
