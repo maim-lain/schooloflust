@@ -12,8 +12,8 @@
 <br>
 
 **Mom:**  
-[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-the-bum)
-[Mom No Longer a Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-no-longer-a-bum)
+[Mom the Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-the-bum)  
+[Mom No Longer a Bum](https://github.com/maim-lain/schooloflust/blob/master/quests.md#mom-no-longer-a-bum)  
 
 **Natalie:**  
 [Natalie's Peeping Tom](https://github.com/maim-lain/schooloflust/blob/master/quests.md#natalies-peeping-tom)  
