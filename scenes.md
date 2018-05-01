@@ -51,7 +51,7 @@
 ---
 
 #### Scene 7 - Violet (cafe pussy)
-- Complete the sidequest: Harassing the harasser
+- Complete the sidequest: Harassing the Harasser
 
 ---
 
@@ -60,8 +60,8 @@
 
 ---
 
-#### Scene 9 - 
--
+#### Scene 9 - Mom (drunk boobs)
+- Complete the sidequest: Mom the Bum
 
 ---
 
@@ -75,8 +75,9 @@
 
 ---
 
-#### Scene 12 - 
--
+#### Scene 12 - Sofia (hypnosis)
+- Complete the first four steps in the sidequest: Hypno Natalie #1
+- Occurs on 9/16
 
 ---
 
