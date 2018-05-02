@@ -25,7 +25,7 @@ Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/psLAT0f)
 There's 2 or 3 minor bugs I could fix but I won't have a chance to fix them unless I get time to update the patch for v0.21.
 - I forgot to enable the new 'Flora (mother)' intro image
 - A couple times Scarlett will incorrectly call Flora Mom
-- This isn't my bug but one of the character's art needs to be fixed so if I update the patch I'll fix it then
+- This isn't my bug but one of the character's art needs to be fixed so if I update the patch I'll fix it then like I did with Zoe
 
 
 <br>
