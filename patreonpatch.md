@@ -25,7 +25,7 @@ Images - [#1](https://imgur.com/a/VO02I) [#2](https://imgur.com/a/psLAT0f)
 There's 2 or 3 minor bugs I could fix but I won't have a chance to fix them unless I get time to update the patch for v0.21.
 - I forgot to enable the new 'Flora (mother)' intro image
 - A couple times Scarlett will incorrectly call Flora Mom
-- This isn't my bug but one of the character's art needs to be fixed so if I update the patch I'll fix it then like I did with Zoe
+- This isn't my bug but one of the character's art has a visual annoyance so if I update the patch I'll fix it then
 
 
 <br>
@@ -38,7 +38,7 @@ There's 2 or 3 minor bugs I could fix but I won't have a chance to fix them unle
 
 ### **Installation:**  
 - **You NEED to back up your original game folder because the patch overwrites files**
-- Extract the folder in the zip file to the game folder you wish to patch
+- Extract the folder in the zip file to the copy of your game folder
 - Run Incest_Patch.bat from the www folder in your game directory
 
 <br>
@@ -50,7 +50,7 @@ If you want to use your old saves with the incest patch they need to be converte
 - In your game folder go to ```/www/saves``` (preferably delete all file# saves except the one you wish to convert)
 - Click on the editor download link and download and extract the save editor
 - Open ```index.html``` inside the editor folder to bring up the tab and with it open your most recent save file
-- Select all the text and copy it into ```/www/saves/save.txt``` and save it
+- Select all the text and copy it into ```/www/saves/save.txt``` and save then close it
 - Open ```Save Converter``` and select an option
 - Open ```save.txt``` and select all the text and copy it
 - Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
