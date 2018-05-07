@@ -1,3 +1,4 @@
+### (Work on the guide is paused until the v0.21 update)
 # School of Lust - 100% Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
