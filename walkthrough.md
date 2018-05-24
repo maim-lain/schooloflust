@@ -1,4 +1,4 @@
-### (Work on the guide is paused until the v0.21 update)
+### (I can't update the guide or patch until v0.2.1c and the v0.2.1 changelogs are uploaded on F95)
 # School of Lust - 100% Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
