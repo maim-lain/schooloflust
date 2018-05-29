@@ -1,5 +1,5 @@
 ### I can't update the walkthrough or the patreon patch until 0.2.1c and the 0.2.1 changelogs are uploaded on F95.
-### If you have 0.2.1c and would like to send it to me, but don't want to post it on F95, you can private message me it on GitHub or F95.
+### If you have 0.2.1c and would like to send it to me, but don't want to post it on F95 for whatever reason, you can email me or send me a private message on F95.
 
 <br>
 <br>
