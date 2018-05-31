@@ -1,5 +1,7 @@
-### 0.2.1c Incest patch update status: Almost done, I'll post it on Thursday.
-### 0.2.1c Walkthrough update status: I need to rewrite some parts to bring it up to date with the new update. So far I've only rewritten up to: 9/6 (Tue)
+### 0.2.1c Incest patch update status:
+Almost done, I'll post it on Thursday.
+### 0.2.1c Walkthrough update status:
+I need to rewrite some parts to bring it up to date with the new update. So far I've only rewritten up to: 9/6 (Tue)
 
 
 <br>
@@ -94,8 +96,7 @@
 - Examine the backyard garage door -> Unlock (-Rusty key)
 - Search the dumpster left of your house (Received BDSM tape)
 - Search the trash can in the park (Received BDSM tape)
-- Optional: Walk around the neighborhood and see how much lag you are getting
-  - Try setting: "Phone -> Options -> Sync monitor" to off and see if you get less lag
+- Optional: Try setting: "Phone -> Options -> Sync monitor" to off and walk around to see if you get less lag
   - If you get more lag or don't notice a difference change it back to Auto
 - Exit and travel to Harfort
 
@@ -133,7 +134,7 @@
 
 ---
 
-### Entrance hall: --- Anything after here might change later
+### Entrance hall: ----- Anything after here might change later
 - (Received locker #13 key)
 - Phone -> Messages
 - Locker #13 -> Save game
