@@ -1,7 +1,7 @@
 ### 0.2.1c Incest patch update status:
 Almost done, I'll post it on Thursday.
 ### 0.2.1c Walkthrough update status:
-I need to rewrite some parts to bring it up to date with the new update. So far I've rewritten up to: **9/9 (Fri)**
+I need to rewrite some parts to bring it up to date with the new update. So far I've rewritten up to: **9/11 (Sun)**
 
 <br>
 <br>
@@ -254,7 +254,7 @@ No one | +1 Zoe
 
 <br>
 
-# 9/9 (Fri) ----- Anything after here might change later
+# 9/9 (Fri)
 
 ### Entrance:
 - (Received utility room key, teddy bear+, and 2x drinks)
@@ -300,11 +300,6 @@ No one | +1 Zoe
 
 ---
 
-### Entrance hall:
-- Locker #13 -> Save game
-
----
-
 ### Principal's office:
 - Trade coins for cash -> Trade 10 coins twice (+2 Romance) (Received $20)
 - Explain what's going on.
@@ -315,15 +310,15 @@ No one | +1 Zoe
 ### Library:
 - Search bookcase (Received magic book volume 1)
 - When studying with Claire you have a 50% chance of getting an extra point of knowledge
-  - The game will say "You were very into the books you read" when it happens
-  - You should always save the game before studying, and if you don't get the extra point then reload your save and repeat until you get it
+  - The game will say "You were very into the books you read" if you got the extra point
+  - If you are using my patch then you will always get the extra point and can avoid savewhoring
+  - If you aren't using my patch you should always save the game before studying, and if you don't get the extra point then reload your save and repeat until you get it
 - Claire -> Study together (+2 Knowledge) (+1 Romance)
 
 ---
 
 ### My room:
 - Bed -> Sleep
-- Bed -> Save game
 
 ---
 
@@ -344,18 +339,19 @@ No one | +1 Zoe
 ---
 
 ### Town:
-- Search the dumpster to your left (Received BDSM blindfold)
-- Search both dumpsters in the park at the center of town (2x Received BDSM tape)
-- Search the dumpster right of the park (Received BDSM gag)
-- Go north to the job agency
+- Search the dumpster directly below you (Received BDSM tape)
+- Search the dumpster to the left near the crack in the wall (Received BDSM blindfold)
+- Search the dumpster in the very top right corner of the map (Received BDSM gag)
+- Search the dumpster to the south near the fat guy (Received BDSM rope)
+- Go northwest and enter the job agency
 
 ---
 
 ### Job agency:
+- Scarlett -> Talk
 - [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
 - You should try to sell all 12 items, but as long as you sell at least 9 then it's fine
-- Scarlett -> Talk (+1 Romance) (Received $24) (Received disguise)
-- *Completed sidequest: Job agency*
+- *Completed sidequest: Job agency* (+1 Romance) (Received $24) (Received disguise)
 - Enter the cafe to the right of the job agency
 
 ---
@@ -368,7 +364,6 @@ No one | +1 Zoe
 ---
 
 ### Harfort:
-- Change clothes
 - Locker #13 -> Save game
 - Library -> Claire -> Study together (+2 Knowledge) (+1 Romance)
 
@@ -388,13 +383,14 @@ No one | +1 Zoe
 ---
 
 ### My room:
+- Since many people don't seem to understand the fight.. it's explained [here](http://tvtropes.org/pmwiki/pmwiki.php/Main/HopelessBossFight)
 - Bed -> Sleep
 
 ---
 
 <br>
 
-# 9/11 (Sun)
+# 9/11 (Sun) ----- Anything after here might change later
 
 ### Home:
 - *New sidequest: Natalie's Peeping Tom*
