@@ -192,8 +192,7 @@ Sofia | +1 Sofia
 Claire | +1 Claire
 Zoe | Nothing
 No one | +1 Zoe
-- We don't need to choose anyone specific so pick who you like
-- (I chose [best girl](https://i.cubeupload.com/5v1yUH.png))
+- Pick whoever you like (I chose [best girl](https://i.cubeupload.com/5v1yUH.png))
 - Phone -> Messages
 
 ---
@@ -211,7 +210,6 @@ No one | +1 Zoe
 
 ### My room:
 - Bed -> Sleep
-- Bed -> Save game
 
 ---
 
@@ -231,15 +229,10 @@ No one | +1 Zoe
 
 ---
 
-### My room:
-- Bed -> Save game
-
----
-
 ### Library:
 - Claire -> Talk -> Ask the three questions -> That's all.
 - Search the dumpster behind the school
-- Return Claire's novel (+5 Romance)
+- Talk to Claire again to return her novel (+5 Romance)
 - *Completed sidequest: Claire's novel*
 - Go to locker #13 -> Save game
 
