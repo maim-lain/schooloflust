@@ -1,7 +1,7 @@
 ### 0.2.1c Incest patch update status:
 Almost done, I'll post it on Thursday.
 ### 0.2.1c Walkthrough update status:
-I need to rewrite some parts to bring it up to date with the new update. So far I've rewritten up to: **9/8 (Thu)**
+I need to rewrite some parts to bring it up to date with the new update. So far I've rewritten up to: **9/9 (Fri)**
 
 <br>
 <br>
@@ -215,7 +215,7 @@ No one | +1 Zoe
 
 <br>
 
-# 9/8 (Thu) ----- Anything after here might change later
+# 9/8 (Thu)
 
 ### Living room:
 - Use the fridge (Received soda drink)
@@ -243,10 +243,10 @@ No one | +1 Zoe
 
 ---
 
-### My room:
+### Home:
 - Use the fridge (Received soda drink)
 - If you are using a keyboard I recommend changing the controls to add WASD for movement
-- (This is to make an upcoming event easier, I still prefer the mouse to move around)
+  - (This is to make an upcoming event easier, I still prefer the mouse to move around)
 - Bed -> Save game
 - Bed -> Sleep
 
@@ -254,7 +254,7 @@ No one | +1 Zoe
 
 <br>
 
-# 9/9 (Fri)
+# 9/9 (Fri) ----- Anything after here might change later
 
 ### Entrance:
 - (Received utility room key, teddy bear+, and 2x drinks)
