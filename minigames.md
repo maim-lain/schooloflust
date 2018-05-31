@@ -53,6 +53,27 @@ Tips and info:
 <br>
 <br>
 
+### Effort Combat Bonus
+Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
+--- | :---: | :---: | :---: | :---:
+1 | 8-10 | 5-9 | 4 | 1
+2 | 8-11 | 5-10 | 4 | 1
+3-4 | 8-12 | 5-11 | 4 | 1
+5-6 | 8-13 | 5-12 | 4 | 1
+7-8 | 8-14 | 5-13 | 4 | 1
+9-10 | 9-15 | 6-14 | 5 | 2
+11-20 | 10-16 | 7-15 | 5 | 3
+21-30 | 11-17 | 8-16 | 5 | 3
+31-40 | 12-18 | 9-17 | 5 | 3
+41+ | 13-19 | 10-18 | 6 | 4
+
+<br>
+
+Currently, having effort higher than 41 is not useful. You can get the maximum bonus at 41 and increasing effort past that doesn't give anymore bonuses.
+
+<br>
+<br>
+
 ### Romance bonus from gifts:
 Item | Mom | Natalie | Scarlett | Violet | Sofia
 --- | :---: | :---: | :---: | :---: | :---:
