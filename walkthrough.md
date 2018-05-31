@@ -16,7 +16,7 @@
 
 <br>
 
-[**School of Lust - v0.20e Incest Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
+[**School of Lust - v0.20e Incest Patch (updating soon)**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
 
 <br>
 <br>
@@ -35,7 +35,6 @@
 
 ### My room:
 - Right click to use your phone -> Check your messages -> Right click to put it away
-- Bed -> Save game
 
 ---
 
@@ -46,7 +45,7 @@
 
 ---
 
-### 3rd floor hallway:
+### Upstairs:
 - Talk to Mittens the cat
 - Pick up the vibrator (Received vibrator)
 
@@ -71,7 +70,6 @@
 
 ### My room:
 - Open the package
-- Bed -> Save game
 
 ---
 
@@ -85,7 +83,7 @@
 
 ---
 
-### Living room:
+### Living room:  
 - Use the fridge (Received soda drink)
 - Exit through the top door
 
@@ -96,9 +94,8 @@
 - Search the dumpster left of your house (Received BDSM tape)
 - Search the trash can in the park (Received BDSM tape)
 - Optional: Walk around the neighborhood and see how much lag you are getting
-  - You can press F2 to toggle the FPS and response time info
   - Try setting: "Phone -> Options -> Sync monitor" to off and see if you get less lag
-  - Set "Sync monitor" to whichever option gives you better performance
+  - If you get more lag or don't notice a difference change it back to Auto
 - Exit and travel to Harfort
 
 ---
@@ -117,8 +114,7 @@
 ---
 
 ### Floor 2:
-- Pilfer the teddy bear (Received teddy bear)
-- Inspect the blood (Inspecting the blood will always cause the game to autosave)
+- Take the teddy bear (Received teddy bear)
 - Enter the principal's office
 - Y-yes, my Queen! (+1 Romance)
 - Go fuck yourself. (+1 Romance)
@@ -136,7 +132,7 @@
 
 ---
 
-### Entrance hall:
+### Entrance hall: --- Anything after here might change later
 - (Received locker #13 key)
 - Phone -> Messages
 - Locker #13 -> Save game
@@ -153,13 +149,8 @@
 
 ---
 
-### My room:
-- *New sidequest: Mom the bum*
-- Bed -> Save game
-
----
-
 ### Living room:
+- *New sidequest: Mom the bum*
 - Mom -> Look under bra
 
 ---
@@ -573,7 +564,7 @@ Zoe | Lvl 0 | 0/5
 
 <br>
 
-# 9/14 (Wed) - Anything after here might change later
+# 9/14 (Wed)
 
 ### Home:
 - Phone -> Messages
