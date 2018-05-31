@@ -26,8 +26,8 @@ Tips and info:
 - If you are using a mouse and keyboard to play the game there are two ways to stop the arrow: pressing space or clicking the mouse. Clicking a mouse is much faster than pressing space.
 - You can click anywhere on the screen to stop the arrow. If you find the minigame to be difficult though, positioning your cursor at the center of the middle bar can improve eye-hand coordination when clicking.
 - The game has no time limit so wait for the arrow to go back and forth a few times to understand the correct timing.
-- If you want to make sure that you always get 3/3 baskets, you can easily savewhore by saving your game at locker #13 before starting the minigame. If you don't get 3/3 baskets then reload that save and walk back to Sofia and try again until you do.
-
+- If you are using my patch and talk to Sofia she will ask if you want to cheat. If you say yes you automatically get 3/3 baskets and skip the minigame.
+- If you aren't using my patch but want to make sure that you always get 3/3 baskets, you can easily savewhore by saving your game at locker #13 before starting the minigame. If you don't get 3/3 baskets then reload that save and walk back to Sofia and try again until you do.
 
 <br>
 <br>
