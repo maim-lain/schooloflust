@@ -1,7 +1,7 @@
 ### 0.2.1c Incest patch update status:
 Almost done, I'll post it on Thursday.
 ### 0.2.1c Walkthrough update status:
-I need to rewrite some parts to bring it up to date with the new update. So far I've only rewritten up to: 9/7 (Wed)
+I need to rewrite some parts to bring it up to date with the new update. So far I've rewritten up to: **9/8 (Thu)**
 
 <br>
 <br>
@@ -178,7 +178,7 @@ I need to rewrite some parts to bring it up to date with the new update. So far 
 
 ---
 
-### Harfort: ----- Anything after here might change later
+### Harfort:
 - Go to the medical room
 - Read the roster
 
@@ -217,7 +217,7 @@ No one | +1 Zoe
 
 <br>
 
-# 9/8 (Thu)
+# 9/8 (Thu) ----- Anything after here might change later
 
 ### Living room:
 - Use the fridge (Received soda drink)
