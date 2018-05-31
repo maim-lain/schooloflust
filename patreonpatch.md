@@ -15,15 +15,15 @@
 <br> 
 
 ## Patch changelog:
-- Changed Flora and Natalie back to being your mom and sister (this affects names, dialog, some images, etc) [(comparison 1)](https://i.lensdump.com/i/8voMRM.png) &nbsp;[(comparison 2)](https://i.lensdump.com/i/8voneq.png)
-- Restored old dialog that was removed or changed &nbsp;[(comparison)](https://i.lensdump.com/i/8vovyA.png)
-- Made Zoe's eyes and chest attractive &nbsp;[(comparison)](https://i.lensdump.com/i/8voeJD.png)
-- Removed that weird.. thing.. on the main character's neck &nbsp;[(comparison)](https://i.lensdump.com/i/8voS80.png)
+- Changed Flora and Natalie back to being your mom and sister (this affects names, dialog, some images, etc) [(example)](https://i.lensdump.com/i/8voMRM.png) &nbsp;[(example 2)](https://i.lensdump.com/i/8voneq.png)
+- Restored old dialog that was removed or changed &nbsp;[(example)](https://i.lensdump.com/i/8vovyA.png)
+- Made Zoe's eyes and chest attractive &nbsp;[(example)](https://i.lensdump.com/i/8voeJD.png)
+- Removed that weird.. thing.. on the main character's neck &nbsp;[(example)](https://i.lensdump.com/i/8voS80.png)
 - Removed the RNG bullshit from the "spend time with" events for Violet and Claire. You now always get +2 points because fuck it, I was going to savewhore anyways.
 - When you start the basketball minigame, if you talk to Sofia she will ask if you want to cheat. If you say yes you automatically get 3/3 baskets and skip the minigame. She also will tell you to git gud.
 - Using the fortune teller to cheat no longer changes your name (she still calls you a wimp though)
 - All game files have been decrypted
-- Non-animated images can now be opened/viewed in the game folder
+- All non-animated images/CGs can now be opened/viewed in the game folder
 - I hid two small easter eggs (that have no impact on the game), who will be the first to find them?
 
 <br>
