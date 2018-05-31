@@ -1,9 +1,9 @@
 ### 0.2.1c Incest patch update status:
 Almost done, I'll post it on Thursday.
 ### 0.2.1c Walkthrough update status:
-I need to rewrite some parts to bring it up to date with the new update. So far I've only rewritten up to: 9/6 (Tue)
+I need to rewrite some parts to bring it up to date with the new update. So far I've only rewritten up to: 9/7 (Wed)
 
-
+<br>
 <br>
 <br>
 <br>
@@ -134,7 +134,7 @@ I need to rewrite some parts to bring it up to date with the new update. So far 
 
 ---
 
-### Entrance hall: ----- Anything after here might change later
+### Entrance hall:
 - (Received locker #13 key)
 - Phone -> Messages
 - Locker #13 -> Save game
@@ -146,7 +146,7 @@ I need to rewrite some parts to bring it up to date with the new update. So far 
 - *New sidequest: Sofia's unusual request*
 - Go back to the entrance hall and save your game
 - [Read my tips for the basketball minigame](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#basketball-with-sofia)
-- You should always get 3/3 baskets so reload your last save if you need to
+- You should always get 3/3 baskets so if you miss any shots use either method I describe in the tips to get all 3 baskets
 - Sofia -> Play ball (+3 Effort) (+1 Romance)
 
 ---
@@ -159,7 +159,6 @@ I need to rewrite some parts to bring it up to date with the new update. So far 
 
 ### My room:
 - Bed -> Sleep
-- Bed -> Save game
 
 ---
 
@@ -179,8 +178,7 @@ I need to rewrite some parts to bring it up to date with the new update. So far 
 
 ---
 
-### Harfort:
-- Locker #13 -> Save game
+### Harfort: ----- Anything after here might change later
 - Go to the medical room
 - Read the roster
 
