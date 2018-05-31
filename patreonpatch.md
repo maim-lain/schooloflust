@@ -29,7 +29,7 @@
 <br>
 <br>
 
-### Installation and save info:
+## Installation and save info:
 - I know I called this a 'patch' but the download is the entire game with the patch already installed, meaning there's no special patch installation. So I guess it isn't technically a patch. You can call it the 'Remastered Edition' if you'd like.
 - Currently, you have to start a new game to play the patched version. I did make a save converter for the previous patch but this already took a lot of time so I can't bothered to make sure it works at the moment. I'll make sure to post a save converter eventually though that will also convert an incest patch save to a normal save.
 
