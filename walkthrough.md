@@ -1,4 +1,6 @@
-### 5/30 update - Working on the 0.2.1c patreon patch today. I'll start updating the walkthrough bit by bit after that.
+### 0.2.1c Incest patch update status: Almost done, I'll post it on Thursday.
+### 0.2.1c Walkthrough update status: I need to rewrite some parts to bring it up to date with the new update. So far I've only rewritten up to: 9/6 (Tue)
+
 
 <br>
 <br>
@@ -25,7 +27,6 @@
 **Some notes about the walkthrough:**  
 - This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well.
 - Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
-- Once you've played past the first week, if you reach 100 arousal the game will penalize you and you will deviate a bit from the walkthrough. If this happens then you should reload your your last save and use an antiandrogen to lower your arousal and make sure it doesn't reach 100.
 - If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
 
 <br>
@@ -607,6 +608,8 @@ Zoe | Lvl 0 | 0/5
 
 <!---
 
+3/4:
+- Once you've played past the first week, if you reach 100 arousal the game will penalize you and you will deviate a bit from the walkthrough. If this happens then you should reload your your last save and use an antiandrogen to lower your arousal and make sure it doesn't reach 100.
 
 
 - room read book
