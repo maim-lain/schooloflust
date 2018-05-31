@@ -1,14 +1,4 @@
-### 0.2.1c Incest patch update status:
-Almost done, I'll post it on Thursday.
-### 0.2.1c Walkthrough update status:
-I need to rewrite some parts to bring it up to date with the new update. So far I've rewritten up to: **9/11 (Sun)**
-
-<br>
-<br>
-<br>
-<br>
-
-# School of Lust - 100% Walkthrough
+# School of Lust - v0.21c Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -20,16 +10,19 @@ I need to rewrite some parts to bring it up to date with the new update. So far 
 
 <br>
 
-[**School of Lust - v0.20e Incest Patch (updating soon)**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
+[**School of Lust - v0.21c Incest Patch (updated!)**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
 
 <br>
 <br>
 <br>
 
 **Some notes about the walkthrough:**  
+- The walkthrough can be used with both the unpatched game and the patched game. I'd recommend using my patch, but the walkthrough can be followed exactly the same without it.
 - This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well.
 - Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
 - If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
+- I'm currently checking the walkthrough to make sure everything is still correct and optimal due to the new update changes. So far I've checked and updated the first week of the walkthrough.
+
 
 <br>
 <br>
