@@ -296,12 +296,12 @@ No one | +1 Zoe
 ### Principal's office:
 - Trade coins for cash -> Trade 10 coins twice (+2 Romance) (Received $20)
 - Explain what's going on.
-- Go to locker #13 -> Save game
 
 ---
 
 ### Library:
 - Search bookcase (Received magic book volume 1)
+- Go to locker #13 -> Save game
 - When studying with Claire you have a 50% chance of getting an extra point of knowledge
   - The game will say "You were very into the books you read" if you got the extra point
   - If you are using my patch then you will always get the extra point and can avoid savewhoring
