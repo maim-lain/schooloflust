@@ -589,6 +589,14 @@ Zoe | Lvl 0 | 0/5
 
 <!---
 
+so sunday violet is available at playground, but i skip the scene to read teh book which i cant even use yet though...
+
+Keep track of:
+Money
+Violet romance level
+Antiandrogen.
+
+
 3/4:
 - Once you've played past the first week, if you reach 100 arousal the game will penalize you and you will deviate a bit from the walkthrough. If this happens then you should reload your your last save and use an antiandrogen to lower your arousal and make sure it doesn't reach 100.
 
