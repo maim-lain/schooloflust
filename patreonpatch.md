@@ -33,6 +33,12 @@
 - I know I called this a 'patch' but the download is the entire game with the patch already installed, meaning there's no special patch installation. So I guess it isn't technically a patch. You can call it the 'Remastered Edition' if you'd like.
 - Currently, you have to start a new game to play the patched version. I did make a save converter for the previous patch but this already took a lot of time so I can't bothered to make sure it works at the moment. I'll make sure to post a save converter eventually though that will also convert an incest patch save to a normal save.
 
+<br>
+<br>
+
+### Bugs:
+- In Hypno Natalie #6 the animation doesn't play. I knew about this bug beforehand, I just forgot to test it, so I promise this should be the only bug. Try using [this fix](https://f95zone.com/threads/school-of-lust-v0-21c-boner-games.6555/page-47#post-796601) and message me to let me know if it works or not because I can't test it myself at the moment.
+
 <!---
 
 <br>
