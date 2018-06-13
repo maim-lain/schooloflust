@@ -12,7 +12,7 @@
 [**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!KbwxiJzS!lB2GzrMvQ8xicCyF12iAhmbMYMW2LC0eDkbAVxrDXiI)  
 
 <br>
-<br> 
+<br>
 
 ## Patch changelog:
 - Changed Flora and Natalie back to being your mom and sister (this affects names, dialog, some images, etc) [(example)](https://i.lensdump.com/i/8voMRM.png) &nbsp;[(example 2)](https://i.lensdump.com/i/8voneq.png)
@@ -29,58 +29,18 @@
 <br>
 <br>
 
-## Installation and save info:
+## Installation:
 - I know I called this a 'patch' but the download is the entire game with the patch already installed, meaning there's no special patch installation. So I guess it isn't technically a patch. You can call it the 'Remastered Edition' if you'd like.
-- Currently, you have to start a new game to play the patched version. I did make a save converter for the previous patch but this already took a lot of time so I can't bothered to make sure it works at the moment. I'll make sure to post a save converter eventually though that will also convert an incest patch save to a normal save.
+
+<br>
+<br>
+
+## Converting game saves:
+- [(Link to instructions)](https://github.com/maim-lain/schooloflust/blob/master/convertsaves.md)
+- If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game.
 
 <br>
 <br>
 
 ### Bugs:
 - In Hypno Natalie #6 the animation doesn't play. I knew about this bug beforehand, I just forgot to test it, so I promise this should be the only bug. Try using [this fix](https://f95zone.com/threads/school-of-lust-v0-21c-boner-games.6555/page-47#post-796601) and message me to let me know if it works or not because I can't test it myself at the moment.
-
-<!---
-
-<br>
-<br>
-
----
-
-<br>
-<br>
-
-**Requirements:**  
-- v0.20e **only**
-- Game MUST be enigma unpacked (decrypted). Using it on v0.20e when it's still encrypted won't work.
-
-<br>
-
-**Bugs:**  
-There's 2 or 3 minor bugs I could fix but I won't have a chance to fix them unless I get time to update the patch for v0.21.
-- I forgot to enable the new 'Flora (mother)' intro image
-- A couple times Scarlett will incorrectly call Flora Mom
-- This isn't my bug but one of the character's art has a visual annoyance so if I update the patch I'll fix it then
-
-
-### **Installation:**  
-- **You NEED to back up your original game folder because the patch overwrites files**
-- Extract the folder in the zip file to the copy of your game folder
-- Run Incest_Patch.bat from the www folder in your game directory
-
-<br>
-<br>
-
-### **Converting Saves**:  
-If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game. In the instructions below if I say 'game folder', that means your patched game folder.
-
-- In your game folder go to ```/www/saves``` (preferably delete all file# saves except the one you wish to convert)
-- Click on the editor download link and download and extract the save editor
-- Open ```index.html``` inside the editor folder to bring up the tab and with it open your most recent save file
-- Select all the text and copy it into ```/www/saves/save.txt``` and save then close it
-- Open ```Save Converter``` and select an option
-- Open ```save.txt``` and select all the text and copy it
-- Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
-- Put the converted save in your save folder
-- (For the previous step if you converted your save back to normal also copy (only copy, no need to convert) ```config.rpgsave``` and ```global.rpgsave``` from your patched game save folder back to your unpatched game save folder as well)
-
---->
