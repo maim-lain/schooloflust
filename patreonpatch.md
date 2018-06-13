@@ -37,8 +37,8 @@
 <br>
 
 ## Converting game saves:
-- [(Link to instructions)](https://github.com/maim-lain/schooloflust/blob/master/convertsaves.md)
 - If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game.
+- [(Link to instructions)](https://github.com/maim-lain/schooloflust/blob/master/convertsaves.md)
 
 <br>
 <br>
