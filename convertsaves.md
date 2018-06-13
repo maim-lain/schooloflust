@@ -27,4 +27,4 @@
 - Open ```save.txt``` and select all the text and copy it
 - Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
 - Put the converted save in the save folder you wish to transfer it to
-- Finally copy ```config.rpgsave``` and ```global.rpgsave``` from your old save folder to your new game save folder
+- Finally copy ```config.rpgsave``` and ```global.rpgsave``` from your old save folder to your new save folder
