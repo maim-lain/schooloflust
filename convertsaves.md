@@ -1,4 +1,4 @@
-# School of Lust - v0.21c Incest Patch - Converting Saves
+# School of Lust - Converting Saves
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
