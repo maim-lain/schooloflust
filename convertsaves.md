@@ -19,7 +19,7 @@
 <br>
 
 ## Converting Saves:
-- Find the file#.rpgsave that you want to convert in ```/www/saves``` in your old game folder
+- Go to ```/www/saves``` inside your old game folder and find the file#.rpgsave that you want to convert
 - In the incest patch game folder go to ```/www/saves```
 - Open ```RPGMakerMVSaveEditor``` then ```index.html``` to bring up the tab and with it open the save you want to convert
 - Select all the text and copy it into ```/www/saves/save.txt``` and then save and close the ```save.txt``` file
