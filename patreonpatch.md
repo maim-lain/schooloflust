@@ -15,7 +15,6 @@
 <br>
 
 ## Patch changelog:
-- June 13th update - Added a save converter and fixed the Natalie bug.
 - Changed Flora and Natalie back to being your mom and sister (this affects names, dialog, some images, etc) [(example)](https://i.lensdump.com/i/8voMRM.png) &nbsp;[(example 2)](https://i.lensdump.com/i/8voneq.png)
 - Restored old dialog that was removed or changed &nbsp;[(example)](https://i.lensdump.com/i/8vovyA.png)
 - Made Zoe's eyes and chest attractive &nbsp;[(image)](https://i.lensdump.com/i/8voeJD.png)
@@ -26,6 +25,7 @@
 - All game files have been decrypted
 - All non-animated images/CGs can now be opened/viewed in the game folder
 - I hid two small easter eggs (that have no impact on the game), who will be the first to find them?
+- **June 13th update - Added a save converter and fixed the Natalie bug.**
 
 <br>
 <br>
