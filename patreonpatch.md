@@ -42,5 +42,5 @@
 <br>
 <br>
 
-### Bugs:
-- In Hypno Natalie #6 the animation doesn't play. I knew about this bug beforehand, I just forgot to test it, so I promise this should be the only bug. Try using [this fix](https://f95zone.com/threads/school-of-lust-v0-21c-boner-games.6555/page-47#post-796601) and message me to let me know if it works or not because I can't test it myself at the moment.
+### Old bug:
+- In an old version of my patch there was a bug with the Hypno Natalie #6 scene animation. Use [the fix from this post](https://f95zone.com/threads/school-of-lust-v0-21c-boner-games.6555/page-47#post-796601) to fix it. The current download already includes this fix.
