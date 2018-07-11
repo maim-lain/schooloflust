@@ -1,4 +1,4 @@
-# School of Lust - v0.21c Incest Patch
+# School of Lust - v0.21c Patch
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -9,7 +9,8 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](***REMOVED***)  
+[**DOWNLOAD LINK (MEGA)**](https://i.lensdump.com/i/8Xp6ub.jpg)  
+*Link removed because the developers are assholes who hate their fans.*
 
 <br>
 <br>
@@ -39,9 +40,3 @@
 ## Converting game saves:
 - If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game.
 - [(Link to instructions)](https://github.com/maim-lain/schooloflust/blob/master/convertsaves.md)
-
-<br>
-<br>
-
-#### Natalie bug:
-- In an old version of my patch (before June 13th) there was a bug with the Hypno Natalie #6 scene animation. Use [the fix from this post](https://f95zone.com/threads/school-of-lust-v0-21c-boner-games.6555/page-47#post-796601) to fix it. The current download already includes this fix.
