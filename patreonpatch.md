@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://i.lensdump.com/i/8Xp6ub.jpg) *Link removed because the developers are assholes who hate their fans.*
+[**DOWNLOAD LINK (MEGA)**](https://i.lensdump.com/i/8Xp6ub.jpg) - *Link removed because the developers are assholes who hate their fans.*
 
 <br>
 <br>
