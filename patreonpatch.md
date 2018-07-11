@@ -10,12 +10,10 @@
 <br>
 
 [**DOWNLOAD LINK (MEGA)**](https://i.lensdump.com/i/8Xp6ub.jpg)  
-*(Link removed because the developers are assholes who hate their fans)*
 
 <br>
 
-I do not have a download for the patch and I cannot upload it, sorry.  
-Send your (strongly worded) complaints here: contact@bonergames.com
+Link [has been removed](https://github.com/github/dmca/blob/master/2018/2018-07-09-LawinaEntertainment.md) because the developers are assholes who hate their fans. I do not have a download for the patch and I cannot upload it, sorry. Send your (strongly worded) complaints here: contact@bonergames.com
 
 <br>
 <br>
