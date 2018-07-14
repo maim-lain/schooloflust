@@ -1,4 +1,4 @@
-# School of Lust - v0.21c Patch
+# School of Lust - v0.21c Incest Patch
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
