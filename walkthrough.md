@@ -587,6 +587,46 @@ Zoe | Lvl 0 | 0/5
 ### Harfort:
 - 6+7 -> 13-5 -> 8\*6 (+1 Knowledge)
 
+<br>
+<br>
+
+I forgot that someone sent me this a while ago. It was tips they had for the next few days after my walkthrough stopped. I haven't read it yet, but here it is if you still need help and a̺̻̝͖͞r͏͕̰̗̰̹̭̰̹e̹̻͢ ͙̩̫́͠v͙͓͡e̶͏͓̩r̢͓̭̦̦͈̻̻͇̤͟y͏̴̛̗͕̫̯̖̩̟̳ ̢̖̯̠̼͡d̸̗̥͝í̤͍̕͢ͅş̪͙̥͟ạ͚̖̦̤͜ͅp̴̶̬̭̜̯̹̳ͅp̢̼͎̤̰̹͞o̜̫̻̹͓͙̠̝̹͞͡ì̡̺̺͎̲n̴̶̪̭̫̣͟t̖̲̖̺͜e̺͙̥̮͇d͓͚͎̟̤̠ ̸͓t̫̲̮͚̲̟͖̞͉h̴͎͈a̶̤͔̻̺͡t̻͇̻̺̖ ̞͕̦͓̫̠͍̀I̡̬̝̫͔̱̮̹̫̞̕͜ ̧̲͙̰̜̜̗͕̫h̸͓̯̭̗͠a̞̩̮͘v̲̯̪̳̲̬͓e͇͍̖͍ǹ͕͈̖̠̙̤̕'̙̙t̡̰̠̲͕̪̖̟ͅ ̷̗̼u҉͎̭̫̞͓̭̩̜̫p̸̫͉̗̥̭̲͈̕͢d̷̨̤̱͓̤͜a҉҉̖͚̩̝͕t̴̡̗̰̣̫̮͎͖͓e̯͚̟̰͓d͉̬́ ̪̙͙͈̲͈͎͖̻t̻͈̠̫͎̪̞̕͠h̷̥̪́e̡͇̕ ̨͈̗͟w̻̠̹a͏̸͇̰̼̳̳̣͈̪̺l̸̠ͅk̖̲͕̼̘͚͠t̶̸͈͙̥̺̜̞̖͉͞h̪̼̘̘͖͉͝͠ͅͅr̀̕͏̖͍͖̖̠͔̻o̸̠͙͍̫͎̕u͉̹͇̣̜͖͞g̨̟̤̙̖̙̩̣̼͘h̵̨͕̣͚͇̮̼͖̩͢.̶̯̗͟
+```
+9/15
+After giving money the mom, go to the school, English litrature class is on,
+I get by randomly 2 questions answers were: boner and nudes,
+questions are about lewd stuff, go to uncle and agree with the shop,
+place toys on to the shelves and open the shop first time
+
+9/16
+save from bed
+talk to mom (new quest: mum no longer a bum)
+talk to her again
+give her 5$ and get charm & romance (there is a chance to get extra charm)
+go to school get charm
+come home hypnotise Natalie
+read hypnotise book part 2
+hypnotise Natalie through peephole
+sleep
+
+9/17
+have breakfast with mom and sis
+read mom's diary
+go to fridge and get soda
+go to town to bunny bar
+talk to fat guy and give him money
+get Natalie a new top
+talk to neighbour
+choose one target Natalie or Violet (I've choosen Violet) 
+save from bed
+go to cafe and spend sometime
+I'll cherish this moment (get extra romance) romance up, charm up (chance for extra charm)
+go back to neighbour
+as it is saturday we need to go to the hole from tha garage
+(watch out! there is 4 enemies in some of the rooms)
+my room, peephole hypnosis (you can give her the dildo and have her way with it)
+```
+
 <!---
 
 so sunday violet is available at playground, but i skip the scene to read teh book which i cant even use yet though...
