@@ -590,7 +590,7 @@ Zoe | Lvl 0 | 0/5
 <br>
 <br>
 
-I forgot that someone sent me this a while ago. It was tips they had for the next few days after my walkthrough stopped. I haven't read it yet, but here it is if you still need help and a̺̻̝͖͞r͏͕̰̗̰̹̭̰̹e̹̻͢ ͙̩̫́͠v͙͓͡e̶͏͓̩r̢͓̭̦̦͈̻̻͇̤͟y͏̴̛̗͕̫̯̖̩̟̳ ̢̖̯̠̼͡d̸̗̥͝í̤͍̕͢ͅş̪͙̥͟ạ͚̖̦̤͜ͅp̴̶̬̭̜̯̹̳ͅp̢̼͎̤̰̹͞o̜̫̻̹͓͙̠̝̹͞͡ì̡̺̺͎̲n̴̶̪̭̫̣͟t̖̲̖̺͜e̺͙̥̮͇d͓͚͎̟̤̠ ̸͓t̫̲̮͚̲̟͖̞͉h̴͎͈a̶̤͔̻̺͡t̻͇̻̺̖ ̞͕̦͓̫̠͍̀I̡̬̝̫͔̱̮̹̫̞̕͜ ̧̲͙̰̜̜̗͕̫h̸͓̯̭̗͠a̞̩̮͘v̲̯̪̳̲̬͓e͇͍̖͍ǹ͕͈̖̠̙̤̕'̙̙t̡̰̠̲͕̪̖̟ͅ ̷̗̼u҉͎̭̫̞͓̭̩̜̫p̸̫͉̗̥̭̲͈̕͢d̷̨̤̱͓̤͜a҉҉̖͚̩̝͕t̴̡̗̰̣̫̮͎͖͓e̯͚̟̰͓d͉̬́ ̪̙͙͈̲͈͎͖̻t̻͈̠̫͎̪̞̕͠h̷̥̪́e̡͇̕ ̨͈̗͟w̻̠̹a͏̸͇̰̼̳̳̣͈̪̺l̸̠ͅk̖̲͕̼̘͚͠t̶̸͈͙̥̺̜̞̖͉͞h̪̼̘̘͖͉͝͠ͅͅr̀̕͏̖͍͖̖̠͔̻o̸̠͙͍̫͎̕u͉̹͇̣̜͖͞g̨̟̤̙̖̙̩̣̼͘h̵̨͕̣͚͇̮̼͖̩͢.̶̯̗͟
+I forgot that someone sent me this a while ago. It was tips they had for the next few days after my walkthrough stopped. I haven't read it yet so I'm not sure if they are choices I would have made, but here it is if you still need help and a̺̻̝͖͞r͏͕̰̗̰̹̭̰̹e̹̻͢ ͙̩̫́͠v͙͓͡e̶͏͓̩r̢͓̭̦̦͈̻̻͇̤͟y͏̴̛̗͕̫̯̖̩̟̳ ̢̖̯̠̼͡d̸̗̥͝í̤͍̕͢ͅş̪͙̥͟ạ͚̖̦̤͜ͅp̴̶̬̭̜̯̹̳ͅp̢̼͎̤̰̹͞o̜̫̻̹͓͙̠̝̹͞͡ì̡̺̺͎̲n̴̶̪̭̫̣͟t̖̲̖̺͜e̺͙̥̮͇d͓͚͎̟̤̠ ̸͓t̫̲̮͚̲̟͖̞͉h̴͎͈a̶̤͔̻̺͡t̻͇̻̺̖ ̞͕̦͓̫̠͍̀I̡̬̝̫͔̱̮̹̫̞̕͜ ̧̲͙̰̜̜̗͕̫h̸͓̯̭̗͠a̞̩̮͘v̲̯̪̳̲̬͓e͇͍̖͍ǹ͕͈̖̠̙̤̕'̙̙t̡̰̠̲͕̪̖̟ͅ ̷̗̼u҉͎̭̫̞͓̭̩̜̫p̸̫͉̗̥̭̲͈̕͢d̷̨̤̱͓̤͜a҉҉̖͚̩̝͕t̴̡̗̰̣̫̮͎͖͓e̯͚̟̰͓d͉̬́ ̪̙͙͈̲͈͎͖̻t̻͈̠̫͎̪̞̕͠h̷̥̪́e̡͇̕ ̨͈̗͟w̻̠̹a͏̸͇̰̼̳̳̣͈̪̺l̸̠ͅk̖̲͕̼̘͚͠t̶̸͈͙̥̺̜̞̖͉͞h̪̼̘̘͖͉͝͠ͅͅr̀̕͏̖͍͖̖̠͔̻o̸̠͙͍̫͎̕u͉̹͇̣̜͖͞g̨̟̤̙̖̙̩̣̼͘h̵̨͕̣͚͇̮̼͖̩͢.̶̯̗͟
 ```
 9/15
 After giving money the mom, go to the school, English litrature class is on,
