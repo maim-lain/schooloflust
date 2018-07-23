@@ -3,7 +3,7 @@
 
 <br>
 
-- [100% Walkthrough](https://github.com/maim-lain/schooloflust/blob/master/walkthrough.md)  
+- [Walkthrough](https://github.com/maim-lain/schooloflust/blob/master/walkthrough.md)  
 - [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)  
 - [Scene Guide](https://github.com/maim-lain/schooloflust/blob/master/scenes.md)  
 - [Minigame Tips](https://github.com/maim-lain/schooloflust/blob/master/minigames.md)  
@@ -17,11 +17,10 @@
 <br>
 
 **Some notes about the walkthrough:**  
+- I won't be updating this walkthrough or the patch anymore. I recommend playing a game that's actually good, instead of this game.
 - The walkthrough can be used with both the unpatched game and the patched game. I'd recommend using my patch, but the walkthrough can be followed exactly the same without it.
-- This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the game. So I'll be doing all the quests and sidequests as well.
 - Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
 - If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
-- I'm currently checking the walkthrough to make sure everything is still correct and optimal due to the new update changes. So far I've checked and updated the first week of the walkthrough.
 
 
 <br>
