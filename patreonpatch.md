@@ -13,7 +13,7 @@
 
 <br>
 
-Link [has been removed](https://github.com/github/dmca/blob/master/2018/2018-07-09-LawinaEntertainment.md) because the developers are assholes who hate their fans. I do not have a download for the patch and I cannot upload it, sorry. Send your (strongly worded) complaints here: contact@bonergames.com
+The link has been [taken down by the developers.](https://github.com/github/dmca/blob/master/2018/2018-07-09-LawinaEntertainment.md) I do not have a download for the patch and I cannot upload it, sorry.
 
 <br>
 <br>
