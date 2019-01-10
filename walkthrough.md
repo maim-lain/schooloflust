@@ -164,7 +164,7 @@
 
 ### Living room:
 - Talk to Mom
-- *New sidequest: Job agency*
+- *New sidequest: Job Agency*
 - Use the fridge (Received soda drink)
 
 ---
@@ -199,7 +199,7 @@ No one | +1 Zoe
 
 ---
 
-### My room:
+### Your room:
 - Bed -> Sleep
 
 ---
@@ -224,7 +224,7 @@ No one | +1 Zoe
 - Claire -> Talk -> Ask the three questions -> That's all.
 - Search the dumpster behind the school
 - Talk to Claire again to return her novel (+5 Romance)
-- *Completed sidequest: Claire's novel*
+- *Completed sidequest: Claire's Novel*
 - Go to locker #13 -> Save game
 
 ---
@@ -253,41 +253,26 @@ No one | +1 Zoe
 
 ---
 
-### Room 1:
-- Break all the vases by repeatedly clicking them
-- Go left
-
----
-
-### Room 2:
-- Break the five vases below you
-- Go up
-
----
-
-### Room 3:
-- Break the vases and open the chest (Received dildo)
-- Go left
-
----
-
-### Room 4:
-- Go down to return to room 2
-- Break the four vases then go back up to room 4
-- The reason I changed the WASD keys to move is for the event in the next room; I prefer it over using the arrow keys
-- Go left
-
----
-
-### Room 5:
-- Break the vases
-- Go up
-
----
-
-### Room 6:
-- Break the vases
-- Go up the elevator
+- Room 1:
+  - Break all the vases by repeatedly clicking them
+  - Go left
+- Room 2:
+  - Break the five vases below you
+  - Go up
+- Room 3:
+  - Break the vases and open the chest (Received dildo)
+  - Go left
+- Room 4:
+  - Go down to return to room 2
+  - Break the four vases then go back up to room 4
+  - The reason I changed the WASD keys to move is for the event in the next room; I prefer it over using the arrow keys
+  - Go left
+- Room 5:
+  - Break the vases
+  - Go up
+- Room 6:
+  - Break the vases
+  - Go up the elevator
 
 ---
 
