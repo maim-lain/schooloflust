@@ -134,7 +134,7 @@
 
 ### Basketball court:
 - Sofia -> Talk -> Ask the three questions -> That's all.
-- *New sidequest: Sofia's unusual request*
+- *New sidequest: Sofia's Unusual Request*
 - Go back to the entrance hall and save your game
 - [Read my tips for the basketball minigame](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#basketball-with-sofia)
 - You should always get 3/3 baskets so if you miss any shots use either method I describe in the tips to get all 3 baskets
@@ -143,7 +143,7 @@
 ---
 
 ### Living room:
-- *New sidequest: Mom the bum*
+- *New sidequest: Mom the Bum*
 - Mom -> Look under bra
 
 ---
