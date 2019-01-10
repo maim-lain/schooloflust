@@ -258,14 +258,14 @@ No one | +1 Zoe
   - Break all the vases by repeatedly clicking them
   - Go left
 - Room 2:
-  - Break the five vases below you
+  - Break the vases below you
   - Go up
 - Room 3:
   - Break the vases and open the chest (Received dildo)
   - Go left
 - Room 4:
   - Go down to return to room 2
-  - Break the four vases then go back up to room 4
+  - Break the vases below then go back up to room 4
   - The reason I changed the WASD keys to move is for the event in the next room; I prefer it over using the arrow keys
   - Go left
 - Room 5:
@@ -278,8 +278,10 @@ No one | +1 Zoe
 ---
 
 ### Principal's office:
-- Trade coins for cash -> Trade 10 coins twice (+2 Romance) (Received $20)
-- Explain what's going on.
+- Trade coins for cash -> Only trade 10 coins at a time
+  - (This is because you only get a romance point if you trade 10 coins. You don't get any romance points if you trade 1 coin at a time, so you should only trade in 10's.)
+  - You should have enough to at least trade twice, or three times if you're lucky (+3 Romance) (Received $30)
+- "Explain what's going on"
 
 ---
 
