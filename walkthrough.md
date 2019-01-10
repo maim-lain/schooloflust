@@ -253,6 +253,7 @@ No one | +1 Zoe
 
 ---
 
+### The Hole:
 - Room 1:
   - Break all the vases by repeatedly clicking them
   - Go left
@@ -293,7 +294,7 @@ No one | +1 Zoe
 
 ---
 
-### My room:
+### Your room:
 - Bed -> Sleep
 
 ---
