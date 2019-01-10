@@ -17,7 +17,6 @@
 <br>
 
 **Some notes about the walkthrough:**  
-- I won't be updating this walkthrough or the patch anymore.
 - The walkthrough can be used with both the unpatched game and the patched game. I'd recommend using my patch, but the walkthrough can be followed exactly the same without it.
 - Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
 - If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
@@ -28,7 +27,7 @@
 
 # 9/5 (Mon)
 
-### My room:
+### Your room:
 - Right click to use your phone -> Check your messages -> Right click to put it away
 
 ---
@@ -63,7 +62,7 @@
 
 # 9/6 (Tue)
 
-### My room:
+### Your room:
 - Open the package
 
 ---
@@ -88,7 +87,7 @@
 - Examine the backyard garage door -> Unlock (-Rusty key)
 - Search the dumpster left of your house (Received BDSM tape)
 - Search the trash can in the park (Received BDSM tape)
-- Optional: Try setting: "Phone -> Options -> Sync monitor" to off and walk around to see if you get less lag
+- Optional: If you have a good computer try setting: "Phone -> Options -> Sync monitor" to off and walk around to see if you get less lag
   - If you get more lag or don't notice a difference change it back to Auto
 - Exit and travel to Harfort
 
@@ -149,7 +148,7 @@
 
 ---
 
-### My room:
+### Your room:
 - Bed -> Sleep
 
 ---
