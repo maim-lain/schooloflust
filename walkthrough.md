@@ -278,7 +278,7 @@ No one | +1 Zoe
 ---
 
 ### Principal's office:
-- Trade coins for cash -> Only trade 10 coins at a time
+- Trade coins for cash -> Only trade coins in 10s
   - (This is because you only get a romance point if you trade 10 coins. You don't get any romance points if you trade 1 coin at a time, so you should only trade in 10's.)
   - You should have enough to at least trade twice, or three times if you're lucky (+3 Romance) (Received $30)
 - "Explain what's going on"
