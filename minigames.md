@@ -41,7 +41,7 @@ Tips and info:
 <br>
 <br>
 
-### Effort Combat Bonus
+### Effort Combat Bonus:
 Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 --- | :---: | :---: | :---: | :---:
 1 | 8-10 | 5-9 | 4 | 1
