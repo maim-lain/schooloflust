@@ -57,7 +57,8 @@ Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 
 <br>
 
-Currently, having effort higher than 41 is not useful. You can get the maximum bonus at 41 and increasing effort past that doesn't give anymore bonuses.
+- Currently, having effort higher than 41 is not useful. You can get the maximum bonus at 41 and increasing effort past that doesn't give anymore bonuses.
+- Having 11 points of effort is the most cost efficient tier bonus, meaning it gives you the most bonuses for the least amount of points. You should raise your effort to 11 early in the game then stop increasing it and focus on increasing your other stats after that.
 
 <br>
 <br>
