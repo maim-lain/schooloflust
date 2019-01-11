@@ -278,7 +278,7 @@ No one | +1 Zoe
 ---
 
 ### Principal's office:
-- Trade coins for cash -> Only trade coins in 10s
+- Trade coins for cash -> Only trade coins in 10's
   - (This is because you only get a romance point if you trade 10 coins. You don't get any romance points if you trade 1 coin at a time, so you should only trade in 10's.)
   - You should have enough to at least trade twice, or three times if you're lucky (+3 Romance) (Received $30)
 - "Explain what's going on"
@@ -330,7 +330,7 @@ No one | +1 Zoe
 - Scarlett -> Talk
 - [Read my tips for the minigame here](https://github.com/maim-lain/schooloflust/blob/master/minigames.md#selling-sex-toys-for-scarlett)
 - You should try to sell all 12 items, but as long as you sell at least 9 then it's fine
-- *Completed sidequest: Job agency* (+1 Romance) (Received $24) (Received disguise)
+- *Completed sidequest: Job Agency* (+1 Romance) (Received $24) (Received disguise)
 - Enter the cafe to the right of the job agency
 
 ---
@@ -338,7 +338,7 @@ No one | +1 Zoe
 ### Cafe:
 - Violet -> Nothing... (+1 Romance)
 - Talk -> Ask the three questions -> That's all.
-- *New sidequest: Harassing the harasser*
+- *New sidequest: Harassing the Harasser*
 
 ---
 
