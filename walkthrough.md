@@ -1,4 +1,4 @@
-# School of Lust - v0.21c Walkthrough
+# School of Lust - 0.3.2b Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
