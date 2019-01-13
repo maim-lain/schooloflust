@@ -389,7 +389,7 @@ No one | +1 Zoe
 ---
 
 ### The Hole:
-- Explore all the rooms on Floor 0 and make sure to break all of the vases and open the chest
+- Explore all the rooms on Floor 1 and make sure to break all of the vases and open the chest
   - The new rooms are where all the closed gates from before were
   - I'm not going to write a step-by-step guide for the The Hole since it's pretty simple
   - The minimap in the top left shows the black rooms you haven't explored so you'll know where to go and if you've missed any rooms
@@ -463,7 +463,6 @@ No one | +1 Zoe
 
 ### Home:
 - Phone -> Messages
-- Bed -> Save game
 - Use the fridge (Received soda drink)
 - Front door -> Go outside
 - Violet -> Help Session #1
@@ -472,7 +471,6 @@ No one | +1 Zoe
 
 ### Harfort:
 - Think about all the fat you're burning! (+1 Effort)
-- Nurse -> Buy equipment -> Antiandrogen (-$25) (Received antiandrogen)
 
 ---
 
@@ -480,15 +478,15 @@ No one | +1 Zoe
 - Natalie -> Hypnotise
 - *Completed sidequest: Hypno Natalie #1*
 - *New sidequest: Hypno Natalie #2*
+- Drink Soda drinks from your inventory until you arousal is 9 or lower, then stop drinking them
 - Bed -> Save game
-- Go out the back door then go inside the garage and use the elevator
+- Go out the back door -> Garage -> Elevator
 
 ---
 
 ### The Hole:
 - Explore all the rooms on Floor 2, break all the vases, and open all the chests
-  - Using an antiandrogen will remove 30 arousal so use two once you get off the elevator
-  - It's possible to clear the floor without taking any damage but I'll assume you took 30 damage while fighting and needed to use another antiandrogen to heal
+  - Using an antiandrogen will remove 30-50 arousal, but try not to use them if you don't need to
   - A good strategy for exploring the floor is to go counterclockwise around the map
   - I'd recommend starting by going: Left -> Down -> Left, because in the third room a girl will charge at you as soon as you enter the room so it's best to go there when you start so you aren't caught off guard later
 - When you've explored everywhere leave Floor 2 by using the elevator (Received magic book volume 2)
@@ -507,7 +505,6 @@ No one | +1 Zoe
 
 ### Home:
 - Phone -> Messages
-- Bed -> Save game
 - Use the fridge (Received soda drink)
 - Front door -> Go outside
 - Violet -> Help Session #2
