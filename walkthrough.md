@@ -351,7 +351,7 @@ No one | +1 Zoe
 ### Cafe:
 - Enter the cafe
 - Go back inside -> Violet -> Talk
-- *Completed sidequest: Harassing the harasser*
+- *Completed sidequest: Harassing the Harasser*
 
 ---
 
@@ -389,9 +389,9 @@ No one | +1 Zoe
 ---
 
 ### The Hole:
-- Explore all the rooms in Floor 1 and make sure to break all of the vases and open the chest
-  - The new rooms are where all the gates from before were
-  - I'm not going to write step-by-step for the The Hole since it's really simple
+- Explore all the rooms on Floor 0 and make sure to break all of the vases and open the chest
+  - The new rooms are where all the closed gates from before were
+  - I'm not going to write a step-by-step guide for the The Hole since it's pretty simple
   - The minimap in the top left shows the black rooms you haven't explored so you'll know where to go and if you've missed any rooms
 - Enter the elevator and leave The Hole
 
@@ -400,24 +400,6 @@ No one | +1 Zoe
 ### My room:
 - Bed -> Sleep
 
----
-
-### Week 1 Progress Report:
-Stat | &nbsp; | &nbsp;
---- | :---: | :---:
-Charm | 1 | &nbsp;
-Effort | 13 | &nbsp;
-Knowledge | 4 | &nbsp;
-Floor # | 2 | &nbsp;
-&nbsp; | &nbsp; | &nbsp;
-Mom | Lvl 1 | 1/10
-Natalie | Lvl 1 | 5/10
-Scarlett | Lvl 1 | 0/10
-Violet | Lvl 0 | 3/5
-Sofia | Lvl 0 | 4/5
-Claire | Lvl 1 | 2/10
-Zoe | Lvl 0 | 0/5
-
 <br>
 <br>
 
@@ -425,19 +407,19 @@ Zoe | Lvl 0 | 0/5
 
 ### Home:
 - Bed -> Save game
-- Go to Natalie's room
+- Click on Natalie's door
 - Use the fridge (Received soda drink)
 - Front door -> Go outside
 - Playground -> Tell her it's you (+1 Romance)
-- *Completed sidequest: Call the wambulance!*
-- *New sidequest: Rescue the wambulance!*
+- *Completed sidequest: Call the Wambulance!*
+- *New sidequest: Rescue the Wambulance!*
 
 ---
 
 ### Harfort:
 - Add all the numbers (+1 Knowledge)
 - Principle's office -> Principle -> Trade coins
-- Trade 10 coins twice (+2 Romance) (Received $20)
+- Trade 10 coins as many times as you can
 
 ---
 
