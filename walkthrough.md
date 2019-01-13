@@ -356,13 +356,12 @@ No one | +1 Zoe
 ---
 
 ### Town:
-- Go south and talk to Zoe
-- Talk -> Ask the four questions -> That's all.
+- Zoe -> Talk -> Ask the four questions -> That's all.
 
 ---
 
 ### My room:
-- Since many people don't seem to understand the fight.. it's explained [here](http://tvtropes.org/pmwiki/pmwiki.php/Main/HopelessBossFight)
+- Since many people don't seem to understand the fight, [you are meant to lose](http://tvtropes.org/pmwiki/pmwiki.php/Main/HopelessBossFight)
 - Bed -> Sleep
 
 ---
@@ -381,20 +380,9 @@ No one | +1 Zoe
 ---
 
 ### Harfort:
-- Change clothes
-- Locker #13 -> Save game
-
----
-
-### Basketball court:
-- You can complete Sofia's sidequest whenever you want by doing: Sofia -> Talk -> Give dildo (+5 Romance)
-- However I think it makes her look dumb and prefer her holding the lollipop so I'm going to wait until later to complete it
-- *Completed sidequest: Sofia's unusual request*
+- Sofia -> Talk -> Give dildo (+5 Romance)
+- *Completed sidequest: Sofia's Unusual Request*
 - Sofia -> Play ball -> 3/3 baskets (+3 Effort) (+1 Romance)
-
----
-
-### Harfort:
 - Locker #13 -> Save game
 - Utility room -> Elevator
 
