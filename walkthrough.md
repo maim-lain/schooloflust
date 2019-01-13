@@ -530,11 +530,10 @@ No one | +1 Zoe
 
 ### Home:
 - Phone -> Messages
-- Bed -> Save game
 - Use the fridge (Received soda drink)
 - Mom -> Give her $100 (+1 Romance)
-- *Completed sidequest: Mom the bum*
-- *New sidequest: A large debt*
+- *Completed sidequest: Mom the Bum*
+- *New sidequest: A Large Debt*
 
 ---
 
