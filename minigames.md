@@ -65,12 +65,13 @@ Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 
 ## Antiandrogen and Soda:
 - Antiandrogen: idk - idk
-- Soda: idk - idk. cannot drink soda in the Hole. Drink before you enter the Hole.
+- Soda: idk - idk
+  - cannot drink soda in the Hole. Drink before you enter the Hole.
 
 <br>
 <br>
 
-### Romance bonus from gifts:
+## Romance bonus from gifts:
 Item | Mom | Natalie | Scarlett | Violet | Sofia
 --- | :---: | :---: | :---: | :---: | :---:
 **$25** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
