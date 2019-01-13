@@ -39,42 +39,28 @@
 <br>
 
 ## Mom the Bum
-**Description:**  
-You find Mom drunk on the couch. What's going on?
-
-**Objectives:**  
-#1 - Talk to Mom on the couch in the living room.  
-#2 - Talk to Mom when she's not asleep.  
-#3 - Give $100 to Mom.
-
-**Walkthrough:**  
-- At night go to the living room and talk to Mom
-- In the morning on a weekday talk to Mom and give her $100 (+1 Romance)
+- Talk to Mom in the morning on a weekday and give her $100 (+1 Romance)
 
 <br>
 <br>
 
 ## Mom No Longer a Bum
-**Description:**  
-Mom was offered a new job by Uncle Gip at his place in town, however she seems rather secretive about it.
-
-**Objectives:**  
-#1 - Figure out where Mom works.  
+**Requirements:**  
+- Complete the sidequest: Mom the Bum
+- Complete the sidequest: Finding a Disguise
 
 **Walkthrough:**  
-- incomplete
+- Go to Mom's room and read the diary on her nightstand
+- When it's evening go to town and enter the Bunny Bar
 
 <br>
 <br>
 
 ## Natalie's Peeping Tom
-**Description:**  
-You find out that the neighbor, who is a cop, has been stalking Natalie. You need to find a way to stop him.
+**Requirements:**  
+- Quest becomes available on 9/11
   
 **Objectives:**  
-#1 - Talk to the neighbor hiding under the tree.  
-#2 - Hold on to the neighbor's box.  
-#3 - Find out if Natalie stole the box.  
 #4 - Buy a drill from the shopping mall in town.  
 #5 - Look inside the peephole in your bedroom.  
 #6 - Wait till Natalie comes out of her bedroom.  
@@ -85,27 +71,21 @@ You find out that the neighbor, who is a cop, has been stalking Natalie. You nee
 #11 - Give the picture of her boobs to the neighbor.  
 
 **Walkthrough:**  
-- Becomes available on 9/11
 - Outside your house -> Talk to Neighbor
 - After a day passes go to Natalie's room in the morning
-- Shopping mall -> Buy drill (-$30) (Received drill)
-- Bed -> Peephole
+- Shopping mall -> Buy drill (-$30) -> Bed -> Peephole
 - incomplete
 
 <br>
 <br>
 
 ## Hypno Natalie #1
-**Description:**  
-You are looking for someone to help you with your hypnosis training. Talk to Natalie and select hypnosis.
-  
-**Objectives:**  
-#1 - Hypnotise Natalie
+**Requirements:**  
+- Becomes available on 9/9
+- Knowledge = 3+
 
 **Walkthrough:**  
-- Becomes available on 9/9
 - Library -> Search bookcase (Received magic book volume 1)
-- Knowledge = 3
 - Your room -> Inventory -> Magic book volume 1
 - Quest becomes advanceable on 9/12
 - Complete objective #6 in the sidequest: Natalie's Peeping Tom
