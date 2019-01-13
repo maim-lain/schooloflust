@@ -12,7 +12,7 @@
 <br>
 <br>
 
-### Basketball with Sofia:
+## Basketball with Sofia:
 Baskets | Reward
 :---: | ---
 0  | +1 Effort, +1 Romance
@@ -32,7 +32,7 @@ Tips and info:
 <br>
 <br>
 
-### Selling sex toys for Scarlett:
+## Selling sex toys for Scarlett:
 - There are 12 people that you can sell toys to and they always start in the same place, but will move around randomly after they spawn. The majority of them spawn outside of the job agency and south of the job agency so it's best to focus on those areas first.
 - The amount of money you get is the # of items you sold multiplied by 2. So if you sell 12 you get $24. If you sell 9-12 items then you also get +1 Romance with Scarlett.
 - This minigame is easy albeit somewhat frustrating at the same time since your character's pathing can screw up and clicking on people isn't very responsive. But you'll usually be able to sell to all 12 people with 7-10 seconds to spare.
@@ -41,7 +41,7 @@ Tips and info:
 <br>
 <br>
 
-### Effort Combat Bonus:
+## Effort Combat Bonus:
 Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 --- | :---: | :---: | :---: | :---:
 1 | 8-10 | 5-9 | 4 | 1
@@ -59,6 +59,13 @@ Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 
 - Currently, having effort higher than 41 is not useful. You can get the maximum bonus at 41 and increasing effort past that doesn't give anymore bonuses.
 - Having 11 points of effort is the most cost efficient tier bonus, meaning it gives you the most bonuses for the least amount of points. You should raise your effort to 11 early in the game then stop increasing it and focus on increasing your other stats after that.
+
+<br>
+<br>
+
+## Antiandrogen and Soda:
+- Antiandrogen: idk - idk
+- Soda: idk - idk. cannot drink soda in the Hole. Drink before you enter the Hole.
 
 <br>
 <br>
