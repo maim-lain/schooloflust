@@ -458,6 +458,7 @@ No one | +1 Zoe
 ---
 
 <br>
+<br>
 
 # 9/13 (Tue)
 
@@ -500,6 +501,7 @@ No one | +1 Zoe
 ---
 
 <br>
+<br>
 
 # 9/14 (Wed)
 
@@ -525,6 +527,7 @@ No one | +1 Zoe
 ---
 
 <br>
+<br>
 
 # 9/15 (Thu)
 
@@ -537,35 +540,41 @@ No one | +1 Zoe
 
 ---
 
+<br>
+<br>
+
+# 9/16 (Fri)
+
+### Home:
+- Mom -> Talk
+- *New sidequest: Mom No Longer a Bum*
+- Mom's room -> Nightstand
+- Use the fridge (Received soda drink)
+
+---
+
+
+
+
+
+
+
+
 ### Harfort:
 - 6+7 -> 13-5 -> 8\*6 (+1 Knowledge)
 
 <br>
 <br>
 
-I forgot that someone sent me this a while ago. It was tips they had for the next few days after my walkthrough stopped. I haven't read it yet so I'm not sure if they are choices I would have made, but here it is if you still need help.
 ```
-9/15
-After giving money the mom, go to the school, English litrature class is on,
-I get by randomly 2 questions answers were: boner and nudes,
-questions are about lewd stuff, go to uncle and agree with the shop,
-place toys on to the shelves and open the shop first time
-
 9/16
-save from bed
-talk to mom (new quest: mum no longer a bum)
-talk to her again
-give her 5$ and get charm & romance (there is a chance to get extra charm)
-go to school get charm
 come home hypnotise Natalie
 read hypnotise book part 2
 hypnotise Natalie through peephole
 sleep
 
 9/17
-have breakfast with mom and sis
 read mom's diary
-go to fridge and get soda
 go to town to bunny bar
 talk to fat guy and give him money
 get Natalie a new top
@@ -602,11 +611,6 @@ Antiandrogen.
 (can save game in town!!)
 
 
-Friday:
-mom stuff
-new quest
-class - +1 charm (nothing else special)
-
 
 gift bear to violet + hangout - 3 left
 hang
@@ -619,9 +623,7 @@ help sidequest
 
 sis top - $50
 
-larger breasts - maybe check the variable again when new version comes out?
 
-take out all unessacary saves?
 
 - squre in front of school has comment for what happens each day
 - answers for all math day stuff are on teacher event
