@@ -76,7 +76,7 @@
 ---
 
 #### Scene 12 - Sofia (hypnosis)
-- Complete the first four steps in the sidequest: Hypno Natalie #1
+- Complete the sidequest: Hypno Natalie #1
 - Occurs on 9/16
 
 ---
