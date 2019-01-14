@@ -24,9 +24,10 @@
 [Job Agency](https://github.com/maim-lain/schooloflust/blob/master/quests.md#job-agency)
 
 **Violet:**  
-[Harassing the Harasser](https://github.com/maim-lain/schooloflust/blob/master/quests.md#harassing-the-harasser)  
-[Call the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#call-the-wambulance)  
-[Rescue the Wambulance!](https://github.com/maim-lain/schooloflust/blob/master/quests.md#rescue-the-wambulance)
+[Harassing the Harasser](#harassing-the-harasser)  
+[Call the Wambulance!](#call-the-wambulance)  
+[Rescue the Wambulance!](#rescue-the-wambulance)
+[Catch that Pussy](#catch-that-pussy)
 
 **Sofia:**  
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)
