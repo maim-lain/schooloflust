@@ -64,9 +64,10 @@ Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 <br>
 
 ## Antiandrogen and Soda:
-- Antiandrogen: idk - idk
-- Soda: idk - idk
-  - cannot drink soda in the Hole. Drink before you enter the Hole.
+- Antiandrogen: Removes 30-50 arousal
+- Soda drink: Removes 5-10 arousal
+  - You can get a free soda drink every day from the fridge.
+  - You can't drink the soda while you are in the hole, so you should use them before you enter the Hole.
 
 <br>
 <br>
