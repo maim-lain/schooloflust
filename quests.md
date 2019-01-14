@@ -26,7 +26,7 @@
 **Violet:**  
 [Harassing the Harasser](#harassing-the-harasser)  
 [Call the Wambulance!](#call-the-wambulance)  
-[Rescue the Wambulance!](#rescue-the-wambulance)
+[Rescue the Wambulance!](#rescue-the-wambulance)  
 [Catch that Pussy](#catch-that-pussy)
 
 **Sofia:**  
