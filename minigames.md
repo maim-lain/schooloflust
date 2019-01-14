@@ -69,7 +69,7 @@ Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 - Soda drink:
   - Removes 5-10 arousal
   - You can get a free soda drink every day from your fridge
-  - You can't drink the soda while you are in the hole, so you should use them before you enter the Hole
+  - The sodas can't be used while you are in the Hole, so you should use them before you enter it
 
 <br>
 <br>
