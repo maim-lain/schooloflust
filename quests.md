@@ -172,6 +172,16 @@
 
 <br>
 <br>
+
+### Catch that Pussy
+**Requirements:**  
+- Complete the sidequest: Mom No Longer a Bum
+
+**Objectives:**  
+- Go to the cafe in town
+
+<br>
+<br>
 <br>
 
 # Sofia
