@@ -81,8 +81,8 @@
 
 ## Hypno Natalie #1
 **Requirements:**  
-- Becomes available on 9/9
-- Knowledge = 3+
+- Quest becomes available on 9/9
+- 3 Knowledge
 
 **Walkthrough:**  
 - Library -> Search bookcase (Received magic book volume 1)
@@ -95,18 +95,17 @@
 <br>
 
 ## Hypno Natalie #2
-**Description:**  
-Natalie agreed to help you with your hypnosis training.
+**Requirements:**  
+- Complete the sidequest: Hypno Natalie #1
+- 6 Knowledge
 
 **Objectives:**  
 #1 - Look through the peephole tonight to see if hypnotizing Natalie worked.  
 #2 - Go back and hypnotize Natalie again.
 
 **Walkthrough:**  
-- Complete the sidequest: Hypno Natalie #1
 - Night -> Bed -> Peephole
 - Complete Floor 2 in The Hole (Received magic book volume 2)
-- Knowledge = 6
 - Your room -> Inventory -> Magic book volume 2
 - incomplete
 
@@ -114,30 +113,20 @@ Natalie agreed to help you with your hypnosis training.
 <br>
 
 ## Job Agency
-**Description:**  
-You're in dire need of money, so you decided to look for a job by going to the job agency in town.
-
-**Objectives:**  
-#1 - Go to the job agency in town, and find a job.
+**Requirements:**  
+- Quest becomes available on 9/10
 
 **Walkthrough:**  
-- Becomes available on 9/10
 - Talk to Scarlett at the job agency in town
 
 <br>
 <br>
 
 ## Harassing the Harasser
-**Description:**  
-Violet asked you to harass her in the cafe in town in front of her father, while in a disguise. Violet told you to check out the job agency next door to the cafe to find a disguise.
-  
-**Objectives:**  
-#1 - Find a disguise at the job agency.  
-#2 - Go to the cafe in the evening.  
-#3 - Go back to Violet while she's working in the cafe. 
+**Requirements:**  
+- Complete the sidequest: Job Agency
 
 **Walkthrough:**  
-- Complete the sidequest: Job Agency
 - Cafe -> Violet -> Talk -> Optional: Ask the three questions -> That's all.
 - Enter the cafe when it's evening
 - Go back inside -> Violet -> Talk
@@ -146,14 +135,10 @@ Violet asked you to harass her in the cafe in town in front of her father, while
 <br>
 
 ## Call the Wambulance!
-**Description:**  
-Someone is calling for help from the playground near your house.
-  
-**Objectives:**  
-#1 - Find out who needs help in the morning.
+**Requirements:**  
+- Complete the sidequest: Harassing the Harasser
 
 **Walkthrough:**  
-- Complete the sidequest: Harassing the Harasser
 - In the morning go outside to the playground
 - Tell her it's you (+1 Romance)
 
@@ -161,19 +146,15 @@ Someone is calling for help from the playground near your house.
 <br>
 
 ## Rescue the Wambulance!
-**Description:**  
-You found Violet stuck on the playground inside the tire swing. Try to help her again tomorrow morning.
-
-**Objectives:**  
-#1 - Complete the first 3 tire swing help sessions.
+**Requirements:**  
+- Complete the sidequest: Call the Wambulance!
+- 3 Charm
 
 **Walkthrough:**  
-- Complete the sidequest: Call the Wambulance!
 - In the morning at the playground talk to Violet
 - Help Session #1
 - In the northeast part of town go to the food stall and buy cooking oil (-$5)
-- Charm = 3
-- Help Session #2 -> I'm admiring your butt. (+1 Romance)
+- Help Session #2 -> "I'm admiring your butt" (+1 Romance)
 - Violet romance level = 2
 - Help Session #3 -> ?
 - incomplete
@@ -182,12 +163,6 @@ You found Violet stuck on the playground inside the tire swing. Try to help her 
 <br>
 
 ## Sofia's Unusual Request
-**Description:**  
-Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
-
-**Objectives:**  
-#1 - Find Sofia something that has the shape of your penis.
-
 **Walkthrough:**  
 - Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
 - Once you start exploring Floor 1 of The Hole go to room 3 and open the chest (Received dildo)
@@ -197,14 +172,6 @@ Sofia has sent you on a mysterious quest to fetch an unusually shaped item.
 <br>
 
 ## Claire's Novel
-**Description:**  
-Claire has lost the novel she wrote. She last saw it in her dormitory room.
-
-**Objectives:**  
-#1 - Search around the dormitory for Claire's novel.  
-#2 - Catch the cat that has Claire's novel stuck on its head!  
-#3 - Give the novel back to Claire.  
-
 **Walkthrough:**  
 - Library -> Claire -> Talk -> Optional: Ask the three questions -> That's all.
 - Search the dumpster behind the school
