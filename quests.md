@@ -38,13 +38,15 @@
 <br>
 <br>
 
-## Mom the Bum
+# Mom
+
+### Mom the Bum
 - Talk to Mom in the morning on a weekday and give her $100 (+1 Romance)
 
 <br>
 <br>
 
-## Mom No Longer a Bum
+### Mom No Longer a Bum
 **Requirements:**  
 - Complete the sidequest: Mom the Bum
 - Complete the sidequest: Finding a Disguise
@@ -55,8 +57,11 @@
 
 <br>
 <br>
+<br>
 
-## Natalie's Peeping Tom
+# Natalie
+
+### Natalie's Peeping Tom
 **Requirements:**  
 - Quest becomes available on 9/11
   
@@ -79,7 +84,7 @@
 <br>
 <br>
 
-## Hypno Natalie #1
+### Hypno Natalie #1
 **Requirements:**  
 - Quest becomes available on 9/9
 - 3 Knowledge
@@ -94,7 +99,7 @@
 <br>
 <br>
 
-## Hypno Natalie #2
+### Hypno Natalie #2
 **Requirements:**  
 - Complete the sidequest: Hypno Natalie #1
 - 6 Knowledge
@@ -111,8 +116,11 @@
 
 <br>
 <br>
+<br>
 
-## Job Agency
+# Scarlett
+
+### Job Agency
 **Requirements:**  
 - Quest becomes available on 9/10
 
@@ -121,8 +129,11 @@
 
 <br>
 <br>
+<br>
 
-## Harassing the Harasser
+# Violet
+
+### Harassing the Harasser
 **Requirements:**  
 - Complete the sidequest: Job Agency
 
@@ -134,7 +145,7 @@
 <br>
 <br>
 
-## Call the Wambulance!
+### Call the Wambulance!
 **Requirements:**  
 - Complete the sidequest: Harassing the Harasser
 
@@ -145,7 +156,7 @@
 <br>
 <br>
 
-## Rescue the Wambulance!
+### Rescue the Wambulance!
 **Requirements:**  
 - Complete the sidequest: Call the Wambulance!
 - 3 Charm
@@ -161,8 +172,11 @@
 
 <br>
 <br>
+<br>
 
-## Sofia's Unusual Request
+# Sofia
+
+### Sofia's Unusual Request
 **Walkthrough:**  
 - Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
 - Once you start exploring Floor 1 of The Hole go to room 3 and open the chest (Received dildo)
@@ -170,8 +184,11 @@
 
 <br>
 <br>
+<br>
 
-## Claire's Novel
+# Claire
+
+### Claire's Novel
 **Walkthrough:**  
 - Library -> Claire -> Talk -> Optional: Ask the three questions -> That's all.
 - Search the dumpster behind the school
