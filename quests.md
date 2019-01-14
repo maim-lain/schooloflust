@@ -176,10 +176,12 @@
 
 ### Catch that Pussy
 **Requirements:**  
-- Complete the sidequest: Mom No Longer a Bum
+- Quest becomes available on 9/19
+- Complete the sidequest: Harassing the Harasser
 
-**Objectives:**  
+**Walkthrough:**  
 - Go to the cafe in town
+- incomplete
 
 <br>
 <br>
