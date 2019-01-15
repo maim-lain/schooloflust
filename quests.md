@@ -201,7 +201,8 @@
 **Walkthrough:**  
 - Enter your Lust Toys business in town
 - Violet's house -> Talk to Violet
-- Talk to your mom ->
+- Talk to your mom -> Mom's room -> Closet
+- Violet's house -> Talk to Violet
 
 ---
 
