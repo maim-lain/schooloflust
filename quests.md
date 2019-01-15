@@ -233,7 +233,7 @@
 ### Milk Stand
 **Walkthrough:**  
 - Quest becomes available on 9/???????????????????
-- Buy milk from the stand in your neighborhood
+- Buy milk from the stand in your neighborhood -> Go back home
 
 
 <br>
