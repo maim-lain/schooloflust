@@ -40,7 +40,7 @@
 [Milk Stand](#milk-stand)
 
 **Gip:**  
-[?](#)
+[Hungry Old Man](#hungry-old-man)
 
 <br>
 <br>
@@ -238,7 +238,7 @@
 
 ### Milk Stand
 **Walkthrough:**  
-- Quest becomes available on 9/???????????????????
+- Quest becomes available on 9/25
 - Buy milk from the stand in your neighborhood -> Go back home
 
 ---
@@ -248,6 +248,10 @@
 
 # Gip
 
-### ?
+### Hungry Old Man
+**Requirements:**  
+- Complete the sidequest: Milk Stand
+
 **Walkthrough:**  
+- Mom's room -> Talk to Gip
 - ?
