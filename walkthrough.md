@@ -551,8 +551,6 @@ No one | +1 Zoe
 - Mom's room -> Nightstand
 - Use the fridge (Received soda drink)
 
----
-
 <br>
 <br>
 
@@ -560,8 +558,6 @@ No one | +1 Zoe
 
 ### Harfort:
 - 9-1 -> 8+6 -> 14+10
-
----
 
 <br>
 <br>
@@ -571,10 +567,6 @@ No one | +1 Zoe
 ### Harfort:
 - ? -> ? -> ?
 
----
-
-<br>
-<br>
 <br>
 <br>
 <br>
