@@ -65,22 +65,20 @@
 ### Natalie's Peeping Tom
 **Requirements:**  
 - Quest becomes available on 9/11
-  
-**Objectives:**  
-#4 - Buy a drill from the shopping mall in town.  
-#5 - Look inside the peephole in your bedroom.  
-#6 - Wait till Natalie comes out of her bedroom.  
-#7 - Buy Natalie a new cami top from the shopping mall.  
-#8 - Tell the neighbor that you lost his box.  
-#9 - Talk to Natalie, and ask her if you can take a picture of her boobs.  
-#10 - Go to the cafe, and find a way to take a picture of Violet's boobs.  
-#11 - Give the picture of her boobs to the neighbor.  
 
 **Walkthrough:**  
 - Outside your house -> Talk to Neighbor
 - After a day passes go to Natalie's room in the morning
 - Shopping mall -> Buy drill (-$30) -> Bed -> Peephole
-- incomplete
+- Look inside the peephole
+- Shopping mall -> Buy cami top (-$50)
+- Talk to the neighbor
+- Natalie route:
+  - ?
+- Violet route:
+  - Violet -> Spend time in cafe (-$5) (+2 Charm) (+1 Romance)
+  - Cherish this moment (+1 Romance)
+- Talk to the neighbor
 
 <br>
 <br>
