@@ -10,7 +10,7 @@
 
 <br>
 
-[**School of Lust - v0.21c Incest Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
+[**School of Lust - v0.21c "Patch"**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
 
 <br>
 <br>
