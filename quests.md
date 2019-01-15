@@ -108,7 +108,7 @@
 - Complete Floor 2 in The Hole (Received magic book volume 2)
 - Your room -> Inventory -> Magic book volume 2
 - Complete the first three hypno sessions
-- 9 Knowledge -> Magic book volue 3
+- 9 Knowledge -> Magic book volume 3
 
 <br>
 <br>
