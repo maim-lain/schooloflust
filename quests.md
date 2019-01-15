@@ -163,8 +163,7 @@
 - In the northeast part of town go to the food stall and buy cooking oil (-$5)
 - Help Session #2 -> "I'm admiring your butt" (+1 Romance)
 - Violet romance level = 2
-- Help Session #3 -> ?
-- incomplete
+- Help Session #3 -> "Don't ask for anything" (+4 Romance)
 
 <br>
 <br>
