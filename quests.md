@@ -254,4 +254,5 @@
 
 **Walkthrough:**  
 - Mom's room -> Talk to Gip
-- ?
+- Town -> Food stand -> Buy alcohol and a sausage (-$30)
+- Return to Gip (+100 coins)
