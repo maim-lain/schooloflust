@@ -55,8 +55,8 @@
 
 ---
 
-#### Scene 8 - 
--
+#### Scene 8 - Mom (bunny bar)
+- Complete the sidequest: Mom No Longer a Bum
 
 ---
 
@@ -81,8 +81,9 @@
 
 ---
 
-#### Scene 13 - 
--
+#### Scene 13 - Violet (hypnosis
+- Complete the sidequest: Hypno Natalie #1
+- Occurs on 9/23
 
 ---
 
@@ -101,8 +102,8 @@
 
 ---
 
-#### Scene 17 - 
--
+#### Scene 17 - Violet (cat fight)
+- Complete the sidequest: Catch that Pussy
 
 ---
 
