@@ -579,11 +579,9 @@ No one | +1 Zoe
 <br>
 <br>
 
-**Because of how the arousal system works, it's not possible to write a full walkthrough for the rest of the game. If you ever get stuck or need help, check the quest guide:**  
+Because of how the arousal system works, it's not possible to write a day by day walkthrough for the rest of the game. If you need help, check the quest guide:  
 - [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)
 
-<br>
-<br>
 <br>
 <br>
 <br>
