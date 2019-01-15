@@ -562,6 +562,14 @@ No one | +1 Zoe
 <br>
 <br>
 
+# 9/20 (Tues)
+
+### Harfort:
+- Talk to Claire before starting class (+1 Romance)
+
+<br>
+<br>
+
 # 9/21 (Wed)
 
 ### Harfort:
