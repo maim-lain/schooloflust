@@ -28,13 +28,16 @@
 [Call the Wambulance!](#call-the-wambulance)  
 [Rescue the Wambulance!](#rescue-the-wambulance)  
 [Catch that Pussy](#catch-that-pussy)
-[Lust Toys: Violet](#catch-that-pussy)
+[Lust Toys: Violet](#lust-toys-violet)
 
 **Sofia:**  
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)
 
 **Claire:**  
 [Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)
+
+**Aiyana:**  
+[Milk Stand](#milk-stand)
 
 <br>
 <br>
@@ -217,3 +220,25 @@
 - Library -> Claire -> Talk -> Optional: Ask the three questions -> That's all.
 - Search the dumpster behind the school
 - Return Claire's novel (+5 Romance)
+
+<br>
+<br>
+<br>
+
+# Aiyana
+
+### Milk Stand
+**Walkthrough:**  
+- Quest becomes available on 9/19
+- Buy milk from the stand in your neighborhood
+
+
+<br>
+<br>
+<br>
+
+# Gip
+
+### ?
+**Walkthrough:**  
+- ?
