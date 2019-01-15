@@ -31,10 +31,11 @@
 [Lust Toys: Violet](#lust-toys-violet)
 
 **Sofia:**  
-[Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)
+[Sofia's Unusual Request](#sofias-unusual-request)
+[Lust Toys: Sofia](#lust-toys-sofia)
 
 **Claire:**  
-[Claire's Novel](https://github.com/maim-lain/schooloflust/blob/master/quests.md#claires-novel)
+[Claire's Novel](#claires-novel)
 
 **Aiyana:**  
 [Milk Stand](#milk-stand)
@@ -217,6 +218,17 @@
 - Basketball court -> Sofia -> Talk -> Ask the three questions -> That's all.
 - Once you start exploring Floor 1 of The Hole go to room 3 and open the chest (Received dildo)
 - Basketball court -> Sofia -> Talk -> Give dildo (+5 Romance)
+
+<br>
+<br>
+
+### Lust Toys: Sofia
+**Requirements:**  
+- Complete the sidequest: Lust Toys: Violet
+
+**Walkthrough:**  
+- Hire Violet and talk to her while selling items in the shop
+- ?
 
 ---
 
