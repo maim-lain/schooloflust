@@ -65,13 +65,13 @@
 
 ---
 
-#### Scene 10 - 
--
+#### Scene 10 - Natalie (peephole)
+- Complete Natalie's hypnosis event #5
 
 ---
 
-#### Scene 11 - 
--
+#### Scene 11 - Violet (tireswing)
+- Complete Violet's tireswing help session #4
 
 ---
 
@@ -92,12 +92,13 @@
 
 ---
 
-#### Scene 15 - 
--
+#### Scene 15 - Claire (hypnosis)
+- Read magic book #2
+- Occurs on 9/30
 
 ---
 
-#### Scene 16 - 
+#### Scene 16 - Natalie & Mom (breakfast)
 -
 
 ---
