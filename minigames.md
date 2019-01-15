@@ -78,28 +78,28 @@ Effort | Damage | Bullet Damage | Bullet Range | Bullet Size
 Item | Mom | Natalie | Scarlett | Violet | Sofia
 --- | :---: | :---: | :---: | :---: | :---:
 **$25** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Ball of yarn | f | f | f | f | 0
-Seashell | f | f | f | f | 1
-Lollipop | f | f | f | f | 2
+Ball of yarn | f | 1 | f | f | 0
+Seashell | f | 0 | f | f | 1
+Lollipop | f | 2 | f | f | 2
 **$50** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Pen | f | f | f | f | 1
-Romance novel | f | f | f | f | 4
-Flowers | f | f | f | f | 0
-Teddy bear | f | f | f | f | 5
+Pen | f | 2 | f | f | 1
+Romance novel | f | 0 | f | f | 4
+Flowers | f | 5 | f | f | 0
+Teddy bear | f | 2 | f | f | 5
 **$150** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Silver ring | f | f | f | f | 15
-Purse | f | f | f | f | 10
-Gem | f | f | f | f | 5
+Silver ring | f | 5 | f | f | 15
+Purse | f | 15 | f | f | 10
+Gem | f | 5 | f | f | 5
 **$250** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Mirror | f | f | f | f | 10
-Cross | f | f | f | f | 25
-Golden ring | f | f | f | f | 50
-Shoes | f | f | f | f | 10
+Mirror | f | 50 | f | f | 10
+Cross | f | 10 | f | f | 25
+Golden ring | f | 10 | f | f | 50
+Shoes | f | 25 | f | f | 10
 **$500** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Bracelet | f | f | f | f | 100
-Dress | f | f | f | f | 0
-Mobile phone | f | f | f | f | 150
+Bracelet | f | 50 | f | f | 100
+Dress | f | 100 | f | f | 0
+Mobile phone | f | 158 | f | f | 150
 **$1000** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-Notebook | f | f | f | f | 250
-Necklace | f | f | f | f | 100
-Katana | f | f | f | f | 500
+Notebook | f | 500 | f | f | 250
+Necklace | f | 250 | f | f | 100
+Katana | f | 100 | f | f | 500
