@@ -553,18 +553,35 @@ No one | +1 Zoe
 
 ---
 
+<br>
+<br>
 
+# 9/19 (Mon)
 
+### Harfort:
+- 9-1 -> 8+6 -> 14+10
 
+---
 
+<br>
+<br>
 
+# 9/21 (Wed)
 
+### Harfort:
+- ? -> ? -> ?
+
+---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Harfort:
 - 6+7 -> 13-5 -> 8\*6 (+1 Knowledge)
-
-<br>
-<br>
 
 ```
 9/16
@@ -591,41 +608,11 @@ my room, peephole hypnosis (you can give her the dildo and have her way with it)
 
 <!---
 
-so sunday violet is available at playground, but i skip the scene to read teh book which i cant even use yet though...
-
-Keep track of:
-Money
-Violet romance level
-Antiandrogen.
-
-
-3/4:
-- Once you've played past the first week, if you reach 100 arousal the game will penalize you and you will deviate a bit from the walkthrough. If this happens then you should reload your your last save and use an antiandrogen to lower your arousal and make sure it doesn't reach 100.
-
-
-- room read book
-
-- hypno nat
-
-- shop stuff
 (can save game in town!!)
-
-
-
-gift bear to violet + hangout - 3 left
-hang
-hang
-hang
-hang (one extra if didn't pick)
-help sidequest
-
-
 
 sis top - $50
 
-
-
 - squre in front of school has comment for what happens each day
-- answers for all math day stuff are on teacher event
+- answers for all math day stuff are on teacher event (actually black board)
 
 --->
