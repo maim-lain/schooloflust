@@ -28,6 +28,7 @@
 [Call the Wambulance!](#call-the-wambulance)  
 [Rescue the Wambulance!](#rescue-the-wambulance)  
 [Catch that Pussy](#catch-that-pussy)
+[Lust Toys: Violet](#catch-that-pussy)
 
 **Sofia:**  
 [Sofia's Unusual Request](https://github.com/maim-lain/schooloflust/blob/master/quests.md#sofias-unusual-request)
@@ -109,6 +110,8 @@
 - Your room -> Inventory -> Magic book volume 2
 - Complete the first three hypno sessions
 - 9 Knowledge -> Magic book volume 3
+- Natalie romance level = 2
+- Complete hypno sessions 4 & 5
 
 <br>
 <br>
@@ -176,6 +179,20 @@
 **Walkthrough:**  
 - Warning: You won't be able to hang out with Violet at the cafe anymore after completing this quest
 - Go to the cafe in town -> Violet -> Talk
+
+<br>
+<br>
+
+### Lust Toys: Violet
+**Requirements:**  
+- Complete the sidequest: Mom No Longer a Bum
+- Complete the sidequest: Catch that Pussy
+- Violet romance level = 2
+
+**Walkthrough:**  
+- Enter your Lust Toys business in town
+- Violet's house -> Talk to Violet
+- Talk to your mom ->
 
 <br>
 <br>
