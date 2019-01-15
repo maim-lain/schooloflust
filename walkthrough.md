@@ -570,11 +570,20 @@ No one | +1 Zoe
 <br>
 <br>
 
-# 9/21 (Wed)
+# 9/2? (?)
 
 ### Harfort:
 - ? -> ? -> ?
 
+<br>
+<br>
+<br>
+
+**Because of how the arousal system works, it's not possible to write a full walkthrough for the rest of the game. If you ever get stuck or need help, check the quest guide:**  
+- [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -583,34 +592,9 @@ No one | +1 Zoe
 ### Harfort:
 - 6+7 -> 13-5 -> 8\*6 (+1 Knowledge)
 
-```
-9/16
-come home hypnotise Natalie
-read hypnotise book part 2
-hypnotise Natalie through peephole
-sleep
-
-9/17
-read mom's diary
-go to town to bunny bar
-talk to fat guy and give him money
-get Natalie a new top
-talk to neighbour
-choose one target Natalie or Violet (I've choosen Violet) 
-save from bed
-go to cafe and spend sometime
-I'll cherish this moment (get extra romance) romance up, charm up (chance for extra charm)
-go back to neighbour
-as it is saturday we need to go to the hole from tha garage
-(watch out! there is 4 enemies in some of the rooms)
-my room, peephole hypnosis (you can give her the dildo and have her way with it)
-```
-
 <!---
 
 (can save game in town!!)
-
-sis top - $50
 
 - squre in front of school has comment for what happens each day
 - answers for all math day stuff are on teacher event (actually black board)
