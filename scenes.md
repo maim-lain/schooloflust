@@ -110,3 +110,8 @@
 #### Scene 18 - Sofia (basketball butt)
 - Becomes available on 9/6
 - Go to the basketball court
+
+---
+
+#### Scene 19 - Mom (town booth)
+- Complete the quest: Blackmail #1
