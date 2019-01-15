@@ -63,7 +63,8 @@
 - Go to Mom's room and read the diary on her nightstand
 - When it's evening go to town and enter the Bunny Bar
 
-<br>
+---
+
 <br>
 <br>
 
@@ -119,7 +120,8 @@
 - Natalie romance level = 2
 - Complete hypno sessions 4 & 5
 
-<br>
+---
+
 <br>
 <br>
 
@@ -132,7 +134,8 @@
 **Walkthrough:**  
 - Talk to Scarlett at the job agency in town
 
-<br>
+---
+
 <br>
 <br>
 
@@ -200,7 +203,8 @@
 - Violet's house -> Talk to Violet
 - Talk to your mom ->
 
-<br>
+---
+
 <br>
 <br>
 
@@ -212,7 +216,8 @@
 - Once you start exploring Floor 1 of The Hole go to room 3 and open the chest (Received dildo)
 - Basketball court -> Sofia -> Talk -> Give dildo (+5 Romance)
 
-<br>
+---
+
 <br>
 <br>
 
@@ -224,7 +229,8 @@
 - Search the dumpster behind the school
 - Return Claire's novel (+5 Romance)
 
-<br>
+---
+
 <br>
 <br>
 
@@ -235,8 +241,8 @@
 - Quest becomes available on 9/???????????????????
 - Buy milk from the stand in your neighborhood -> Go back home
 
+---
 
-<br>
 <br>
 <br>
 
