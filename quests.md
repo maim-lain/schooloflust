@@ -178,8 +178,8 @@
 - Complete the sidequest: Harassing the Harasser
 
 **Walkthrough:**  
-- Go to the cafe in town
-- incomplete
+- Warning: You won't be able to hang out with Violet anymore at the cafe once you complete this quest
+- Go to the cafe in town -> Violet -> Talk
 
 <br>
 <br>
