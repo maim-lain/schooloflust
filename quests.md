@@ -203,6 +203,7 @@
 - Violet's house -> Talk to Violet
 - Talk to your mom -> Mom's room -> Closet
 - Violet's house -> Talk to Violet
+- Town -> Shopping mall -> Buy suit (-$50)
 
 ---
 
