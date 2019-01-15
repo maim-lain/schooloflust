@@ -103,15 +103,12 @@
 - Complete the sidequest: Hypno Natalie #1
 - 6 Knowledge
 
-**Objectives:**  
-#1 - Look through the peephole tonight to see if hypnotizing Natalie worked.  
-#2 - Go back and hypnotize Natalie again.
-
 **Walkthrough:**  
 - Night -> Bed -> Peephole
 - Complete Floor 2 in The Hole (Received magic book volume 2)
 - Your room -> Inventory -> Magic book volume 2
-- incomplete
+- Complete the first three hypno sessions
+- 9 Knowledge -> Magic book volue 3
 
 <br>
 <br>
