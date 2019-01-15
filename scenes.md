@@ -81,7 +81,7 @@
 
 ---
 
-#### Scene 13 - Violet (hypnosis
+#### Scene 13 - Violet (hypnosis)
 - Complete the sidequest: Hypno Natalie #1
 - Occurs on 9/23
 
