@@ -10,7 +10,7 @@
 
 <br>
 
-[**School of Lust - v0.32b Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
+[**School of Lust - v0.32b Patch**](https://www.patreon.com/posts/24006181)
 
 <br>
 <br>
