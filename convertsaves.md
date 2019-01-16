@@ -15,7 +15,7 @@
 - Go to ```/www/saves``` inside your old game folder and find the file#.rpgsave that you want to convert
 - In the patched game folder go to ```/www/saves```
 - Open ```RPGMakerMVSaveEditor``` then ```index.html``` to bring up the tab and with it open the save you want to convert
-- Select all the text and copy it into ```/www/saves/save.txt``` and then save and close the ```save.txt``` file
+- Select all the text and copy it into ```/www/saves/save.txt``` (delete any text in the file first) and then save and close the ```save.txt``` file
 - Open ```Save Converter``` and select an option
 - Open ```save.txt``` and select all the text and copy it
 - Delete all the text in the RPGM Save Editor html tab, paste the new text, and click 'save' to download your converted save
