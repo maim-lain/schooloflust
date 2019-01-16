@@ -1,4 +1,4 @@
-# School of Lust - v0.21c Incest Patch
+# School of Lust - v0.21c Patreon Patch
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -29,7 +29,6 @@ The link has been [taken down by the developers.](https://github.com/github/dmca
 - All game files have been decrypted
 - All non-animated images/CGs can now be opened/viewed in the game folder
 - I hid two small easter eggs (that have no impact on the game), who will be the first to find them?
-- **June 13th update - Added a save converter and fixed the Natalie bug.**
 
 <br>
 <br>
@@ -41,5 +40,5 @@ The link has been [taken down by the developers.](https://github.com/github/dmca
 <br>
 
 ## Converting game saves:
-- If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the incest patch, you can convert your saves back so they'll work with the unpatched game.
+- If you want to use your old saves with the incest patch they need to be converted first. If for some reason you no longer want to play with the patreon patch, you can convert your saves back so they'll work with the unpatched game.
 - [(Link to instructions)](https://github.com/maim-lain/schooloflust/blob/master/convertsaves.md)
