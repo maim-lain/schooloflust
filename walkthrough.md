@@ -569,6 +569,15 @@ No one | +1 Zoe
 
 <br>
 <br>
+<br>
+
+Because of how the arousal system works, it's not possible to write a day by day walkthrough for the rest of the game. If you need help, check the quest guide:  
+- [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)
+
+<!---
+
+<br>
+<br>
 
 # 9/2? (?)
 
@@ -576,15 +585,6 @@ No one | +1 Zoe
 - ? -> ? -> ?
 
 ---
-
-<br>
-<br>
-<br>
-
-Because of how the arousal system works, it's not possible to write a day by day walkthrough for the rest of the game. If you need help, check the quest guide:  
-- [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)
-
-<!---
 
 (can save game in town!!)
 
