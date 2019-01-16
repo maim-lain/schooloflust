@@ -1,4 +1,4 @@
-# School of Lust - 0.3.2b Walkthrough
+# School of Lust - 0.32b Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-[**School of Lust - v0.21c "Patch"**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
+[**School of Lust - v0.32b Patch**](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)
 
 <br>
 <br>
