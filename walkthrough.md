@@ -19,8 +19,6 @@
 **Some notes about the walkthrough:**  
 - The walkthrough can be used with both the unpatched game and the patched game. I'd recommend using my patch, but the walkthrough can be followed exactly the same without it.
 - Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
-- If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
-
 
 <br>
 <br>
