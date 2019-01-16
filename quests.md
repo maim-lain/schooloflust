@@ -27,11 +27,11 @@
 [Harassing the Harasser](#harassing-the-harasser)  
 [Call the Wambulance!](#call-the-wambulance)  
 [Rescue the Wambulance!](#rescue-the-wambulance)  
-[Catch that Pussy](#catch-that-pussy)
+[Catch that Pussy](#catch-that-pussy)  
 [Lust Toys: Violet](#lust-toys-violet)
 
 **Sofia:**  
-[Sofia's Unusual Request](#sofias-unusual-request)
+[Sofia's Unusual Request](#sofias-unusual-request)  
 [Lust Toys: Sofia](#lust-toys-sofia)
 
 **Claire:**  
