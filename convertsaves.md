@@ -3,12 +3,6 @@
 
 <br>
 
-- [Back to incest patch](https://github.com/maim-lain/schooloflust/blob/master/patreonpatch.md)  
- 
----
-
-<br>
-
 - When transfering saves, sometimes ingame at the load game screen the transfered save will be invisible or say that it is a different save. The file number of the save you transfered corresponds to which save you need to click ingame to load the save you transfered:
   - file1.rpgsave -> Autosave
   - file2.rpgsave -> Save #1
