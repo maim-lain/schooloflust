@@ -584,14 +584,6 @@ No one | +1 Zoe
 Because of how the arousal system works, it's not possible to write a day by day walkthrough for the rest of the game. If you need help, check the quest guide:  
 - [Quest Guide](https://github.com/maim-lain/schooloflust/blob/master/quests.md)
 
-<br>
-<br>
-<br>
-<br>
-
-### Harfort:
-- 6+7 -> 13-5 -> 8\*6 (+1 Knowledge)
-
 <!---
 
 (can save game in town!!)
