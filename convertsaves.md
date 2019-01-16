@@ -2,7 +2,7 @@
 
 <br>
 
-- When transfering saves, sometimes ingame at the load game screen the transfered save will be invisible or say that it is a different save. The file number of the save you transfered corresponds to which save you need to click ingame to load the save you transfered:
+- The file number of the save you want to convert corresponds to which save you need to click ingame to load the save you converted:
   - file1.rpgsave -> Autosave
   - file2.rpgsave -> Save #1
   - file3.rpgsave -> Save #2
