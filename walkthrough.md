@@ -107,8 +107,8 @@
 ### Floor 2:
 - Take the teddy bear (Received teddy bear)
 - Enter the principal's office
-- Y-yes, my Queen! (+1 Romance)
-- Go fuck yourself. (+1 Romance)
+- "Y-yes, my Queen!" (+1 Romance)
+- "Go fuck yourself." (+1 Romance)
 - Phone -> Messages
 
 ---
@@ -247,7 +247,7 @@ No one | +1 Zoe
 
 ### Entrance:
 - (Received utility room key, teddy bear+, and 2x drinks)
-- Pretend to drink it -> Ask the two questions -> I'm not going down there!
+- Pretend to drink it -> Ask the two questions -> "I'm not going down there!"
 
 ---
 
@@ -276,8 +276,8 @@ No one | +1 Zoe
 ---
 
 ### Principal's office:
-- Trade coins for cash -> Only trade coins in 10's
-  - (This is because you only get a romance point if you trade 10 coins. You don't get any romance points if you trade 1 coin at a time, so you should only trade in 10's.)
+- Trade coins for cash -> Only trade coins in 10's or 100's
+  - (This is because you only get a romance point if you trade 10 coins. You don't get any romance points if you trade 1 coin at a time, so you should only trade in 10's or 100s.)
   - You should have enough to at least trade twice, or three times if you're lucky (+3 Romance) (Received $30)
 - "Explain what's going on"
 
@@ -445,7 +445,7 @@ No one | +1 Zoe
 - When spending time in the cafe you have a 50% chance of getting an extra point of charm
   - The game will say "You received a compliment from Violet" when it happens
   - If you are using my patch you will always get the extra point
-  - If you aren't using my patch then you should always save the game before going to the cafe, and if you don't get the extra point reload your save and repeat until you get it
+  - If you aren't using my patch then you should save the game before going to the cafe, and if you don't get extra points reload your save and repeat until you get them
 - Violet -> Spend time in cafe (-$5) (+2 Charm) (+1 Romance)
 
 ---
