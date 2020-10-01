@@ -10,7 +10,7 @@
 
 <br>
 
-[**School of Lust - v0.32b Patch**](https://www.patreon.com/posts/24006181)
+[**School of Lust Incest Patch**](https://f95zone.to/threads/school-of-lust-incest-patch-v0-4-0c.24107/)
 
 <br>
 <br>
@@ -19,6 +19,7 @@
 **Some notes about the walkthrough:**  
 - The walkthrough can be used with both the unpatched game and the patched game. I'd recommend using my patch, but the walkthrough can be followed exactly the same without it.
 - Skipping the intro will prevent you from getting the day 1 romance point with the mom, so even if you are replaying the game you shouldn't skip the intro.
+- I'm super perfectionist, so you don't actually have to save-whore and get max points every time you play a mini-game even though the guide says so. That's just me being autistic and isn't actually necessary.
 
 <br>
 <br>
